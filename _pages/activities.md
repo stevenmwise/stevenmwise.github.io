@@ -5,26 +5,13 @@ permalink: /activities/
 published: true
 ---
 
-#### Call for Papers
-The following calls are open and wait for your submission. If you have any question, please contact me using the email in the footer.
-
-- [Paper Submission: February 28, 2023 - Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge)
-
-- [Paper Submission: March 31, 2023 - Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
-
-- [Paper Submission: April 1, 2023 - New achievements of precision medicine with artificial intelligence, Biomedical Signal Processing and Control, Elsevier](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control/about/call-for-papers)
-
-#### Awards
-0. Best Student Paper Award - Christian Sicari and Lorenzo Carnevale and Antonino Galletta and Massimo Villari. "*OpenWolf: a Serverless Workflow Engine for Native Cloud-Edge Continuum*". The 7th IEEE Cyber Science and Technology Congress (CyberSciTech)", September 2022, Falerna (CZ), Italy
-{: reversed="reversed"}
-
 #### Associate Editor
 0. [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai/sections/smart-sensor-networks-and-autonomy), section <i>Smart Sensor Networks and Autonomy</i>
 
 0. [Frontiers in the Internet of Things](https://www.frontiersin.org/journals/the-internet-of-things/sections/iot-enabling-technologies), section <i>IoT Enabling Technologies</i>
 {: reversed="reversed"}
 
-#### Conference and Workshop(s) * (Co-)Chair
+#### Conference and Workshop(s)
 0. [CCGrid 2023](http://cds.iisc.ac.in/faculty/simmhan/ccgrid2023//) - "<i>23rd International Symposium on Cluster, Cloud and Internet Computing</i>", May 2023, Bangalore, India
 
 0. [MobiCASE 2022](https://mobicase.eai-conferences.org/2022) - "<i>13th EAI International Conference on Mobile Computing, Applications and Services</i>", November 2022, Messina, Italy
