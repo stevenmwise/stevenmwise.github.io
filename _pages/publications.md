@@ -8,24 +8,37 @@ published: true
 ## Books
 
 #### 2023
-Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehensive Course," Cambridge University Press (2023). (doi: [10.1017/9781108942607](http://doi.org/10.1017/9781108942607)) [[bibtex](https://github.com/stevenmwise/publications/blob/main/bibtex/202001-paper-journal-mdpi-information.bib)]
+Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehensive Course," Cambridge University Press (2023). (doi: [10.1017/9781108942607](http://doi.org/10.1017/9781108942607))
 {: reversed="reversed"}
 
 
 ## Journal Papers
 
-#### 2021
-0. Lorenzo Carnevale, Luisa Damiano, Antonio Fleres, and Massimo Villari. “*Visitor Artwork Ambient and how Making New Functions of Cultural Heritage by Using Augmented Reality within an Ambient Intelligence*”. 2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). October 2021, pp. 8-12 (doi: [10.1109/ISMAR-Adjunct54149.2021.00013](https://doi.org/10.1109/ISMAR-Adjunct54149.2021.00013))
+#### Submitted
 
-0. Lorenzo Carnevale, Armando Ruggeri, Francesco Martella, Antonio Celesti, Maria Fazio e Massimo Villari. “*Multi Hop Reconfiguration of End-Devices in Heterogeneous Edge-IoT Mesh Networks*”. 2021 IEEE Symposium on Computers and Communications (ISCC), Athenes, Greece, September 2021 (doi: [10.1109/ISCC53001.2021.9631500](https://doi.org/10.1109/ISCC53001.2021.9631500))
-{: reversed="reversed"}
+#### 2023
 
-#### 2020
-0. Emanuele Carlini, Lorenzo Carnevale, Massimo Coppola, Patrizio Dazzi, Gabriele Mencagli, Domenico Talia e Massimo Villari. “*An Osmotic Ecosystem for Data Streaming Applications in Smart Cities*”. Proceedings of the 1st Workshop on Flexible Resource and Application Management on the Edge (FRAME), Virtual Event, Sweden: Association for Computing Machinery, 2020, pp. 27–31 (ISBN: 9781450383844, doi: [10.1145/3452369.3463822](https://doi.org/10.1145/3452369.3463822))
-{: reversed="reversed"}
+#### 2022
 
-#### 2019
-0. Alina Buzachis and Antonino Galletta and Antonio Celesti and Lorenzo Carnevale and Massimo Villari. "*Towards Osmotic Computing: a Blue-Green Strategy for the Fast Re-Deployment of Microservices*", 2019 IEEE Symposium on Computers and Communications (ISCC), Barcelona, Spain, June 2019, pp. 1-6 (doi: [10.1109/ISCC47284.2019.8969621](https://doi.org/10.1109/ISCC47284.2019.8969621)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201906-paper-conference-ieee-iscc.bib)]
+0. X. Chen, C. Wang, and S.M. Wise, A Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Variable Mobility, Int. J. Numer. Anal. Model. 19 (2022) 839--863.
+
+0. C. Wang and S.M. Wise, A Thermodynamically-Consistent Phase Field Crystal Model of Solidification with Heat Flux, J. Math. Study 55 (2022) 1--21.
+
+0. M. Punke, S.M. Wise, A. Voigt, and M. Salvalaglio, Explicit Temperature Coupling in Phase-Field Crystal Models of Solidification, 30 (2022) 074004 (18 pages).
+
+0. M. Yuan, W. Chen, C. Wang, S.M. Wise, and Z. Zhang, A Second Order Accurate in Time, Energy Stable Finite Element Scheme for the Flory-Huggins-Cahn-Hilliard Equation, Adv. Appl. Math. Mech. 14 (2022) 1477--1508.
+
+0. E. Habbershaw and S.M. Wise, A Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, Mathematics, The University of Tennessee (2022) Report number 10.
+
+0. L. Dong, C. Wang, S.M. Wise, and Z. Zhang, Optimal Rate Convergence Analysis of a Numerical Scheme for the Ternary Cahn-Hilliard System with a Flory-Huggins-deGennes Energy Potential, J. Comp. Appl. Math. 415 (2022) 114474 (18 pages).
+
+0. K. Cheng, C. Wang, S.M. Wise, and Y. Wu, A Third Order Accurate in Time, BDF-Type Energy Stable Scheme for the Cahn-Hilliard Equation, Numer. Math. Theor. Meth. Appl. 15 (2022) 279--303.
+
+0. C. Liu, C. Wang, Y. Wang, and S.M. Wise, Convergence Analysis of the Variational Operator Splitting Scheme for a Reaction-Diffusion System with Detailed Balance, SIAM J. Numer. Anal. 60 (2022) 781--803.
+
+0. C. Liu, C. Wang, S.M. Wise, X. Yue, and S. Zhou, An Iterative Solver for the Poisson-Nernst-Planck System and its Convergence Analysis, J. Comput. Appl. Math 406 (2022) 114017 (13 pages).
+
+0. W. Chen, J. Jing, C. Wang, X. Wang and S.M. Wise, A Modified Crank-Nicolson Numerical Scheme for the Flory-Huggins Cahn-Hilliard Model, Commun. Comput. Phys. 31 (2022) 60--93.
 {: reversed="reversed"}
 
 
