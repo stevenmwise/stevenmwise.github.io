@@ -8,7 +8,7 @@ published: true
 ## Books
 
 #### 2023
-0. Lorenzo Carnevale and Antonio Celesti and Maria Fazio and Massimo Villari. "A Big Data Analytics Approach for the Development of Advanced Cardiology Applications". Information, MDPI, vol. 11-2, pp. 60, ISSN: 2078-2489 (January 2020) (doi: [10.3390/info11020060](http://doi.org/10.3390/info11020060)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/202001-paper-journal-mdpi-information.bib)]
+Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehensive Course," Cambridge University Press (2023). (doi: [10.1017/9781108942607](http://doi.org/10.1017/9781108942607)) [[bibtex](https://github.com/stevenmwise/publications/blob/main/bibtex/202001-paper-journal-mdpi-information.bib)]
 {: reversed="reversed"}
 
 
