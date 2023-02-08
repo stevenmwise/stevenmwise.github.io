@@ -6,9 +6,11 @@ published: true
 ---
 
 ## Research Interests
-Numerical methods for parabolic PDE
+Numerical methods for parabolic PDE and interace problems
 - diffuse interface methods
-- interface problems
+- DG and finite element methods
+- energy stable methods
+- positivity preserving methods
 - adaptive mesh refinement
 - multigrid methods/fast solvers
 
