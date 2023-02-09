@@ -5,20 +5,18 @@ permalink: /publications/
 published: true
 ---
 
-## Books
+#### Books
 
-#### 2023
 Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehensive Course," Cambridge University Press (2023). (doi: [10.1017/9781108942607](http://doi.org/10.1017/9781108942607))
-{: reversed="reversed"}
 
 
-## Journal Papers
+#### Journal Papers
 
-#### Submitted
+###### Submitted
 
-#### 2023
+###### 2023
 
-#### 2022
+###### 2022
 
 0. X. Chen, C. Wang, and S.M. Wise, A Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Variable Mobility, Int. J. Numer. Anal. Model. 19 (2022) 839--863.
 
