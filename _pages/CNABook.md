@@ -15,7 +15,7 @@ Numerical Analysis is a broad field, and coming to grips with all of it may seem
 
 The electronic version of the book can be found on Cambridge Core [here](https://doi.org/10.1017/9781108942607). Please (pray hands) ask your university library to purchase campus-wide access to the electronic version from Cambridge Core for you and your students.
 
-If you are more of an old-school type, the hardback can be purchased on Amazon (in the United States and Europe) and directly from Cambridge University Press. If you use this [[flyer](https://github.com/stevenmwise/ClassicalNumericalAnalysis/flyer/flyer.pdf)], you can get 20% off.
+If you are more of an old-school type, the hardback can be purchased on Amazon (in the United States and Europe) and directly from Cambridge University Press. If you use this [flyer](https://github.com/stevenmwise/stevenmwise.github.io/blob/8b6bc0dcfdbc4a208ff90f45166a198f84b50bb9/files/flyer.pdf), you can get 20% off.
 
 #### Errata
 
