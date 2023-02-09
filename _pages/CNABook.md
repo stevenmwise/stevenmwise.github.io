@@ -19,7 +19,7 @@ If you are more of an old-school type, the hardback can be purchased on Amazon (
 
 #### Errata
 
-No book that can be written can be written without errors. Our book has a few of them (wink). You can get the errata file from the GitHub repo for the book [[here]( )]. Errors, typos and inconsistencies can be reported to either Abner or me. See my email address below.
+No book that can be written can be written without errors. Our book has a few of them (wink). You can get the errata file from the GitHub repo for the book [here](https://github.com/stevenmwise/ClassicalNumericalAnalysis/blob/5ae28867981edb59633f74791fc551f0fb31f4bd/errata/bookErrata.pdf). Errors, typos and inconsistencies can be reported to either Abner or me. See my email address below.
 
 #### Codes
 
