@@ -5,7 +5,9 @@ permalink: /research/
 published: true
 ---
 
-## Research Interests
+## Research
+
+#### Areas of Interest
 Numerical methods for parabolic PDE and interace problems
 - diffuse interface methods
 - DG and finite element methods
@@ -29,5 +31,7 @@ Materials science
 - crystalization
 - material anisotropy
 - structural phase transistions
+
+#### Collaborators
 
 
