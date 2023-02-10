@@ -15,11 +15,9 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 
 ### Journal Papers
 
-###### Submitted
+#### 2023
 
-###### 2023
-
-###### 2022
+#### 2022
 
 0. X. Chen, C. Wang, and S.M. Wise, A Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Variable Mobility, Int. J. Numer. Anal. Model. 19 (2022) 839--863.
 
