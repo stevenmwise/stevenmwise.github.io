@@ -7,7 +7,7 @@ published: true
 
 ## Research
 
-#### Areas of Interest
+### Areas of Interest
 Numerical methods for parabolic PDE and interace problems
 - diffuse interface methods
 - DG and finite element methods
@@ -32,7 +32,7 @@ Materials science
 - material anisotropy
 - structural phase transistions
 
-#### Recent Collaborators
+### Recent Collaborators
 
 - <a title="https://tu-dresden.de/mn/math/wir" href="https://tu-dresden.de/mn/math/wir">Rainer Backofen</a>
 - <a title="https://sdai.people.ua.edu" href="https://sdai.people.ua.edu">Shibin Dai</a>
