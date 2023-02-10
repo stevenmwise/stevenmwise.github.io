@@ -8,12 +8,12 @@ published: true
 ## Projects
 
 #### Numerical Methods for BGK Equations
-In this project, our goal is to derive and analyze fast numerical methods for the BGK and multi-species BGK equations. We are, in particular, interested in designing a new class of implicit method for avoiding restrictive time step conditions. A summary of the project can be found [here](https://trace.tennessee.edu/utk_mathpubs/10/).
+In this project, our goal is to derive and analyze fast numerical methods for the BGK and multi-species BGK equations. We are, in particular, interested in designing a new class of fully implicit methods for avoiding restrictive time step conditions. A summary of the project can be found [here](https://trace.tennessee.edu/utk_mathpubs/10/).
 
 This work is joint with Cory Hauck and is funded by the US Department of Energy.
 
 #### Positivity-Preserving Numerical Methods
-Our goal in this project is to develop high-order stable and postivity preserving numerical methods for gradient flows where the energy of the flow has singular potentials.
+Our goal in this project is to develop high-order energy stable and postivity-preserving numerical methods for gradient flows where the energy of the flow has singular potentials. The resulting schemes are usually highly nonlinear and singular, and they require sophisticated numerical solvers.
 
 This work is joint with Cheng Wang and is funded by the US National Science Foundation through grant [NSF-DMS 2012634](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2012634)
 
