@@ -42,50 +42,23 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 
 #### 2021
 
-0. Z. Guo, F. Yu,  P. Lin, S.M.~Wise, and J.S. Lowengrub, A Diffuse Domain Method for Two Phase Flows with Large Density Ratio in Complex Geometries, J. Fluid Mech. 907 (2021) A38. (doi: [10.1017/jfm/jfm.2020.790](https://doi.org/10.1017/jfm.2020.790))
+0. Z. Guo, F. Yu,  P. Lin, S.M. Wise, and J.S. Lowengrub, A Diffuse Domain Method for Two Phase Flows with Large Density Ratio in Complex Geometries, J. Fluid Mech. 907 (2021) A38. (doi: [10.1017/jfm/jfm.2020.790](https://doi.org/10.1017/jfm.2020.790))
 
-	\item
-J.~Guo, C.~Wang, \textbf{S.M.~Wise} and X. Yue, {\sl An Improved Error Analysis for a Second-Order Numerical Scheme for the Cahn-Hilliard Equation}, J.~Comput.~Appl.~Math.~388 (2021). 113300.
-	\\
-\url{https://doi.org/10.1016/j.cam.2020.113300}
+0. J. Guo, C. Wang, S.M. Wise and X. Yue, An Improved Error Analysis for a Second-Order Numerical Scheme for the Cahn-Hilliard Equation, J. Comput. Appl. Math. 388 (2021). 113300. (doi: [10.1016/j.cam.2020.113300](https://doi.org/10.1016/j.cam.2020.113300))
 
-	\item
-M. Salvalaglio, A. Voigt, and \textbf{S.M.~Wise}, {\sl Doubly Degenerate Diffuse Interface Models of Surface Diffusion}, Math.~Methods Appl.~Sci.~44 (2021) 5385--5405.
-	\\
-\url{https://doi.org/10.1002/mma.7116}
+0. M. Salvalaglio, A. Voigt, and S.M. Wise, Doubly Degenerate Diffuse Interface Models of Surface Diffusion, Math. Methods Appl. Sci. 44 (2021) 5385--5405. (doi: [10.1002/mma.7116](https://doi.org/10.1002/mma.7116))
 
-	\item
-M. Salvalaglio, M. Selch, A. Voigt, and \textbf{S.M.~Wise}, {\sl Doubly Degenerate Diffuse Interface Models of Anisotropic Surface Diffusion}, Math.~Methods Appl.~Sci.~44 (2021) 5406--5417.
-	\\
-\url{https://doi.org/10.1002/mma.7118}
+0. M. Salvalaglio, M. Selch, A. Voigt, and S.M. Wise, Doubly Degenerate Diffuse Interface Models of Anisotropic Surface Diffusion, Math. Methods Appl. Sci. 44 (2021) 5406--5417. (doi: [10.1002/mma.7118](https://doi.org/10.1002/mma.7118))
 
-	\item
-M.~Yuan, W.~Chen, C. Wang, \textbf{S.M.~Wise}, and Z.~Zhang, {\sl An Energy Stable Finite Element Scheme for the Three-Component Cahn-Hilliard-Type Model for Macromolecular Microsphere Composite Hydrogels}, J.~Sci.~Comp.~87 (2021) 78.
-	\\ 
-\url{https://doi.org/10.1007/s10915-021-01508-w}
+0. M. Yuan, W. Chen, C. Wang, \textbf{S.M. Wise}, and Z. Zhang, {\sl An Energy Stable Finite Element Scheme for the Three-Component Cahn-Hilliard-Type Model for Macromolecular Microsphere Composite Hydrogels}, J. Sci. Comp. 87 (2021) 78.(doi: [10.1007/s10915-021-01508-w](https://doi.org/10.1007/s10915-021-01508-w))
 
-	\item
-J.~Zhang, C.~Wang, \textbf{S.M.~Wise}, and Z.~Zhang, {\sl Structure-preserving, Energy Stable Numerical Schemes for a Liquid Thin Film Coarsening Model}, SIAM J.~Sci.~Comput.~42 (2021) A1248--A1272.
-	\\ 
-\url{https://doi.org/10.1137/20M1375656}
+0. J. Zhang, C. Wang, \textbf{S.M. Wise}, and Z. Zhang, {\sl Structure-preserving, Energy Stable Numerical Schemes for a Liquid Thin Film Coarsening Model}, SIAM J. Sci. Comput. 42 (2021) A1248--A1272. (doi: [10.1137/20M1375656](https://doi.org/10.1137/20M1375656))
 
-	\item
-L.~Dong, C.~Wang, \textbf{S.M.~Wise}, and Z. Zhang, {\sl A Positivity-Preserving, Energy Stable Scheme for a Ternary Cahn-Hilliard System with Singular Interfacial Parameters}, J.~Comput.~Phys.~442 (2021) 110451 (29 pages).
-	\\ 
-\url{https://doi.org/10.1016/j.jcp.2021.110451}
+0. L. Dong, C. Wang, \textbf{S.M. Wise}, and Z. Zhang, {\sl A Positivity-Preserving, Energy Stable Scheme for a Ternary Cahn-Hilliard System with Singular Interfacial Parameters}, J. Comput. Phys. 442 (2021) 110451 (29 pages). (doi: [10.1016/j.jcp.2021.110451](https://doi.org/10.1016/j.jcp.2021.110451))
 
-	\item
-C.~Liu, C.~Wang, \textbf{S.M.~Wise}, X.~Yue, and S.~Zhou, {\sl A Positivity-Preserving, Energy Stable and Convergent Numerical Scheme for the Poisson-Nernst-Planck System}, Math.~Comp.~90 (2021) 2071--2106.
-	\\ 
-\url{https://doi.org/10.1090/mcom/3642}
+0. C. Liu, C. Wang, \textbf{S.M. Wise}, X. Yue, and S. Zhou, {\sl A Positivity-Preserving, Energy Stable and Convergent Numerical Scheme for the Poisson-Nernst-Planck System}, Math. Comp. 90 (2021) 2071--2106. (doi: [10.1090/mcom/3642](https://doi.org/10.1090/mcom/3642))
 
-	\item
-S.~Sahyoun, D.~Wilson, S.M.~Djouadi, \textbf{S.M.~Wise}, H.A.~Abderrahmane, {\sl Proper Orthogonal Decomposition Reduced Order Model for Tear Film Flows}, American Control Conference (ACC) (2021) 2763--2768.
-	\\
-\url{https://doi.org/10.23919/ACC50511.2021.9483018}
+0. S. Sahyoun, D. Wilson, S.M. Djouadi, \textbf{S.M. Wise}, H.A. Abderrahmane, {\sl Proper Orthogonal Decomposition Reduced Order Model for Tear Film Flows}, American Control Conference (ACC) (2021) 2763--2768. (doi: [10.23919/ACC50511.2021.9483018](https://doi.org/10.23919/ACC50511.2021.9483018))
 
-	\item
-J.~Park, A.J.~Salgado, and \textbf{S.M.~Wise}, {\sl Preconditioned Accelerated Gradient Descent Methods for Locally Lipschitz Smooth Objectives with Applications to the Solution of Nonlinear PDEs}, J.~Sci.~Comput.~89 (2021) 17 (37 pages).
-	\\ 
-\url{https://doi.org/10.1007/s10915-021-01615-8}
+0. J. Park, A.J. Salgado, and \textbf{S.M. Wise}, {\sl Preconditioned Accelerated Gradient Descent Methods for Locally Lipschitz Smooth Objectives with Applications to the Solution of Nonlinear PDEs}, J. Sci. Comput. 89 (2021) 17 (37 pages). (doi: [10.1007/s10915-021-01615-8]https://doi.org/10.1007/s10915-021-01615-8))
 
