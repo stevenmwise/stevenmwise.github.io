@@ -38,7 +38,6 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 0. C. Liu, C. Wang, S.M. Wise, X. Yue, and S. Zhou, An Iterative Solver for the Poisson-Nernst-Planck System and its Convergence Analysis, J. Comput. Appl. Math 406 (2022) 114017 (13 pages). (doi: [10.1016/j.cam.2021.114017](https://doi.org/10.1016/j.cam.2021.114017))
 
 0. W. Chen, J. Jing, C. Wang, X. Wang and S.M. Wise, A Modified Crank-Nicolson Numerical Scheme for the Flory-Huggins Cahn-Hilliard Model, Commun. Comput. Phys. 31 (2022) 60--93. (doi: [10.4208/cicp.OA-2021-0074](https://doi.org/10.4208/cicp.OA-2021-0074))
-
 {: reversed="reversed"}
 
 #### 2021
@@ -62,7 +61,6 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 0. J. Guo, C. Wang, S.M. Wise and X. Yue, An Improved Error Analysis for a Second-Order Numerical Scheme for the Cahn-Hilliard Equation, J. Comput. Appl. Math. 388 (2021). 113300. (doi: [10.1016/j.cam.2020.113300](https://doi.org/10.1016/j.cam.2020.113300))
 
 0. Z. Guo, F. Yu,  P. Lin, S.M. Wise, and J.S. Lowengrub, A Diffuse Domain Method for Two Phase Flows with Large Density Ratio in Complex Geometries, J. Fluid Mech. 907 (2021) A38. (doi: [10.1017/jfm/jfm.2020.790](https://doi.org/10.1017/jfm.2020.790))
-
 {: reversed="reversed"}
 
 
