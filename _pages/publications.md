@@ -63,6 +63,19 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 0. Z. Guo, F. Yu,  P. Lin, S.M. Wise, and J.S. Lowengrub, A Diffuse Domain Method for Two Phase Flows with Large Density Ratio in Complex Geometries, J. Fluid Mech. 907 (2021) A38. (doi: [10.1017/jfm/jfm.2020.790](https://doi.org/10.1017/jfm.2020.790))
 {: reversed="reversed"}
 
+#### 2020
+
+0. C. Zhang, J. Ouyang, C. Wang, and S.M. Wise, Numerical Comparison of Modified-Energy Stable SAV-Type Schemes and Classical BDF Methods on Benchmark Problems for the Functionalized Cahn-Hilliard Equation, J. Comput. Phys. 423 (2020) 109772 (35 pages). (doi:[10.1016/j.jcp.2020.109772](https://doi.org/10.1016/j.jcp.2020.109772))
+
+0. W. Chen, C. Wang, S. Wang, X. Wang, and S.M. Wise, Energy Stable Numerical Schemes for a Ternary Cahn-Hilliard System, J. Sci. Comp. 84 (2020) 27 (36 pages). (doi:[10.1007/s10915-020-01276-z](https://doi.org/10.1007/s10915-020-01276-z))
+
+0. L. Chen, X. Hu, and S.M. Wise, Convergence Analysis of the Fast Subspace Descent Methods for Convex Optimization Problems, Math. Comp. 89, (2020) 2249-2282. (doi:[10.1090/mcom/3526](https://doi.org/10.1090/mcom/3526))
+
+0. K. Cheng, C. Wang, and S.M. Wise, A Weakly Nonlinear, Energy Stable Scheme for the Strongly Anisotropic Cahn-Hilliard Equation and Its Convergence Analysis, J. Comput. Phys. 405 (2020) 109109 (28 pages). (doi:[10.1016/j.jcp.2019.109109](https://doi.org/10.1016/j.jcp.2019.109109))
+
+0. K. Cheng, C. Wang, S.M. Wise, and Z. Yuan, Global-in-Time Gevrey Regularity Solutions for the Functionalized Cahn-Hilliard Equation, Discrete Cont. Dyn. Syst. Ser. S 13 (2020) 2211-2229. (doi:[10.3934/dcdss.2020186](https://doi.org/10.3934/dcdss.2020186))
+{: reversed="reversed"}
+
 
 
 
