@@ -91,6 +91,25 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 0. R. Backofen, **S.M. Wise**, M. Salvalaglio, and A. Voigt, Convexity Splitting in a Phase Field Model for Surface Diffusion, Int. J. Numer. Anal. Model. 16 (2019) 192--209.
 {: reversed="reversed"}
 
+#### 2018
+
+0. W. Feng, C. Wang, **S.M. Wise**,  Z. Zhang, A Second-Order Energy Stable Backward Differentiation Formula Method for the Epitaxial Thin Film Equation with Slope Selection, Numer. Methods Partial Differ. Eq. 34 (2018) 1975--2007. (doi: [](https://doi.org/10.1002/num.22271))
+
+0. W. Feng, Z. Guan, J.S. Lowengrub, C. Wang, **S.M. Wise**, and Y. Chen, An Energy Stable Finite-Difference Scheme for the Functionalized Cahn-Hilliard Equation and its Convergence Analysis, J. Sci. Comput. 76 (2018) 1938--1967. (doi: [](https://doi.org/10.1007/s10915-018-0690-1))
+
+0. Y. Chen, J.S. Lowengrub, J. Shen, C. Wang, and **S.M. Wise**, Efficient Energy Stable Schemes for Isotropic and Strongly Anisotropic Cahn-Hilliard Systems with the Willmore Regularization, J. Comput. Phys. 365 (2018) 56--73. (doi: [](https://doi.org/10.1016/j.jcp.2018.03.024))
+
+0. L.G. Rebholz, **S.M. Wise**, and M. Xiao, {\it Penalty-Projection Schemes for the Cahn-Hilliard Navier-Stokes Diffuse Interface Model of Two Phase Flow, and their Connection to Divergence-Free Coupled Schemes, Int. J. Numer. Anal. Model. 15 (2018) 649--676.
+
+0. J. Cummings, J.S. Lowengrub, B.G. Sumpter, **S.M. Wise**, and R. Kumar, Modeling Solvent Evaporation During Thin Film Formation in Phase Separating Polymer Mixtures, Soft Matter 14 (2018) 1833--1846. (doi: [](https://doi.org/10.1039/c7sm02560b))
+
+0. L. Dong, W. Feng, C. Wang, **S.M. Wise**, and Z. Zhang, Convergence Analysis and Numerical Implementation of a Second Order Numerical Scheme for the Three-Dimensional Phase Field Crystal Equation, Comput. Math. Appl. 75 (2018) 1912--1928. (doi: [](https://doi.org/10.1016/j.camwa.2017.07.012))
+
+0. Y. Yan, W. Chen, C. Wang, and **S.M. Wise**, A Second-Order Energy Stable BDF Numerical Scheme for the Cahn-Hilliard Equation, Commun. Comput. Phys. 23 (2018) 572--602. (doi: [](https://doi.org/10.4208/cicp.OA-2016-0197))
+
+0. W. Feng, Z. Guo, J.S. Lowengrub, and **S.M. Wise**, A Mass-Conservative Adaptive FAS Multigrid Solver for Cell-Centered Finite Difference Methods on Block-Structured, Locally-Cartesian Grids, J. Comput. Phys. 352 (2018) 463--497. (doi: [](https://doi.org/10.1016/j.jcp.2017.09.065))
+{: reversed="reversed"}
+
 
 
 
