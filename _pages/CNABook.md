@@ -25,7 +25,7 @@ No book that can be written can be written without errors. Our book has a few of
 
 ### Codes
 
-There are several Matlab codes that accompany and list in the book. Those can also be gotten from the GitHub repo: [stevenmwise/ClassicalNumericalAnalysis](https://github.com/stevenmwise/ClassicalNumericalAnalysis). There you can also obtain the Matlab codes for generating the figures dispayed in the book. And we will add some more codes and exercises over time.
+There are several Matlab codes that accompany and are listed in the book. These can also be gotten from the GitHub repo: [stevenmwise/ClassicalNumericalAnalysis](https://github.com/stevenmwise/ClassicalNumericalAnalysis). There you can also obtain the Matlab codes for generating the figures dispayed in the book. And we will add some more codes and exercises over time.
 
 ### Solutions
 
