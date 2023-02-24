@@ -110,6 +110,63 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 0. W. Feng, Z. Guo, J.S. Lowengrub, and **S.M. Wise**, A Mass-Conservative Adaptive FAS Multigrid Solver for Cell-Centered Finite Difference Methods on Block-Structured, Locally-Cartesian Grids, J. Comput. Phys. 352 (2018) 463--497. (doi: [10.1016/j.jcp.2017.09.065](https://doi.org/10.1016/j.jcp.2017.09.065))
 {: reversed="reversed"}
 
+#### 2017
+
+0. A.~Diegel, C.~Wang, X.~Wang, and \textbf{S.M.~Wise}, {\sl Error Analysis of a Second Order Mixed Finite Element Method for the Cahn-Hilliard-Navier-Stokes Equation}, Numer.~Math.~137 (2017) 495-534.
+	\\ 
+\url{https://doi.org/10.1007/s00211-017-0887-5}
+
+0. Z.~Guo, P.~Lin, J.S.~Lowengrub, and \textbf{S.M.~Wise}, {\sl Mass Conservative and Energy Stable Finite Difference Methods for the Quasi-Incompressible Navier-Stokes-Cahn-Hilliard System: Primitive Variable and Projection-Type Schemes}, Comput.~Methods~Appl.~Mech.~Engrg.~326 (2017) 144-174.
+	\\ 
+\url{https://doi.org/10.1016/j.cma.2017.08.011}
+
+0. Z.~Qiao, C.~Wang, \textbf{S.M.~Wise}, and Z.~Zhang, {\sl Error Analysis of an Energy Stable Finite Difference Scheme for the Epitaxial Thin Film Model with Slope Selection with an Improved Convergence Constant}, Int.~J.~Numer.~Anal.~Model.~14 (2017) 283-305.
+
+0. Y.~Liu, W.~Chen, C.~Wang, and \textbf{S.M.~Wise}, {\sl Error Analysis of a Mixed Finite Element Method for a Cahn-Hilliard-Hele-Shaw System}, Numer.~Math.~135 (2017) 679-709.
+	\\ 
+\url{https://doi.org/10.1007/s00211-016-0813-2}
+
+0. W.~Feng, A.J.~Salgado, C.~Wang, \textbf{S.M.~Wise}, {\sl Preconditioned Steepest Descent Methods for some Nonlinear Elliptic Equations Involving p-Laplacian Terms}, J.~Comput.~Phys.~334 (2017) 45-67.
+	\\ 
+\url{https://doi.org/10.1016/j.jcp.2016.12.046}
+
+
+#### 2016
+
+0. K.~Cheng, C.~Wang, \textbf{S.M.~Wise}, and Y.~Yue, {\sl A Second-Order, Weakly Energy-Stable Pseudo-Spectral Scheme for the Cahn-Hilliard Equation and its Solution by the Homogeneous Linear Iteration Method}, J.~Sci.~Comput.~69 (2016) 1083-1114.
+	\\ 
+\url{https://doi.org/10.1007/s10915-016-0228-3}
+
+0. A.~Diegel, C.~Wang, and \textbf{S.M.~Wise}, {\sl Stability and Convergence of a Second Order Mixed Finite Element Method for the Cahn-Hilliard Equation}, IMA J.~Numer.~Anal.~36 (2016) 1867-1897.
+	\\ 
+\url{https://doi.org/10.1093/imanum/drv065}
+
+0. Z.~Guan, V.~Heinonen, J.S.~Lowengrub, C.~Wang, and \textbf{S.M.~Wise}, {\sl An Energy Stable, Hexagonal Finite Difference Scheme for the 2D Phase Field Crystal Amplitude Equations}, J.~Comput.~Phys.~321 (2016) 1026-1054.
+	\\ 
+\url{https://doi.org/10.1016/j.jcp.2016.06.007}
+
+0. N.~Chen, C.~Wang, and \textbf{S.M.~Wise}, {\sl Global-in-time Gevrey Regularity Solution for a Class of Bistable Gradient Flows}, Discrete Cont. Dyn. Syst. Ser. B 21 (2016) 1689-1711.
+	\\ 
+\url{https://doi.org/10.3934/dcdsb.2016018}
+
+0. W.~Chen, Y.~Liu, C.~Wang, and \textbf{S.M.~Wise}, {\sl An Optimal-Rate Convergence Analysis of a Fully Discrete Finite Difference Scheme for the Cahn-Hilliard-Hele-Shaw Equation}, Math.~Comp.~85 (2016) 2231-2257.
+	\\ 
+\url{https://doi.org/10.1090/mcom3052}
+
+0. Tri Sri Noor Asih, Suzanne Lenhart, \textbf{S.M.~Wise}, Lina Aryati, F. Adi-Kusumo, Mardiah S.~Hardianti, and Jonathan Forde, {\sl The Dynamics of HPV Infection and Cervical Cancer Cells}, Bull.~Math.~Biol.~78 (2016) 4-20.
+	\\ 
+\url{https://doi.org/10.1007/s11538-015-0124-2}
+
+0. J.~Guo, C.~Wang, \textbf{S.M.~Wise}, and X.~Yue, {\sl An $H^2$ Convergence of a Second-Order Convex-Splitting, Finite Difference Scheme for the Three-Dimensional Cahn-Hilliard Equation}, Commun.~Math.~Sci.~14 (2016) 489-515.
+	\\ 
+\url{https://doi.org/10.4310/CMS.2016.v14.n2.a8}
+
+
+
+
+
+
+
 
 
 
