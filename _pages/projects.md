@@ -25,3 +25,14 @@ This work is joint with Cheng Wang and is funded by the US National Science Foun
 - [NSF-DMS 1418692](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1418692), 9/14 -- 8/17. 
 - [NSF-DMS 1719854](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1719854), 8/17 -- 7/20. 
 - [NSF-DMS 2012634](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2012634), 8/20 -- 7/23. 
+
+<p>In one spatial-dimension, conservation laws take the general form
+$$
+\begin{equation}
+  \begin{cases}
+    u_{t} + f(u)_{x} = 0 &amp;\text{in}\;\mathbb{R} \times [0,\infty)\\<br />
+    u(x,0) = u_{0}(x) &amp;\text{on}\;\mathbb{R} \times \{t=0\}.
+  \end{cases}
+  \label{eq:conslaw}
+\end{equation}
+$$</p>
