@@ -25,9 +25,9 @@ published: true
 
 #### MS, Mathematics, 1998, Virginia Tech
 
-#### BS, Mathematics 1996, Clarion University
+#### BS, Mathematics, 1996, Clarion University
 
-Get a complete cv [here](https://github.com/stevenmwise/stevenmwise.github.io/blob/master/files/CV/vitae.pdf).
+You can find a complete cv [here](https://github.com/stevenmwise/stevenmwise.github.io/blob/master/files/CV/vitae.pdf).
 
 
 
