@@ -21,11 +21,11 @@ If you are more of an old-school type, the hardback can be purchased on Amazon (
 
 ### Errata
 
-No book that can be written can be written without errors. Our book has a few of them (wink). You can get the errata file from the GitHub repo for the book [here](https://github.com/stevenmwise/ClassicalNumericalAnalysis/blob/master/errata/bookErrata.pdf). Errors, typos and inconsistencies can be reported to either Abner or me. See my email address below. We greatly appreciate any feadback you have to give about the book.
+No book that can be written can be written without errors. Our book has a few of them (wink). You can get the errata file from the GitHub repo for the book [here](https://github.com/stevenmwise/ClassicalNumericalAnalysis/blob/main/errata/bookErrata.pdf). Errors, typos and inconsistencies can be reported to either Abner or me. See my email address below. We greatly appreciate any feadback you have to give about the book.
 
 ### Codes
 
-There are several Matlab codes that accompany and are listed in the book. These can also be gotten from the GitHub repo: [stevenmwise/ClassicalNumericalAnalysis](https://github.com/stevenmwise/ClassicalNumericalAnalysis). There you can also obtain the Matlab codes for generating the figures dispayed in the book. And we will add some more codes and exercises over time.
+There are several Matlab codes that are listed in the book. These can also be retrieved from the GitHub repo: [stevenmwise/ClassicalNumericalAnalysis](https://github.com/stevenmwise/ClassicalNumericalAnalysis). In addition, you can also obtain the Matlab codes used to generate the figures dispayed in the book. And we will add some more codes and exercises over time.
 
 ### Solutions
 
