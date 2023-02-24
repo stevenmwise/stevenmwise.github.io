@@ -12,7 +12,7 @@ published: true
 Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehensive Course," Cambridge University Press (2023). (doi: [10.1017/9781108942607](http://doi.org/10.1017/9781108942607))
 
 
-### Published Papers (2016--present.  See my [cv](https://github.com/stevenmwise/stevenmwise.github.io/blob/d0728d59891ece5931c85a2976c8d6822c03e8fa/files/CV/vitae.pdf) for earlier works.)
+### Published Papers (2016--present.  See my [cv](files/CV/vitae.pdf) for earlier works.)
 
 #### 2023
 
