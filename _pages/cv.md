@@ -21,16 +21,11 @@ published: true
 
 ### Education
 
-#### University of Virginia
-PhD, Engineering Physics, 2003
-Advisor: William C. Johnson
+#### PhD, Engineering Physics, 2003 University of Virginia
 
-#### Virginia Tech
-MS, Mathematics, 1998
-Advisor: Layne T. Watson
+#### MS, Mathematics, 1998, Virginia Tech
 
-#### Clarion University
-BS, Mathematics 1996
+#### BS, Mathematics 1996, Clarion University
 
 Get a complete cv [here](https://github.com/stevenmwise/stevenmwise.github.io/blob/master/files/CV/vitae.pdf).
 
