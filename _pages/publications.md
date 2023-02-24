@@ -37,7 +37,7 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 0. C. Liu, C. Wang, **S.M. Wise**, X. Yue, and S. Zhou, An Iterative Solver for the Poisson-Nernst-Planck System and its Convergence Analysis, J. Comput. Appl. Math 406 (2022) 114017 (13 pages). (doi: [10.1016/j.cam.2021.114017](https://doi.org/10.1016/j.cam.2021.114017))
 
 0. W. Chen, J. Jing, C. Wang, X. Wang and **S.M. Wise**, A Modified Crank-Nicolson Numerical Scheme for the Flory-Huggins Cahn-Hilliard Model, Commun. Comput. Phys. 31 (2022) 60--93. (doi: [10.4208/cicp.OA-2021-0074](https://doi.org/10.4208/cicp.OA-2021-0074))
-{: reversed="reversed"
+{: reversed="reversed"}
 
 #### 2021
 
@@ -60,7 +60,7 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 0. J. Guo, C. Wang, **S.M. Wise** and X. Yue, An Improved Error Analysis for a Second-Order Numerical Scheme for the Cahn-Hilliard Equation, J. Comput. Appl. Math. 388 (2021). 113300. (doi: [10.1016/j.cam.2020.113300](https://doi.org/10.1016/j.cam.2020.113300))
 
 0. Z. Guo, F. Yu,  P. Lin, **S.M. Wise**, and J.S. Lowengrub, A Diffuse Domain Method for Two Phase Flows with Large Density Ratio in Complex Geometries, J. Fluid Mech. 907 (2021) A38. (doi: [10.1017/jfm/jfm.2020.790](https://doi.org/10.1017/jfm.2020.790))
-{: reversed="reversed"
+{: reversed="reversed"}
 
 #### 2020
 
@@ -73,7 +73,7 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 0. K. Cheng, C. Wang, and **S.M. Wise**, A Weakly Nonlinear, Energy Stable Scheme for the Strongly Anisotropic Cahn-Hilliard Equation and Its Convergence Analysis, J. Comput. Phys. 405 (2020) 109109 (28 pages). (doi:[10.1016/j.jcp.2019.109109](https://doi.org/10.1016/j.jcp.2019.109109))
 
 0. K. Cheng, C. Wang, **S.M. Wise**, and Z. Yuan, Global-in-Time Gevrey Regularity Solutions for the Functionalized Cahn-Hilliard Equation, Discrete Cont. Dyn. Syst. Ser. S 13 (2020) 2211--2229. (doi:[10.3934/dcdss.2020186](https://doi.org/10.3934/dcdss.2020186))
-{: reversed="reversed"
+{: reversed="reversed"}
 
 #### 2019
 
@@ -88,7 +88,7 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 0. W. Chen, W. Feng, Y. Liu, C. Wang, and **S.M. Wise**, A Second Order Energy Stable Scheme for the Cahn-Hilliard-Hele-Shaw Equations, Discrete Cont. Dyn. Syst. Ser. B 24 (2019) 149--182. (doi: [10.3934/dcdsb.2018090](https://doi.org/10.3934/dcdsb.2018090))
 
 0. R. Backofen, **S.M. Wise**, M. Salvalaglio, and A. Voigt, Convexity Splitting in a Phase Field Model for Surface Diffusion, Int. J. Numer. Anal. Model. 16 (2019) 192--209.
-{: reversed="reversed"
+{: reversed="reversed"}
 
 #### 2018
 
@@ -107,7 +107,7 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 0. Y. Yan, W. Chen, C. Wang, and **S.M. Wise**, A Second-Order Energy Stable BDF Numerical Scheme for the Cahn-Hilliard Equation, Commun. Comput. Phys. 23 (2018) 572--602. (doi: [10.4208/cicp.OA-2016-0197](https://doi.org/10.4208/cicp.OA-2016-0197))
 
 0. W. Feng, Z. Guo, J.S. Lowengrub, and **S.M. Wise**, A Mass-Conservative Adaptive FAS Multigrid Solver for Cell-Centered Finite Difference Methods on Block-Structured, Locally-Cartesian Grids, J. Comput. Phys. 352 (2018) 463--497. (doi: [10.1016/j.jcp.2017.09.065](https://doi.org/10.1016/j.jcp.2017.09.065))
-{: reversed="reversed"
+{: reversed="reversed"}
 
 #### 2017
 
@@ -120,7 +120,7 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 0. Y. Liu, W. Chen, C. Wang, and **S.M. Wise**, Error Analysis of a Mixed Finite Element Method for a Cahn-Hilliard-Hele-Shaw System, Numer. Math. 135 (2017) 679--709. (doi: [10.1007/s00211-016-0813-2](https://doi.org/10.1007/s00211-016-0813-2))
 
 0. W. Feng, A.J. Salgado, C. Wang, **S.M. Wise**, Preconditioned Steepest Descent Methods for some Nonlinear Elliptic Equations Involving p-Laplacian Terms, J. Comput. Phys. 334 (2017) 45--67. (doi: [10.1016/j.jcp.2016.12.046](https://doi.org/10.1016/j.jcp.2016.12.046))
-{: reversed="reversed"
+{: reversed="reversed"}
 
 #### 2016
 
@@ -137,7 +137,7 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 0. Tri Sri Noor Asih, Suzanne Lenhart, **S.M. Wise**, Lina Aryati, F. Adi-Kusumo, Mardiah S. Hardianti, and Jonathan Forde, The Dynamics of HPV Infection and Cervical Cancer Cells, Bull. Math. Biol. 78 (2016) 4--20. (doi: [10.1007/s11538-015-0124-2](https://doi.org/10.1007/s11538-015-0124-2))
 
 0. J. Guo, C. Wang, **S.M. Wise**, and X. Yue, An $H^2$ Convergence of a Second-Order Convex-Splitting, Finite Difference Scheme for the Three-Dimensional Cahn-Hilliard Equation, Commun. Math. Sci. 14 (2016) 489--515. (doi: [10.4310/CMS.2016.v14.n2.a8](https://doi.org/10.4310/CMS.2016.v14.n2.a8))
-{: reversed="reversed"
+{: reversed="reversed"}
 
 
 
