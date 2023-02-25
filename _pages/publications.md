@@ -139,6 +139,44 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 0. J. Guo, C. Wang, **S.M. Wise**, and X. Yue, An $H^2$ Convergence of a Second-Order Convex-Splitting, Finite Difference Scheme for the Three-Dimensional Cahn-Hilliard Equation, Commun. Math. Sci. 14 (2016) 489--515. (doi: [10.4310/CMS.2016.v14.n2.a8](https://doi.org/10.4310/CMS.2016.v14.n2.a8))
 {: reversed="reversed"}
 
+#### 2015
+
+0. W. Feng, T. Lewis, and **S.M. Wise**, Discontinuous Galerkin Derivative Operators with Applications to Second Order Elliptic Problems and Stability, Math. Methods Appl. Sci. 38 (2015) 5160--5182. (doi: [10.1002/mma.3440](https://doi.org/10.1002/mma.3440))  
+
+0. A. Aristotelous, O. Karakashian, and **S.M. Wise**, Second-Order in Time, Primitive-Variable Discontinuous Galerkin Schemes for a Cahn-Hilliard Equation with a Mass Source Term, IMA J. Numer. Anal. 35 (2015) 1167--1198. (doi: [10.1093/imanum/dru035](https://doi.org/10.1093/imanum/dru035)) 
+
+0. A. Diegel, X. Feng, and **S.M. Wise**, Analysis of a Mixed Finite Element Method for a Cahn-Hilliard-Darcy-Stokes System, SIAM J. Numer. Anal. 53 (2015) 127--152. (doi: [10.1137/130950628](https://doi.org/10.1137/130950628))
+{: reversed="reversed"}
+
+
+#### 2014
+
+0. Z. Guan, C. Wang, and **S.M. Wise**, A Convergent Convex Splitting Scheme for the Periodic Nonlocal Cahn-Hilliard Equation, Numer. Math. 128 (2014) 377--406. (doi: [10.1007/s00211-014-0608-2](https://doi.org/10.1007/s00211-014-0608-2))
+
+0. Z. Guan, J.S. Lowengrub, C. Wang, and **S.M. Wise**, Second-Order Convex Splitting Schemes for Non-local Cahn-Hilliard and Allen-Cahn Equations, J. Comput. Phys. 277 (2014) 48--71. (doi: [10.1016/j.jcp.2014.08.001](https://doi.org/10.1016/j.jcp.2014.08.001))
+
+0. Y. Chen, **S.M. Wise**, V.B. Shenoy, and J.S. Lowengrub, A Stable Scheme for a Nonlinear, Multispecies Tumor Growth Model with an Elastic Membrane, Int. J. Numer. Meth. Biomed. Engng. 30 (2014) 726--754. (doi: [10.1002/cnm.2624](https://doi.org/10.1002/cnm.2624))
+
+0. W. Chen, C. Wang, X. Wang, and **S.M. Wise**, A Linear Iteration Algorithm for an Energy Stable Second Order Scheme for a Thin Film Model Without Slope Selection, J. Sci. Comput. 59 (2014) 574--601. (doi: [10.1007/s10915-013-9774-0](https://doi.org/10.1007/s10915-013-9774-0))
+{: reversed="reversed"}
+
+#### 2013
+
+0. A. Baskaran, J.S. Lowengrub, C. Wang, and **S.M. Wise**, Convergence of a Second Order Convex Splitting Scheme for the Modified Phase Field Crystal Equation, SIAM J. Numer. Anal. 51 (2013) 2851--2873. (doi: [10.1137/120880677](https://doi.org/10.1137/120880677))
+
+0. A. Aristotelous, O. Karakashian, **S.M. Wise**, A Mixed Discontinuous Galerkin, Convex Splitting Scheme for a Modified Cahn-Hilliard Equation and an Efficient Nonlinear Multigrid Solver, Discrete Cont. Dyn. Syst. B 18 (2013) 2211--2238. (doi: [10.3934/dcdsb.2013.18.2211](https://doi.org/10.3934/dcdsb.2013.18.2211))
+
+0. A. Baskaran, Z. Hu, J.S. Lowengrub, C. Wang, **S.M. Wise**, and P. Zhou, Energy Stable and Efficient Finite-Difference Nonlinear-Multigrid Schemes for the Modified Phase Field Crystal Equation, J. Comput. Phys. 250 (2013) 270--292. (doi: [10.1016/j.jcp.2013.04.024](https://doi.org/10.1016/j.jcp.2013.04.024))
+
+0. C. Collins, J. Shen, and **S.M. Wise**, An Efficient, Energy Stable Scheme for the Cahn-Hilliard-Brinkman System, Commun. Comput. Phys. 13 (2013) 929--957. (doi: [10.4208/cicp.171211.130412a](https://doi.org/10.4208/cicp.171211.130412a))
+{: reversed="reversed"}
+
+
+
+
+
+
+
 
 
 
