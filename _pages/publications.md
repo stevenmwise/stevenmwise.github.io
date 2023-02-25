@@ -181,7 +181,7 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 
 0. J. Shen, C. Wang, X. Wang, and **S.M. Wise**, Second-Order Convex Splitting Schemes for Gradient Flows with Ehrlich-Schwoebel Type Energy: Application to Thin Film Epitaxy, SIAM J. Numer. Anal. 50 (2012) 105--125. (doi: [10.1137/110822839](https://doi.org/10.1137/110822839))
 
-0. Z. Hu, J.S. Lowengrub, **S.M. Wise**, and A. Voigt,  {\sl Phase-Field Modeling of Epitaxial Growth: Applications to Step Trains and Island Dynamics, Physica D 241 (2012) 77--94. (doi: [10.1016/j.physd.2011.09.004](https://doi.org/10.1016/j.physd.2011.09.004))
+0. Z. Hu, J.S. Lowengrub, **S.M. Wise**, and A. Voigt, Phase-Field Modeling of Epitaxial Growth: Applications to Step Trains and Island Dynamics, Physica D 241 (2012) 77--94. (doi: [10.1016/j.physd.2011.09.004](https://doi.org/10.1016/j.physd.2011.09.004))
 {: reversed="reversed"}
 
 
@@ -204,7 +204,7 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 
 0. C. Wang, X. Wang, and **S.M. Wise**, Unconditionally Stable Schemes for Equations of Thin Film Epitaxy, Discrete Contin. Dyn. Syst. Ser. A 28 (2010) 405--423. (doi: [10.3934/dcds.2010.28.405](https://doi.org/10.3934/dcds.2010.28.405))
 
-0. J.S. Lowengrub, H.B. Frieboes, F. Jin, Y.L. Chuang, X. Li, P. Macklin, **S.M. Wise**, and V. Cristini {\sl Nonlinear Modeling of Cancer: Bridging the Gap Between Cells and Tumors, Nonlinearity 23 (2010) R1--R91. (doi: [10.1088/0951-7715/23/1/R01](https://doi.org/10.1088/0951-7715/23/1/R01))
+0. J.S. Lowengrub, H.B. Frieboes, F. Jin, Y.L. Chuang, X. Li, P. Macklin, **S.M. Wise**, and V. Cristini, Nonlinear Modeling of Cancer: Bridging the Gap Between Cells and Tumors, Nonlinearity 23 (2010) R1--R91. (doi: [10.1088/0951-7715/23/1/R01](https://doi.org/10.1088/0951-7715/23/1/R01))
 {: reversed="reversed"}
 
 
