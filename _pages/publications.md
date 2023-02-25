@@ -202,7 +202,6 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 
 0. **S.M. Wise**, Unconditionally Stable Finite Difference, Nonlinear Multigrid Simulation of the Cahn-Hilliard-Hele-Shaw System of Equations, J. Sci. Comput. 44 (2010) 38-68. (doi: [10.1007/s10915-010-9363-4](https://doi.org/10.1007/s10915-010-9363-4))
 
-	\item
 0. C. Wang, X. Wang, and **S.M. Wise**, Unconditionally Stable Schemes for Equations of Thin Film Epitaxy, Discrete Contin. Dyn. Syst. Ser. A 28 (2010) 405-423. (doi: [10.3934/dcds.2010.28.405](https://doi.org/10.3934/dcds.2010.28.405))
 
 0. J.S. Lowengrub, H.B. Frieboes, F. Jin, Y.L. Chuang, X. Li, P. Macklin, **S.M. Wise**, and V. Cristini {\sl Nonlinear Modeling of Cancer: Bridging the Gap Between Cells and Tumors, Nonlinearity 23 (2010) R1-R91. (doi: [10.1088/0951-7715/23/1/R01](https://doi.org/10.1088/0951-7715/23/1/R01))
