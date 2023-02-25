@@ -20,7 +20,7 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 
 0. X. Chen, C. Wang, and **S.M. Wise**, A Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Variable Mobility, Int. J. Numer. Anal. Model. 19 (2022) 839--863.
 
-0. C. Wang and **S.M. Wise**, A Thermodynamically-Consistent Phase Field Crystal Model of Solidification with Heat Flux, J. Math. Study 55 (2022) 1--21. (doi:[10.4208/jms.v55n4.22.01](https://doi.org/10.4208/jms.v55n4.22.01))
+0. C. Wang and **S.M. Wise**, A Thermodynamically-Consistent Phase Field Crystal Model of Solidification with Heat Flux, J. Math. Study 55 (2022) 1--21. (doi: [10.4208/jms.v55n4.22.01](https://doi.org/10.4208/jms.v55n4.22.01))
 
 0. M. Punke, **S.M. Wise**, A. Voigt, and M. Salvalaglio, Explicit Temperature Coupling in Phase-Field Crystal Models of Solidification, 30 (2022) 074004 (18 pages). (doi: [10.1088/1361-651X/ac8abd](https://doi.org/10.1088/1361-651X/ac8abd))
 
@@ -64,15 +64,15 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 
 #### 2020
 
-0. C. Zhang, J. Ouyang, C. Wang, and **S.M. Wise**, Numerical Comparison of Modified-Energy Stable SAV-Type Schemes and Classical BDF Methods on Benchmark Problems for the Functionalized Cahn-Hilliard Equation, J. Comput. Phys. 423 (2020) 109772 (35 pages). (doi:[10.1016/j.jcp.2020.109772](https://doi.org/10.1016/j.jcp.2020.109772))
+0. C. Zhang, J. Ouyang, C. Wang, and **S.M. Wise**, Numerical Comparison of Modified-Energy Stable SAV-Type Schemes and Classical BDF Methods on Benchmark Problems for the Functionalized Cahn-Hilliard Equation, J. Comput. Phys. 423 (2020) 109772 (35 pages). (doi: [10.1016/j.jcp.2020.109772](https://doi.org/10.1016/j.jcp.2020.109772))
 
-0. W. Chen, C. Wang, S. Wang, X. Wang, and **S.M. Wise**, Energy Stable Numerical Schemes for a Ternary Cahn-Hilliard System, J. Sci. Comp. 84 (2020) 27 (36 pages). (doi:[10.1007/s10915-020-01276-z](https://doi.org/10.1007/s10915-020-01276-z))
+0. W. Chen, C. Wang, S. Wang, X. Wang, and **S.M. Wise**, Energy Stable Numerical Schemes for a Ternary Cahn-Hilliard System, J. Sci. Comp. 84 (2020) 27 (36 pages). (doi: [10.1007/s10915-020-01276-z](https://doi.org/10.1007/s10915-020-01276-z))
 
-0. L. Chen, X. Hu, and **S.M. Wise**, Convergence Analysis of the Fast Subspace Descent Methods for Convex Optimization Problems, Math. Comp. 89, (2020) 2249--2282. (doi:[10.1090/mcom/3526](https://doi.org/10.1090/mcom/3526))
+0. L. Chen, X. Hu, and **S.M. Wise**, Convergence Analysis of the Fast Subspace Descent Methods for Convex Optimization Problems, Math. Comp. 89, (2020) 2249--2282. (doi: [10.1090/mcom/3526](https://doi.org/10.1090/mcom/3526))
 
-0. K. Cheng, C. Wang, and **S.M. Wise**, A Weakly Nonlinear, Energy Stable Scheme for the Strongly Anisotropic Cahn-Hilliard Equation and Its Convergence Analysis, J. Comput. Phys. 405 (2020) 109109 (28 pages). (doi:[10.1016/j.jcp.2019.109109](https://doi.org/10.1016/j.jcp.2019.109109))
+0. K. Cheng, C. Wang, and **S.M. Wise**, A Weakly Nonlinear, Energy Stable Scheme for the Strongly Anisotropic Cahn-Hilliard Equation and Its Convergence Analysis, J. Comput. Phys. 405 (2020) 109109 (28 pages). (doi: [10.1016/j.jcp.2019.109109](https://doi.org/10.1016/j.jcp.2019.109109))
 
-0. K. Cheng, C. Wang, **S.M. Wise**, and Z. Yuan, Global-in-Time Gevrey Regularity Solutions for the Functionalized Cahn-Hilliard Equation, Discrete Cont. Dyn. Syst. Ser. S 13 (2020) 2211--2229. (doi:[10.3934/dcdss.2020186](https://doi.org/10.3934/dcdss.2020186))
+0. K. Cheng, C. Wang, **S.M. Wise**, and Z. Yuan, Global-in-Time Gevrey Regularity Solutions for the Functionalized Cahn-Hilliard Equation, Discrete Cont. Dyn. Syst. Ser. S 13 (2020) 2211--2229. (doi: [10.3934/dcdss.2020186](https://doi.org/10.3934/dcdss.2020186))
 {: reversed="reversed"}
 
 #### 2019
@@ -173,38 +173,38 @@ Abner J. Salgado and Steven M. Wise, "Classical Numerical Analysis: A Comprehens
 
 #### 2012
 
-0. W. Chen, S. Conde, C. Wang, X. Wang, and **S.M. Wise**, A Linear Energy Stable Scheme for a Thin Film Model without Slope Selection, J. Sci. Comput. 52 (2012) 546-562. (doi: [10.1007/s10915-011-9559-2](https://doi.org/10.1007/s10915-011-9559-2))
+0. W. Chen, S. Conde, C. Wang, X. Wang, and **S.M. Wise**, A Linear Energy Stable Scheme for a Thin Film Model without Slope Selection, J. Sci. Comput. 52 (2012) 546--562. (doi: [10.1007/s10915-011-9559-2](https://doi.org/10.1007/s10915-011-9559-2))
 
 0. P. Zhou, **S.M. Wise**, X. Li, and J.S. Lowengrub, Coarsening of Elastically Stressed, Strongly Anisotropic Driven Thin Films, Phys. Rev. E 85 (2012) 061605. (doi: [10.1103/PhysRevE.85.061605](https://doi.org/10.1103/PhysRevE.85.061605))
     
-0. X. Feng and **S.M. Wise**, Analysis of a Darcy-Cahn-Hilliard Diffuse Interface Model for the Hele-Shaw Flow and its Fully Discrete Finite Element Approximation, SIAM J. Numer. Anal. 50 (2012) 1320-1343. (doi: [10.1137/110827119](https://doi.org/10.1137/110827119))
+0. X. Feng and **S.M. Wise**, Analysis of a Darcy-Cahn-Hilliard Diffuse Interface Model for the Hele-Shaw Flow and its Fully Discrete Finite Element Approximation, SIAM J. Numer. Anal. 50 (2012) 1320--1343. (doi: [10.1137/110827119](https://doi.org/10.1137/110827119))
 
-0. J. Shen, C. Wang, X. Wang, and **S.M. Wise**, Second-Order Convex Splitting Schemes for Gradient Flows with Ehrlich-Schwoebel Type Energy: Application to Thin Film Epitaxy, SIAM J. Numer. Anal. 50 (2012) 105-125. (doi: [10.1137/110822839](https://doi.org/10.1137/110822839))
+0. J. Shen, C. Wang, X. Wang, and **S.M. Wise**, Second-Order Convex Splitting Schemes for Gradient Flows with Ehrlich-Schwoebel Type Energy: Application to Thin Film Epitaxy, SIAM J. Numer. Anal. 50 (2012) 105--125. (doi: [10.1137/110822839](https://doi.org/10.1137/110822839))
 
-0. Z. Hu, J.S. Lowengrub, **S.M. Wise**, and A. Voigt,  {\sl Phase-Field Modeling of Epitaxial Growth: Applications to Step Trains and Island Dynamics, Physica D 241 (2012) 77-94. (doi: [10.1016/j.physd.2011.09.004](https://doi.org/10.1016/j.physd.2011.09.004))
+0. Z. Hu, J.S. Lowengrub, **S.M. Wise**, and A. Voigt,  {\sl Phase-Field Modeling of Epitaxial Growth: Applications to Step Trains and Island Dynamics, Physica D 241 (2012) 77--94. (doi: [10.1016/j.physd.2011.09.004](https://doi.org/10.1016/j.physd.2011.09.004))
 {: reversed="reversed"}
 
 
 #### 2011
  
-0. C. Wang and **S.M. Wise**, An Energy Stable and Convergent Finite Difference Scheme for the Modified Phase Field Crystal Equation, SIAM J. Numer. Anal. 49 (2011) 945-969. (doi: [10.1137/090752675](https://doi.org/10.1137/090752675))
+0. C. Wang and **S.M. Wise**, An Energy Stable and Convergent Finite Difference Scheme for the Modified Phase Field Crystal Equation, SIAM J. Numer. Anal. 49 (2011) 945--969. (doi: [10.1137/090752675](https://doi.org/10.1137/090752675))
 
-0. **S.M. Wise**, J.S. Lowengrub, and V. Cristini, An Adaptive Algorithm for Simulating Solid Tumor Growth using Mixture Models, Math. Comput. Model. 53 (2011) 1-20. (doi: [10.1016/j.mcm.2010.07.007](https://doi.org/10.1016/j.mcm.2010.07.007))
+0. **S.M. Wise**, J.S. Lowengrub, and V. Cristini, An Adaptive Algorithm for Simulating Solid Tumor Growth using Mixture Models, Math. Comput. Model. 53 (2011) 1--20. (doi: [10.1016/j.mcm.2010.07.007](https://doi.org/10.1016/j.mcm.2010.07.007))
 {: reversed="reversed"}
 
 #### 2010
 
-0. C. Wang and **S.M. Wise**, Global Smooth Solutions of the Three-Dimensional Modified Phase Field Crystal Equation, Methods Appl. Anal. 17 (2010) 191-212. (doi: [10.4310/MAA.2010.v17.n2.a4](https://dx.doi.org/10.4310/MAA.2010.v17.n2.a4))
+0. C. Wang and **S.M. Wise**, Global Smooth Solutions of the Three-Dimensional Modified Phase Field Crystal Equation, Methods Appl. Anal. 17 (2010) 191--212. (doi: [10.4310/MAA.2010.v17.n2.a4](https://dx.doi.org/10.4310/MAA.2010.v17.n2.a4))
 
-0. Y.L. Chuang, F. Jin, and **S.M. Wise**, Numerical Schemes, in V. Cristini and J.S. Lowengrub (Authors), **Multiscale Modeling of Cancer: An Integrated Experimental and Mathematical Modeling Approach**, Cambridge University Press (2010) 153-182. (doi: [10.1017/CBO9780511781452.009](https://dx.doi.org/10.1017/CBO9780511781452.009))
+0. Y.L. Chuang, F. Jin, and **S.M. Wise**, Numerical Schemes, in V. Cristini and J.S. Lowengrub (Authors), **Multiscale Modeling of Cancer: An Integrated Experimental and Mathematical Modeling Approach**, Cambridge University Press (2010) 153--182. (doi: [10.1017/CBO9780511781452.009](https://dx.doi.org/10.1017/CBO9780511781452.009))
 
-0. H.B. Frieboes, F. Jin, Y.L. Chuang, **S.M. Wise**, J.S. Lowengrub, and V. Cristini, Three-Dimensional Multispecies Nonlinear Tumor Growth--II: Angiogenesis and Tissue Invasion, J. Theor. Biol. 264 (2010) 1254-1278. (doi: [10.1016/j.jtbi.2010.02.036](https://doi.org/10.1016/j.jtbi.2010.02.036))
+0. H.B. Frieboes, F. Jin, Y.L. Chuang, **S.M. Wise**, J.S. Lowengrub, and V. Cristini, Three-Dimensional Multispecies Nonlinear Tumor Growth--II: Angiogenesis and Tissue Invasion, J. Theor. Biol. 264 (2010) 1254--1278. (doi: [10.1016/j.jtbi.2010.02.036](https://doi.org/10.1016/j.jtbi.2010.02.036))
 
-0. **S.M. Wise**, Unconditionally Stable Finite Difference, Nonlinear Multigrid Simulation of the Cahn-Hilliard-Hele-Shaw System of Equations, J. Sci. Comput. 44 (2010) 38-68. (doi: [10.1007/s10915-010-9363-4](https://doi.org/10.1007/s10915-010-9363-4))
+0. **S.M. Wise**, Unconditionally Stable Finite Difference, Nonlinear Multigrid Simulation of the Cahn-Hilliard-Hele-Shaw System of Equations, J. Sci. Comput. 44 (2010) 38--68. (doi: [10.1007/s10915-010-9363-4](https://doi.org/10.1007/s10915-010-9363-4))
 
-0. C. Wang, X. Wang, and **S.M. Wise**, Unconditionally Stable Schemes for Equations of Thin Film Epitaxy, Discrete Contin. Dyn. Syst. Ser. A 28 (2010) 405-423. (doi: [10.3934/dcds.2010.28.405](https://doi.org/10.3934/dcds.2010.28.405))
+0. C. Wang, X. Wang, and **S.M. Wise**, Unconditionally Stable Schemes for Equations of Thin Film Epitaxy, Discrete Contin. Dyn. Syst. Ser. A 28 (2010) 405--423. (doi: [10.3934/dcds.2010.28.405](https://doi.org/10.3934/dcds.2010.28.405))
 
-0. J.S. Lowengrub, H.B. Frieboes, F. Jin, Y.L. Chuang, X. Li, P. Macklin, **S.M. Wise**, and V. Cristini {\sl Nonlinear Modeling of Cancer: Bridging the Gap Between Cells and Tumors, Nonlinearity 23 (2010) R1-R91. (doi: [10.1088/0951-7715/23/1/R01](https://doi.org/10.1088/0951-7715/23/1/R01))
+0. J.S. Lowengrub, H.B. Frieboes, F. Jin, Y.L. Chuang, X. Li, P. Macklin, **S.M. Wise**, and V. Cristini {\sl Nonlinear Modeling of Cancer: Bridging the Gap Between Cells and Tumors, Nonlinearity 23 (2010) R1--R91. (doi: [10.1088/0951-7715/23/1/R01](https://doi.org/10.1088/0951-7715/23/1/R01))
 {: reversed="reversed"}
 
 
