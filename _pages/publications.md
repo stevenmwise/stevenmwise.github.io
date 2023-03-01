@@ -244,6 +244,35 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 0. H.B. Frieboes, J.S. Lowengrub, **S.M. Wise**, X. Zheng, P. Macklin, E.L. Bearer, and V. Cristini, Computer Simulation of Glioma Growth and Morphology, NeuroImage  37 (2007) S59--S70. (doi: [10.1016/j.neuroimage.2007.03.008](https://doi.org/10.1016/j.neuroimage.2007.03.008))
 {: reversed="reversed"}
 
+#### 1996 -- 2006
+
+0. J. Favergeon, J.Y. Huh, W.C. Johnson, and **S.M. Wise**, Wetting Transitions in a Binary Thin Film, Met. Mater. Int. 11 (2005) 487-497. (doi: [10.1007/BF03027499](https://doi.org/10.1007/BF03027499))
+
+0. **S.M. Wise**, J.S. Lowengrub, J.S. Kim, K. Thornton, P. Voorhees, and W.C. Johnson, Quantum Dot Formation on a Strain-Patterned Epitaxial Thin Film, Appl. Phys. Lettr. 87 (2005) 133102. (doi: [10.1063/1.2061852](https://doi.org/10.1063/1.2061852))
+
+0. X. Zheng, **S.M. Wise**, and V. Cristini, Nonlinear Simulation of Tumor Necrosis, Neo-Vascularization and Tissue Invasion via an Adaptive Finite-Element/Level-Set Method, Bull. Math. Biol. 67 (2005) 211-259. (doi: [10.1016/j.bulm.2004.08.001](https://doi.org/10.1016/j.bulm.2004.08.001))
+
+0. J.S. Lowengrub, Z. Hu, **S.M. Wise**, J.S. Kim, and A. Voigt, Phase-Field Modeling of Step Dynamics, MRS Proceedings, 859E (2005) JJ8.6.1-JJ8.6.6.
+
+0. **S.M. Wise**, J.S. Lowengrub, J.S. Kim, and W.C. Johnson, Efficient Phase-Field Simulation of Quantum Dot Formation in a Strained Heteroepitaxial Film, Superlattices and Microstructures 36 (2004) 293-304. (doi: [10.1016/j.spmi.2004.08.029](https://doi.org/10.1016/j.spmi.2004.08.029))
+
+0. **S.M. Wise**, J.S. Kim, and W.C. Johnson, Surface-Directed Spinodal Decomposition in a Stressed Two-Dimensional Thin Film, Thin Solid Films 473 (2004) 151-163. (doi: [10.1016/j.tsf.2004.07.075](https://doi.org/10.1016/j.tsf.2004.07.075))
+
+0. **S.M. Wise** and W.C. Johnson, Numerical Simulations of Pattern-Directed Phase Decomposition in a Stressed, Binary Thin Film, J. Appl. Phys. 94 (2003) 889-898. (doi: [10.1063/1.1577230](https://doi.org/10.1063/1.1577230))
+
+0. W.C. Johnson, **S.M. Wise**, J.Y. Huh, and J. Favergeon, Effect of Interfacial Segregation on Phase Decomposition of a Thin Film on a Patterned Substrate, Met. Mater. Int. 9 (2003) 1-8. (doi: [10.1007/BF03027222](https://doi.org/10.1007/BF03027222))
+
+0. W.C. Johnson and **S.M. Wise**, Phase Decomposition of a Binary Thin Film on a Patterned Substrate, Appl. Phys. Lettr. 81 (2002), 919-921. (doi: [10.1063/1.1497193](https://doi.org/10.1063/1.1497193))
+
+0. **S.M. Wise** and W.C. Johnson, Competitive Phase Growth in Stressed Thin Films, Modeling the Performance of Engineering Structural Materials II (TMS Fall 2001 Meeting), (2001).
+
+0. W.C. Johnson, P.H. Leo, Y. Zhen, and **S.M. Wise**, Spinodal Decomposition in Thin Plates Subjected to a Temperature Gradient, Modeling the Performance of Engineering Structural Materials II (TMS Fall 2001 Meeting), (2001).
+
+0. **S.M. Wise**, A.J. Sommese, and L.T. Watson, Algorithm 801: POLSYS_PLP: A Partitioned Linear Product Homotopy Code for Solving Polynomial Systems of Equations, ACM TOMS 26 (2000) 176-200. (doi: [10.1145/347837.347885](https://doi.org/10.1145/347837.347885))
+
+
+0. D. Schaal and **S.M. Wise**, Rado Numbers for Some Inequalities and an Arbitrary Number of Colors, Congr. Numer. 121 (1996), 147-153.
+
 
 
 
