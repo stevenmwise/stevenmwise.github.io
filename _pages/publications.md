@@ -207,6 +207,39 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 0. J.S. Lowengrub, H.B. Frieboes, F. Jin, Y.L. Chuang, X. Li, P. Macklin, **S.M. Wise**, and V. Cristini, Nonlinear Modeling of Cancer: Bridging the Gap Between Cells and Tumors, Nonlinearity 23 (2010) R1--R91. (doi: [10.1088/0951-7715/23/1/R01](https://doi.org/10.1088/0951-7715/23/1/R01))
 {: reversed="reversed"}
 
+#### 2009
+
+P.~Zhou, J.S.~Lowengrub, and \textbf{S.M.~Wise}, {\sl Coarsening of 3D Thin Films Under the Influence of Strong Surface Anisotropy and Elastic Stresses}, TMS 2009 (138th annual meeting), Supplemental Proceedings: Materials Characterization, Computation and Modeling (2009) 39-46.\url{https://apps.dtic.mil/dtic/tr/fulltext/u2/a538820.pdf}
+
+Z.~Hu, \textbf{S.M.~Wise}, C.~Wang, and J.S.~Lowengrub, {\sl Stable Finite Difference, Nonlinear Multigrid Simulation of the Phase Field Crystal Equation}, J.~Comput.~Phys.~228 (2009) 5323-5339.\url{https://doi.org/10.1016/j.jcp.2009.04.020}
+
+\textbf{S.M.~Wise}, C.~Wang, and J.S.~Lowengrub, {\sl An Energy Stable and Convergent Finite Difference Scheme for the Phase Field Crystal Equation}, SIAM J.~Numer.~Anal.~47 (2009) 2269-2288.\url{https://doi.org/10.1137/080738143}
+
+J.S.~Lowengrub, V.~Cristini, H.B.~Frieboes, X.~Li, P.~Macklin, S.~Sanga, \textbf{S.M.~Wise}, and X.~Zheng, {\sl Lecture Notes on Nonlinear Tumor Growth: Modeling and Simulation, in  B.C.~Khoo, Z.~Li, and P.~Lin (Editors) ``Interface Problems and Methods in Biological and Physical Flows,"} World Scientific (2009) 69-133.\url{https://doi.org/10.1142/9789812837851_0002}
+
+E.L.~Bearer, J.S.~Lowengrub, H.B.~Frieboes, Y.L.~Chuang, F.~Jin, \textbf{S.M.~Wise}, M.~Ferrari, D.B.~Agus, and V.~Cristini, {\sl Multiparameter Computational Modeling of Tumor Invasion}, Cancer Res.~69 (2009) 4493-4501.\url{https://doi.org/10.1158/0008-5472.CAN-08-3834}
+
+S.~Torabi, J.S.~Lowengrub, A.~Voigt, and \textbf{S.M.~Wise}, {\sl A New Phase-Field Model for Strongly Anisotropic Systems}, Proc.~R.~Soc.~A 465 (2009) 1337-1359.\url{https://doi.org/10.1098/rspa.2008.0385}
+
+V.~Cristini, X.~Li, J.S.~Lowengrub, and \textbf{S.M.~Wise}, {\sl Nonlinear Simulations of Solid Tumor Growth using a Mixture Model: Invasion and Branching}, J.~Math.~Biol.~58 (2009) 723-763.\url{https://doi.org/10.1007/s00285-008-0215-x}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### 2008
+
+#### 2007
+
 
 
 
