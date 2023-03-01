@@ -209,39 +209,39 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 #### 2009
 
-0. P. Zhou, J.S. Lowengrub, and **S.M. Wise**, Coarsening of 3D Thin Films Under the Influence of Strong Surface Anisotropy and Elastic Stresses, TMS 2009 (138th annual meeting), Supplemental Proceedings: Materials Characterization, Computation and Modeling (2009) 39-46. (doi: [](https://apps.dtic.mil/dtic/tr/fulltext/u2/a538820.pdf))
+0. P. Zhou, J.S. Lowengrub, and **S.M. Wise**, Coarsening of 3D Thin Films Under the Influence of Strong Surface Anisotropy and Elastic Stresses, TMS 2009 (138th annual meeting), Supplemental Proceedings: Materials Characterization, Computation and Modeling (2009) 39--46.
 
-0. Z. Hu, **S.M. Wise**, C. Wang, and J.S. Lowengrub, Stable Finite Difference, Nonlinear Multigrid Simulation of the Phase Field Crystal Equation, J. Comput. Phys. 228 (2009) 5323-5339. (doi: [](https://doi.org/10.1016/j.jcp.2009.04.020))
+0. Z. Hu, **S.M. Wise**, C. Wang, and J.S. Lowengrub, Stable Finite Difference, Nonlinear Multigrid Simulation of the Phase Field Crystal Equation, J. Comput. Phys. 228 (2009) 5323--5339. (doi: [10.1016/j.jcp.2009.04.020](https://doi.org/10.1016/j.jcp.2009.04.020))
 
-0. **S.M. Wise**, C. Wang, and J.S. Lowengrub, An Energy Stable and Convergent Finite Difference Scheme for the Phase Field Crystal Equation, SIAM J. Numer. Anal. 47 (2009) 2269-2288. (doi: [](https://doi.org/10.1137/080738143))
+0. **S.M. Wise**, C. Wang, and J.S. Lowengrub, An Energy Stable and Convergent Finite Difference Scheme for the Phase Field Crystal Equation, SIAM J. Numer. Anal. 47 (2009) 2269--2288. (doi: [10.1137/080738143](https://doi.org/10.1137/080738143))
 
-0. J.S. Lowengrub, V. Cristini, H.B. Frieboes, X. Li, P. Macklin, S. Sanga, **S.M. Wise**, and X. Zheng, Lecture Notes on Nonlinear Tumor Growth: Modeling and Simulation, in  B.C. Khoo, Z. Li, and P. Lin (Editors) **Interface Problems and Methods in Biological and Physical Flows**, World Scientific (2009) 69-133. (doi: [](https://doi.org/10.1142/9789812837851_0002))
+0. J.S. Lowengrub, V. Cristini, H.B. Frieboes, X. Li, P. Macklin, S. Sanga, **S.M. Wise**, and X. Zheng, Lecture Notes on Nonlinear Tumor Growth: Modeling and Simulation, in  B.C. Khoo, Z. Li, and P. Lin (Editors) **Interface Problems and Methods in Biological and Physical Flows**, World Scientific (2009) 69--133. (doi: [10.1142/9789812837851_0002](https://doi.org/10.1142/9789812837851_0002))
 
-0. E.L. Bearer, J.S. Lowengrub, H.B. Frieboes, Y.L. Chuang, F. Jin, **S.M. Wise**, M. Ferrari, D.B. Agus, and V. Cristini, Multiparameter Computational Modeling of Tumor Invasion, Cancer Res. 69 (2009) 4493-4501. (doi: [](https://doi.org/10.1158/0008-5472.CAN-08-3834))
+0. E.L. Bearer, J.S. Lowengrub, H.B. Frieboes, Y.L. Chuang, F. Jin, **S.M. Wise**, M. Ferrari, D.B. Agus, and V. Cristini, Multiparameter Computational Modeling of Tumor Invasion, Cancer Res. 69 (2009) 4493--4501. (doi: [10.1158/0008-5472.CAN-08-3834](https://doi.org/10.1158/0008-5472.CAN-08-3834))
 
-0. S. Torabi, J.S. Lowengrub, A. Voigt, and **S.M. Wise**, A New Phase-Field Model for Strongly Anisotropic Systems, Proc. R. Soc. A 465 (2009) 1337-1359. (doi: [](https://doi.org/10.1098/rspa.2008.0385))
+0. S. Torabi, J.S. Lowengrub, A. Voigt, and **S.M. Wise**, A New Phase-Field Model for Strongly Anisotropic Systems, Proc. R. Soc. A 465 (2009) 1337--1359. (doi: [10.1098/rspa.2008.0385](https://doi.org/10.1098/rspa.2008.0385))
 
-0. V. Cristini, X. Li, J.S. Lowengrub, and **S.M. Wise**, Nonlinear Simulations of Solid Tumor Growth using a Mixture Model: Invasion and Branching, J. Math. Biol. 58 (2009) 723-763. (doi: [](https://doi.org/10.1007/s00285-008-0215-x))
+0. V. Cristini, X. Li, J.S. Lowengrub, and **S.M. Wise**, Nonlinear Simulations of Solid Tumor Growth using a Mixture Model: Invasion and Branching, J. Math. Biol. 58 (2009) 723--763. (doi: [10.1007/s00285-008-0215-x](https://doi.org/10.1007/s00285-008-0215-x))
 {: reversed="reversed"}
 
 #### 2008
 
-0. **S.M. Wise**, J.S. Lowengrub, H.B. Frieboes, and V. Cristini, Three-Dimensional Multispecies Nonlinear Tumor Growth--I: Model and Numerical Method, J. Theor. Biol. 253 (2008) 524-543. (doi: [](https://doi.org/10.1016/j.jtbi.2008.03.027))
+0. **S.M. Wise**, J.S. Lowengrub, H.B. Frieboes, and V. Cristini, Three-Dimensional Multispecies Nonlinear Tumor Growth--I: Model and Numerical Method, J. Theor. Biol. 253 (2008) 524--543. (doi: [10.1016/j.jtbi.2008.03.027](https://doi.org/10.1016/j.jtbi.2008.03.027))
 
-0. S. Torabi, **S.M. Wise**, S. Li, A. Voigt, J.S. Lowengrub, and P. Zhou, Simulations of Nonlinear Strongly Anisotropic, Misfitting Crystals and Thin Films, MRS Proceedings~1087 (2008) 1087-V02-01. (doi: [](https://doi.org/10.1557/PROC-1087-V02-01))
+0. S. Torabi, **S.M. Wise**, S. Li, A. Voigt, J.S. Lowengrub, and P. Zhou, Simulations of Nonlinear Strongly Anisotropic, Misfitting Crystals and Thin Films, MRS Proceedings 1087 (2008) 1087-V02-01. (doi: [10.1557/PROC-1087-V02-01](https://doi.org/10.1557/PROC-1087-V02-01))
 
-0. V. Cristini, H.B. Frieboes, X. Li, J.S. Lowengrub, P. Macklin, S. Sanga, **S.M. Wise**, and X. Zheng, Nonlinear Modeling and Simulation of Tumor Growth, in N. Bellomo, M. Chaplain, and E. De Angelis (Editors), **Selected Topics in Cancer Modeling: Genesis, Evolution, Immune Competition, and Therapy**,  Birkhauser (2008) 1-69. (doi: [](https://doi.org/10.1007/978-0-8176-4713-1_6))
+0. V. Cristini, H.B. Frieboes, X. Li, J.S. Lowengrub, P. Macklin, S. Sanga, **S.M. Wise**, and X. Zheng, Nonlinear Modeling and Simulation of Tumor Growth, in N. Bellomo, M. Chaplain, and E. De Angelis (Editors), **Selected Topics in Cancer Modeling: Genesis, Evolution, Immune Competition, and Therapy**,  Birkhauser (2008) 1--69. (doi: [10.1007/978-0-8176-4713-1_6](https://doi.org/10.1007/978-0-8176-4713-1_6))
 
-0. Z. Hu, S. Li, J.S. Lowengrub, **S.M. Wise**, and A. Voigt, Phase Field Modeling of Nanoscale Island Dynamics, TMS 2008 (137th annual meeting) Supplemental Proceedings: Materials Processing and Properties (2008) 111-116.
+0. Z. Hu, S. Li, J.S. Lowengrub, **S.M. Wise**, and A. Voigt, Phase Field Modeling of Nanoscale Island Dynamics, TMS 2008 (137th annual meeting) Supplemental Proceedings: Materials Processing and Properties (2008) 111--116.
 {: reversed="reversed"}
 
 #### 2007
 
-0. S. Torabi, **S.M. Wise**, J.S. Lowengrub, A. Ratz, and A. Voigt, A New Method for Simulating Strongly Anisotropic Cahn-Hilliard Equations, MS\&T 2007 Conference Proceedings (2007) 1432-1444.	
+0. S. Torabi, **S.M. Wise**, J.S. Lowengrub, A. Ratz, and A. Voigt, A New Method for Simulating Strongly Anisotropic Cahn-Hilliard Equations, MS&T 2007 Conference Proceedings (2007) 1432--1444.	
 
-0. **S.M. Wise**, J.S. Kim, and J.S. Lowengrub, Solving the Regularized, Strongly Anisotropic Cahn-Hilliard Equation by an Adaptive Nonlinear Multigrid Method, J. Comput. Phys. 226 (2007) 414-446. (doi: [](https://doi.org/10.1016/j.jcp.2007.04.020))
+0. **S.M. Wise**, J.S. Kim, and J.S. Lowengrub, Solving the Regularized, Strongly Anisotropic Cahn-Hilliard Equation by an Adaptive Nonlinear Multigrid Method, J. Comput. Phys. 226 (2007) 414--446. (doi: [10.1016/j.jcp.2007.04.020](https://doi.org/10.1016/j.jcp.2007.04.020))
 
-0. H.B. Frieboes, J.S. Lowengrub, **S.M. Wise**, X. Zheng, P. Macklin, E.L. Bearer, and V. Cristini, Computer Simulation of Glioma Growth and Morphology, NeuroImage  37 (2007) S59-S70. (doi: [](https://doi.org/10.1016/j.neuroimage.2007.03.008))
+0. H.B. Frieboes, J.S. Lowengrub, **S.M. Wise**, X. Zheng, P. Macklin, E.L. Bearer, and V. Cristini, Computer Simulation of Glioma Growth and Morphology, NeuroImage  37 (2007) S59--S70. (doi: [10.1016/j.neuroimage.2007.03.008](https://doi.org/10.1016/j.neuroimage.2007.03.008))
 {: reversed="reversed"}
 
 
