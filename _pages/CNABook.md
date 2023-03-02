@@ -7,8 +7,6 @@ published: true
 
 ## Classical Numerical Analysis
 
-<img src="https://github.com/stevenmwise/stevenmwise.github.io/blob/master/files/9781108837705ppc.jpg" width="600">
-
 ### Synopsis
 
 **Classical Numerical Analysis: A Comprehensive Course** (CNA) is our new book (2023) on numerical analysis aimed at graduate and advanced undergraduate students and published by Cambridge University Press. Written by my colleague, [Abner Salgado](https://sites.google.com/utk.edu/abnersg/), and myself, CNA is our attempt to make numerical analysis accessible and understandable to a modern audience. The following is the back-cover blurb for the book:
