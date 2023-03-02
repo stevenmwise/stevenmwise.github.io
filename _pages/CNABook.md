@@ -7,7 +7,7 @@ published: true
 
 ## Classical Numerical Analysis
 
-<img src="https://github.com/stevenmwise/stevenmwise.github.io/blob/master/files/9781108837705ppc.png" width="600">
+<img src="https://github.com/stevenmwise/stevenmwise.github.io/blob/master/files/9781108837705ppc.jpg" width="600">
 
 ### Synopsis
 
