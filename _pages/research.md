@@ -9,25 +9,37 @@ published: true
 
 ### Areas of Interest
 Numerical methods for parabolic PDE and interace problems
-- diffuse interface methods
+- diffuse interface approximation methods
 - DG and finite element methods
-- energy stable methods
+- energy/entropy stable methods
 - positivity preserving methods
 - adaptive mesh refinement
 - multigrid methods/fast solvers
 
 Complex fluids
+- interfaces
+- multiphase flows
 - phase transitions
-- non-constant temperature fields
+- non-isothermal models
 - thermodynamically consistent models
 - polymeric flows
-- Boltzmann transport equation
+- kinetic equations
+
+Nonlinear PDE
+- properties of solutions
+- singular perturbation problems
+- asymptotic methods
+- Gamma convergence
+- existence, uniqueness, and regularity
 
 Biological growth
+- developmental biology
 - spatio-temporal cancer progression models
 - membrane dynamics
 
 Materials science
+- ionic materials
+- phase field and phase field crystal (PFC) methods
 - crystalization
 - material anisotropy
 - structural phase transistions

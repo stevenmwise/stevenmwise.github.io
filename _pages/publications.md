@@ -24,7 +24,7 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 0. A. Christlieb, K. Promislow, Z. Tan, S. Wang, B. Wetton, S.M. Wise, Benchmark Computation of Morphological Complexity in the Functionalized Cahn-Hilliard Gradient Flow. (arXiv: [abs/2006.04784](https://arxiv.org/abs/2006.04784))
 
-0. Shibin Dai, Joseph Renzi, and \textbf{Steven M. Wise}, Gamma Convergence of the DeGennes-Cahn-Hilliard Energy. (arXiv: [abs/2210.16492](https://arxiv.org/abs/2210.16492))
+0. Shibin Dai, Joseph Renzi, and Steven M. Wise, Gamma Convergence of the DeGennes-Cahn-Hilliard Energy. (arXiv: [abs/2210.16492](https://arxiv.org/abs/2210.16492))
 {: reversed="reversed"}
 
 #### 2023
