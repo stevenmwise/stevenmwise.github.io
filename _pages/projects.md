@@ -13,7 +13,7 @@ In this project, our goal is to derive and analyze fast numerical methods for th
 This work is joint with Cory Hauck and is funded by the US Department of Energy.
 
 ### Positivity-Preserving Numerical Methods
-Our goal in this project is to develop high-order energy stable and postivity-preserving numerical methods for non-isothermal gradient flows where the energy of the flow has singular potentials. The resulting schemes are usually highly nonlinear and singular, and they require sophisticated numerical solvers.
+Our goal in this project is to develop high-order energy stable and postivity-preserving numerical methods for non-isothermal gradient flows where the energy/entropy of the flow has singular potential terms. The resulting schemes are usually highly nonlinear and singular, and they require sophisticated numerical solvers.
 
 This work is joint with Cheng Wang and is funded by the US National Science Foundation through grants [NSF-DMS 2012634](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2012634) and [NSF-DMS 2309547](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2309547).
 
