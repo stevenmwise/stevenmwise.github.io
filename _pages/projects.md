@@ -15,7 +15,7 @@ This work is joint with Cory Hauck and is funded by the US Department of Energy.
 ### Positivity-Preserving Numerical Methods
 Our goal in this project is to develop high-order energy stable and postivity-preserving numerical methods for gradient flows where the energy of the flow has singular potentials. The resulting schemes are usually highly nonlinear and singular, and they require sophisticated numerical solvers.
 
-This work is joint with Cheng Wang and is funded by the US National Science Foundation through grant [NSF-DMS 2012634](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2012634).
+This work is joint with Cheng Wang and is funded by the US National Science Foundation through grants [NSF-DMS 2012634](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2012634) and [NSF-DMS 2309547](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2309547).
 
 ### All Projects, Current and Completed
 
@@ -24,4 +24,5 @@ This work is joint with Cheng Wang and is funded by the US National Science Foun
 - [NSF-DMS 1115390](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1115390), 7/11 -- 9/14. 
 - [NSF-DMS 1418692](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1418692), 9/14 -- 8/17. 
 - [NSF-DMS 1719854](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1719854), 8/17 -- 7/20. 
-- [NSF-DMS 2012634](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2012634), 8/20 -- 7/23. 
+- [NSF-DMS 2012634](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2012634), 8/20 -- 7/24. 
+- [NSF-DMS 2309547](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2309547), 8/23 -- 7/26. 
