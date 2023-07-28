@@ -50,7 +50,7 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 0. M. Yuan, W. Chen, C. Wang, **S.M. Wise**, and Z. Zhang, A Second Order Accurate in Time, Energy Stable Finite Element Scheme for the Flory-Huggins-Cahn-Hilliard Equation, Adv. Appl. Math. Mech. 14 (2022) 1477--1508. (doi: [10.4208/aamm.OA-2021-0331](https://doi.org/10.4208/aamm.OA-2021-0331))
 
-0. E. Habbershaw and **S.M. Wise**, A Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, Mathematics, The University of Tennessee, Report Number 10 (2022) (81 pages). (Trace: [Math Faculty Report 10](https://trace.tennessee.edu/utk_mathpubs/10/))
+0. E. Habbershaw and **S.M. Wise**, A Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, The University of Tennessee, Mathematics Report Number 10 (2022) (81 pages). (Trace: [Math Faculty Report 10](https://trace.tennessee.edu/utk_mathpubs/10/))
 
 0. L. Dong, C. Wang, **S.M. Wise**, and Z. Zhang, Optimal Rate Convergence Analysis of a Numerical Scheme for the Ternary Cahn-Hilliard System with a Flory-Huggins-deGennes Energy Potential, J. Comp. Appl. Math. 415 (2022) 114474 (18 pages). (doi: [10.1016/j.cam.2022.114474](https://doi.org/10.1016/j.cam.2022.114474))
 
