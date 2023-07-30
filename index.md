@@ -20,6 +20,6 @@ I work in the intersection of numerical analysis, partial differential equations
 ### Citations
 My citation information can be found in the Google Scholar, Scopus, and other links below, and my UTK Faculty Profile can be found [here](https://faculty.utk.edu/Steven.Wise). I was recognized by Web of Science as a highly cited researcher in [2020](https://recognition.webofscience.com/awards/highly-cited/2020/) and [2022](https://recognition.webofscience.com/awards/highly-cited/2022/). 
 
-### Math Quotes
+### Favorite (Mostly Maths) Quotes
 
 "No self-respecting architect leaves the scaffolding in place after completing his building." --C.F. Gauss
