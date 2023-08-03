@@ -39,7 +39,7 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 0. J.H. Park, A.J. Salgado, and S.M. Wise, Benchmark Computations of the Phase Field Crystal and Functionalized Cahn-Hilliard Equations via Fully Implicit, Nesterov Accelerated Schemes, Commun. Comput. Phys. 33 (2023) 367--398. (doi: [10.4208/cicp.OA-2022-0117](https://doi.org/10.4208/cicp.OA-2022-0117))
 
-0. X. Chen, C. Wang, and **S.M. Wise**, A Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Variable Mobility, Int. J. Numer. Anal. Model. 19 (2022) 839--863. (doi: [10.4310/CMS.2023.v21.n4.a10](https://dx.doi.org/10.4310/CMS.2023.v21.n4.a10))
+0. X. Chen, C. Wang, and **S.M. Wise**, A Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Variable Mobility, Int. J. Numer. Anal. Model. 19 (2022) 839--863. (pdf: [IJNAM](http://www.math.ualberta.ca/ijnam/Volume-19-2022/No-6-22/2022-06-06.pdf))
 {: reversed="reversed"}
 
 #### 2022
@@ -111,7 +111,7 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 0. W. Chen, W. Feng, Y. Liu, C. Wang, and **S.M. Wise**, A Second Order Energy Stable Scheme for the Cahn-Hilliard-Hele-Shaw Equations, Discrete Cont. Dyn. Syst. Ser. B 24 (2019) 149--182. (doi: [10.3934/dcdsb.2018090](https://doi.org/10.3934/dcdsb.2018090))
 
-0. R. Backofen, **S.M. Wise**, M. Salvalaglio, and A. Voigt, Convexity Splitting in a Phase Field Model for Surface Diffusion, Int. J. Numer. Anal. Model. 16 (2019) 192--209.
+0. R. Backofen, **S.M. Wise**, M. Salvalaglio, and A. Voigt, Convexity Splitting in a Phase Field Model for Surface Diffusion, Int. J. Numer. Anal. Model. 16 (2019) 192--209. (pdf: [IJNAM](http://www.math.ualberta.ca/ijnam/Volume-16-2019/No-2-19/2019-02-02.pdf))
 {: reversed="reversed"}
 
 #### 2018
@@ -122,7 +122,7 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 0. Y. Chen, J.S. Lowengrub, J. Shen, C. Wang, and **S.M. Wise**, Efficient Energy Stable Schemes for Isotropic and Strongly Anisotropic Cahn-Hilliard Systems with the Willmore Regularization, J. Comput. Phys. 365 (2018) 56--73. (doi: [10.1016/j.jcp.2018.03.024](https://doi.org/10.1016/j.jcp.2018.03.024))
 
-0. L.G. Rebholz, **S.M. Wise**, and M. Xiao,  Penalty-Projection Schemes for the Cahn-Hilliard Navier-Stokes Diffuse Interface Model of Two Phase Flow, and their Connection to Divergence-Free Coupled Schemes, Int. J. Numer. Anal. Model. 15 (2018) 649--676.
+0. L.G. Rebholz, **S.M. Wise**, and M. Xiao,  Penalty-Projection Schemes for the Cahn-Hilliard Navier-Stokes Diffuse Interface Model of Two Phase Flow, and their Connection to Divergence-Free Coupled Schemes, Int. J. Numer. Anal. Model. 15 (2018) 649--676. (pdf: [IJNAM](http://www.math.ualberta.ca/ijnam/Volume-15-2018/No-4-18/2018-45-11.pdf))
 
 0. J. Cummings, J.S. Lowengrub, B.G. Sumpter, **S.M. Wise**, and R. Kumar, Modeling Solvent Evaporation During Thin Film Formation in Phase Separating Polymer Mixtures, Soft Matter 14 (2018) 1833--1846. (doi: [10.1039/c7sm02560b](https://doi.org/10.1039/c7sm02560b))
 
@@ -139,7 +139,7 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 0. Z. Guo, P. Lin, J.S. Lowengrub, and **S.M. Wise**, Mass Conservative and Energy Stable Finite Difference Methods for the Quasi-Incompressible Navier-Stokes-Cahn-Hilliard System: Primitive Variable and Projection-Type Schemes, Comput. Methods Appl. Mech. Engrg. 326 (2017) 144--174. (doi: [10.1016/j.cma.2017.08.011](https://doi.org/10.1016/j.cma.2017.08.011))
 
-0. Z. Qiao, C. Wang, **S.M. Wise**, and Z. Zhang, Error Analysis of an Energy Stable Finite Difference Scheme for the Epitaxial Thin Film Model with Slope Selection with an Improved Convergence Constant, Int. J. Numer. Anal. Model. 14 (2017) 283--305.
+0. Z. Qiao, C. Wang, **S.M. Wise**, and Z. Zhang, Error Analysis of an Energy Stable Finite Difference Scheme for the Epitaxial Thin Film Model with Slope Selection with an Improved Convergence Constant, Int. J. Numer. Anal. Model. 14 (2017) 283--305. (pdf: [IJNAM](http://www.math.ualberta.ca/ijnam/Volume-14-2017/No-2-17/2017-02-07.pdf))
 
 0. Y. Liu, W. Chen, C. Wang, and **S.M. Wise**, Error Analysis of a Mixed Finite Element Method for a Cahn-Hilliard-Hele-Shaw System, Numer. Math. 135 (2017) 679--709. (doi: [10.1007/s00211-016-0813-2](https://doi.org/10.1007/s00211-016-0813-2))
 
