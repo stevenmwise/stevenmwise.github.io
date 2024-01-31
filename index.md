@@ -22,4 +22,8 @@ My citation information can be found in the Google Scholar, Scopus, and other li
 
 ### Favorite (Mostly Maths) Quotes
 
-"No self-respecting architect leaves the scaffolding in place after completing his building." --C.F. Gauss
+"No self-respecting architect leaves the scaffolding in place after completing his building." -- Carl Friedrich Gauss
+
+"If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." -- John von Neumann
+
+"In contrast to the methods of the last two sections, which we would describe as exact, rigorous, systematic, limited in scope, and deadly, these new methods are approximate, intuitive, heuristic, powerful, and fascinating." -- Carl M. Bender and Steven A. Orszag
