@@ -27,7 +27,7 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 #### 2024
 
-0. E. Habbershaw and **S.M. Wise**, Year-2 Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, The University of Tennessee, Mathematics Report Number 11 (2024) (129 pages). (Trace: [Math Faculty Report 10](https://trace.tennessee.edu/utk_mathpubs/11/))
+0. E. Habbershaw and **S.M. Wise**, Year-2 Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, The University of Tennessee, Mathematics Report Number 11 (2024) (129 pages). (Trace: [Math Faculty Report 11](https://trace.tennessee.edu/utk_mathpubs/11/))
 
 0. C. Wang, J. Wang, **S.M. Wise**, Z. Xia, and L. Xu, Convergence Analysis of a Temporally Second-Order Accurate Finite Element scheme for the Cahn-Hilliard-Magnetohydrodynamics System of Equations, J. Comput. Appl. Math. 436 (2024) 115409 (17 pages). (doi: [10.1016/j.cam.2023.115409](https://doi.org/10.1016/j.cam.2023.115409))
 {: reversed="reversed"}
