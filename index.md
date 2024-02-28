@@ -12,7 +12,9 @@ published: true
 ### Short Biography
 I have been a professor of mathematics at the University of Tennessee, Knoxville, since 2007. Before that I was a postdoc at UC, Irvine, in Orange County California, where I worked with John Lowengrub and Vittorio Cristini on complex fluids, crystal microstructure, and cancer progression. I got a BS degree in mathematics in 1996 from Clarion University and did graduate work in mathematics at Virginia Tech and Penn State after that. I received my PhD in 2003 from the University of Virginia, where I studied engineering physics, working with the nicest person in the world, Dr. William C. Johnson.
 
-For the most part, I teach courses in numerical analysis, and, with Abner Salgado, I wrote a graduate-level textbook on the subject entitled **Classical Numerical Analysis: A Comprehensive Course**, published by Cambridge University Press this year (2023). You can check it out on Amazon or Cambridge Core. When I can, I also teach some courses in analysis and PDE, which are a lot of fun. 
+For the most part, I teach courses in numerical analysis, and, with Abner Salgado, I wrote a graduate-level textbook on the subject entitled [Classical Numerical Analysis: A Comprehensive Course](https://doi.org/10.1017/9781108942607), published by Cambridge University Press in 2023. You can check it out on Amazon or Cambridge Core. When I can, I also teach some courses in analysis and PDE, which are a lot of fun.
+
+I have a YouTube channel, [WiseAppliedMaths](http://www.youtube.com/@WiseAppliedMaths), where I post lectures from some of the courses that I teach. My latest playlist is a course on [Asymptotic Analysis](https://youtube.com/playlist?list=PLRC4Oo56zlKnNSCDSSny82UppC2-sCpeW&si=yZ-ix4LtlLVWlb5B). 
 
 ### Research
 I work in the intersection of numerical analysis, partial differential equations, and soft matter physics. I build models to study heat, mass, and current flow and the formation of interfaces in complex fluids and materials, and I design efficient numerical methods to get approximate solutions.
