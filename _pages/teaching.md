@@ -7,7 +7,10 @@ published: true
 
 ## Teaching
 
-### YouTube Channel [WiseAppliedMaths](http://www.youtube.com/@WiseAppliedMaths)
+### YouTube 
+
+#### Channel 
+- [WiseAppliedMaths](http://www.youtube.com/@WiseAppliedMaths)
 
 #### Courses
 - [Essential Perturbation Theory and Asymptotic Analysis](https://youtube.com/playlist?list=PLRC4Oo56zlKnNSCDSSny82UppC2-sCpeW&si=yZ-ix4LtlLVWlb5B)
