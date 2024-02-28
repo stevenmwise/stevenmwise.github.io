@@ -47,11 +47,11 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 0. K. Cheng, C. Wang, and **S.M. Wise**, An Energy Stable Finite Difference Scheme for the Ericksen-Leslie System with Penalty Function and its Optimal Rate Convergence Analysis, Commun. Math. Sci. 21 (2023) 1135--1169. (doi: [10.4310/CMS.2023.v21.n4.a10](https://dx.doi.org/10.4310/CMS.2023.v21.n4.a10))
 
 0. J.H. Park, A.J. Salgado, and **S.M. Wise**, Benchmark Computations of the Phase Field Crystal and Functionalized Cahn-Hilliard Equations via Fully Implicit, Nesterov Accelerated Schemes, Commun. Comput. Phys. 33 (2023) 367--398. (doi: [10.4208/cicp.OA-2022-0117](https://doi.org/10.4208/cicp.OA-2022-0117))
-
-0. X. Chen, C. Wang, and **S.M. Wise**, A Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Variable Mobility, Int. J. Numer. Anal. Model. 19 (2022) 839--863. (pdf: [IJNAM](http://www.math.ualberta.ca/ijnam/Volume-19-2022/No-6-22/2022-06-06.pdf))
 {: reversed="reversed"}
 
 #### 2022
+
+0. X. Chen, C. Wang, and **S.M. Wise**, A Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Variable Mobility, Int. J. Numer. Anal. Model. 19 (2022) 839--863. (pdf: [IJNAM](http://www.math.ualberta.ca/ijnam/Volume-19-2022/No-6-22/2022-06-06.pdf))
 
 0. C. Wang and **S.M. Wise**, A Thermodynamically-Consistent Phase Field Crystal Model of Solidification with Heat Flux, J. Math. Study 55 (2022) 1--21. (doi: [10.4208/jms.v55n4.22.01](https://doi.org/10.4208/jms.v55n4.22.01))
 
