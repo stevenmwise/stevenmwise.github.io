@@ -7,16 +7,12 @@ published: true
 
 ## Teaching
 
-### YouTube 
+### YouTube Courses @ [WiseAppliedMaths](http://www.youtube.com/@WiseAppliedMaths)
+0. [Essential Perturbation Theory and Asymptotic Analysis](https://youtube.com/playlist?list=PLRC4Oo56zlKnNSCDSSny82UppC2-sCpeW&si=yZ-ix4LtlLVWlb5B)
+0. Multigrid Methods (Coming Soon)
+{: reversed="reversed"} 
 
-#### Channel 
-- [WiseAppliedMaths](http://www.youtube.com/@WiseAppliedMaths)
-
-#### Courses
-- [Essential Perturbation Theory and Asymptotic Analysis](https://youtube.com/playlist?list=PLRC4Oo56zlKnNSCDSSny82UppC2-sCpeW&si=yZ-ix4LtlLVWlb5B)
-- Multigrid Methods (Coming Soon)
-
-### Classes
+### In-Person Classes
 
 #### Spring 2024
 - **Math 572**, Numerical Mathematics II
