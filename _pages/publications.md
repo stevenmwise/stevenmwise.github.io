@@ -16,33 +16,42 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 #### Preprints
 
-0. Y. Guo, C. Wang, S.M. Wise, Z. Zhang, Convergence Analysis of a Positivity-Preserving Numerical Scheme for the Cahn-Hilliard-Stokes System with Flory-Huggins Energy Potential. (arXiv: [abs/2303.11609](https://arxiv.org/abs/2303.11609))
+0. A.E. Diegel, C. Wang, and **S.M. Wise**, Convergence Analysis of a Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Logarithmic Potential. (arXiv: [abs/2401.16316](https://arxiv.org/abs/2401.16316))
 
-0. C. Liu, C. Wang, S.M. Wise, X. Yue, and S. Zhou, A Second Order Accurate Numerical Method for the Poisson-Nernst-Planck System in the Energetic Variational Formulation. (arXiv: [abs/2208.06123](https://arxiv.org/abs/2208.06123))
+0. E. Habbershaw, R.S. Glasby, J.R. Haack, C.D. Hauck, and **S.M. Wise**, Asymptotic Relaxation of Moment Equations for a Multi-species, Homogeneous BGK Model. (arXiv: [abs/2310.12885](https://arxiv.org/abs/2310.12885))
 
-0. C. Wang, J. Wang, S.M. Wise, Z. Xia, and L. Xu, Convergence Analysis of a Temporally Second-Order Accurate Finite Element scheme for the Cahn-Hilliard-Magnetohydrodynamics System of Equations, (in review).
+0. Y. Guo, C. Wang, **S.M. Wise**, Z. Zhang, Convergence Analysis of a Positivity-Preserving Numerical Scheme for the Cahn-Hilliard-Stokes System with Flory-Huggins Energy Potential. (arXiv: [abs/2303.11609](https://arxiv.org/abs/2303.11609))
 
-0. A. Christlieb, K. Promislow, Z. Tan, S. Wang, B. Wetton, S.M. Wise, Benchmark Computation of Morphological Complexity in the Functionalized Cahn-Hilliard Gradient Flow. (arXiv: [abs/2006.04784](https://arxiv.org/abs/2006.04784))
+0. A. Christlieb, K. Promislow, Z. Tan, S. Wang, B. Wetton,**S.M. Wise**, Benchmark Computation of Morphological Complexity in the Functionalized Cahn-Hilliard Gradient Flow. (arXiv: [abs/2006.04784](https://arxiv.org/abs/2006.04784))
+{: reversed="reversed"}
 
-0. Shibin Dai, Joseph Renzi, and Steven M. Wise, Gamma Convergence of the DeGennes-Cahn-Hilliard Energy. (arXiv: [abs/2210.16492](https://arxiv.org/abs/2210.16492))
+#### 2024
+
+0. E. Habbershaw and **S.M. Wise**, Year-2 Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, The University of Tennessee, Mathematics Report Number 11 (2024) (129 pages). (Trace: [Math Faculty Report 11](https://trace.tennessee.edu/utk_mathpubs/11/))
+
+0. C. Wang, J. Wang, **S.M. Wise**, Z. Xia, and L. Xu, Convergence Analysis of a Temporally Second-Order Accurate Finite Element scheme for the Cahn-Hilliard-Magnetohydrodynamics System of Equations, J. Comput. Appl. Math. 436 (2024) 115409 (17 pages). (doi: [10.1016/j.cam.2023.115409](https://doi.org/10.1016/j.cam.2023.115409))
 {: reversed="reversed"}
 
 #### 2023
 
-0. X. Tang, S. Li, J.S. Lowengrub, and S.M. Wise, Phase Field Modeling and Computation of Vesicle Growth or Shrinkage, J. Math. Biol. 86 (2023) 97 (31 pages). (doi: [10.1007/s00285-023-01928-2](https://doi.org/10.1007/s00285-023-01928-2))
+0. Shibin Dai, Joseph Renzi, and **S.M. Wise**, Gamma Convergence of the DeGennes-Cahn-Hilliard Energy, Comm. Math. Sci. 21 (2023) 2131-2144. (doi: [10.4310/CMS.2023.v21.n8.a3](https://dx.doi.org/10.4310/CMS.2023.v21.n8.a3))
 
-0. K. Cheng, C. Wang, and S.M. Wise, High Order Accurate and Convergent Numerical Scheme for the Strongly Anisotropic Cahn-Hilliard Model, Numer. Methods Partial Diff. Eq. (2023) (23 pages). (doi: [10.1002/num.23034](https://doi.org/10.1002/num.23034))
+0. C. Liu, C. Wang, **S.M. Wise**, X. Yue, and S. Zhou, A Second Order Accurate, Positivity Preserving Numerical Method for the Poisson-Nernst-Planck System and Its Convergence Analysis, J. Sci. Comput. 97 (2023) 23 (35 pages). (doi: [10.1007/s10915-023-02345-9](https://doi.org/10.1007/s10915-023-02345-9))
 
-0. M. Punke, S.M. Wise, A. Voigt, and M. Salvalaglio, Improved Time Integration for Phase-Field Crystal Models of Solidification, Proc. Appl. Math. Mech. 23 (2023) e202200112 (6 pages). (doi: [10.1002/pamm.202200112](https://doi.org/10.1002/pamm.202200112))
+0. X. Tang, S. Li, J.S. Lowengrub, and **S.M. Wise**, Phase Field Modeling and Computation of Vesicle Growth or Shrinkage, J. Math. Biol. 86 (2023) 97 (31 pages). (doi: [10.1007/s00285-023-01928-2](https://doi.org/10.1007/s00285-023-01928-2))
 
-0. K. Cheng, C. Wang, and S.M. Wise, An Energy Stable Finite Difference Scheme for the Ericksen-Leslie System with Penalty Function and its Optimal Rate Convergence Analysis, Commun. Math. Sci. 21 (2023) 1135--1169. (doi: [10.4310/CMS.2023.v21.n4.a10](https://dx.doi.org/10.4310/CMS.2023.v21.n4.a10))
+0. K. Cheng, C. Wang, and **S.M. Wise**, High Order Accurate and Convergent Numerical Scheme for the Strongly Anisotropic Cahn-Hilliard Model, Numer. Methods Partial Diff. Eq. (2023) (23 pages). (doi: [10.1002/num.23034](https://doi.org/10.1002/num.23034))
 
-0. J.H. Park, A.J. Salgado, and S.M. Wise, Benchmark Computations of the Phase Field Crystal and Functionalized Cahn-Hilliard Equations via Fully Implicit, Nesterov Accelerated Schemes, Commun. Comput. Phys. 33 (2023) 367--398. (doi: [10.4208/cicp.OA-2022-0117](https://doi.org/10.4208/cicp.OA-2022-0117))
+0. M. Punke, **S.M. Wise**, A. Voigt, and M. Salvalaglio, Improved Time Integration for Phase-Field Crystal Models of Solidification, Proc. Appl. Math. Mech. 23 (2023) e202200112 (6 pages). (doi: [10.1002/pamm.202200112](https://doi.org/10.1002/pamm.202200112))
 
-0. X. Chen, C. Wang, and **S.M. Wise**, A Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Variable Mobility, Int. J. Numer. Anal. Model. 19 (2022) 839--863. (pdf: [IJNAM](http://www.math.ualberta.ca/ijnam/Volume-19-2022/No-6-22/2022-06-06.pdf))
+0. K. Cheng, C. Wang, and **S.M. Wise**, An Energy Stable Finite Difference Scheme for the Ericksen-Leslie System with Penalty Function and its Optimal Rate Convergence Analysis, Commun. Math. Sci. 21 (2023) 1135--1169. (doi: [10.4310/CMS.2023.v21.n4.a10](https://dx.doi.org/10.4310/CMS.2023.v21.n4.a10))
+
+0. J.H. Park, A.J. Salgado, and **S.M. Wise**, Benchmark Computations of the Phase Field Crystal and Functionalized Cahn-Hilliard Equations via Fully Implicit, Nesterov Accelerated Schemes, Commun. Comput. Phys. 33 (2023) 367--398. (doi: [10.4208/cicp.OA-2022-0117](https://doi.org/10.4208/cicp.OA-2022-0117))
 {: reversed="reversed"}
 
 #### 2022
+
+0. X. Chen, C. Wang, and **S.M. Wise**, A Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Variable Mobility, Int. J. Numer. Anal. Model. 19 (2022) 839--863. (pdf: [IJNAM](http://www.math.ualberta.ca/ijnam/Volume-19-2022/No-6-22/2022-06-06.pdf))
 
 0. C. Wang and **S.M. Wise**, A Thermodynamically-Consistent Phase Field Crystal Model of Solidification with Heat Flux, J. Math. Study 55 (2022) 1--21. (doi: [10.4208/jms.v55n4.22.01](https://doi.org/10.4208/jms.v55n4.22.01))
 
