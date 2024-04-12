@@ -16,6 +16,8 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 #### Preprints
 
+0. Y. Sun, J. Wu, M. Jiang, **S.M. Wise**, Z. Guo, A Thermodynamically Consistent Phase-Field Model and an Entropy Stable Numerical Method for Simulating Two-Phase Flows with Thermocapillary Effects. (arXiv: [abs/2404.04950](https://arxiv.org/abs/2404.04950))
+
 0. A.E. Diegel, C. Wang, and **S.M. Wise**, Convergence Analysis of a Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Logarithmic Potential. (arXiv: [abs/2401.16316](https://arxiv.org/abs/2401.16316))
 
 0. E. Habbershaw, R.S. Glasby, J.R. Haack, C.D. Hauck, and **S.M. Wise**, Asymptotic Relaxation of Moment Equations for a Multi-species, Homogeneous BGK Model. (arXiv: [abs/2310.12885](https://arxiv.org/abs/2310.12885))
