@@ -14,7 +14,12 @@ published: true
 - **Associate Professor**, 2012--2017
 - **Assistant Professor**, 2007--2012
 
+#### Technical University of Dresden, Scientific Computing Department
+- **Dresden Fellow**, Fall 2017
+
+
 #### The University of California, Irvine, Mathematics Department 
+- **Visiting Associate Researcher**, Spring 2015
 - **Visiting Assistant Professor**, 2005--2007
 - **Postdoctoral Researcher**, 2003--2005
 
