@@ -28,6 +28,8 @@ published: true
 
 #### PhD, Engineering Physics, 2003, University of Virginia
 
+#### Garduate Studies, Mathematics, 1998, The Pennsylvania State University
+
 #### MS, Mathematics, 1998, Virginia Tech
 
 #### BS, Mathematics, 1996, Clarion University
