@@ -14,7 +14,7 @@ published: true
 - **Associate Professor**, 2012--2017
 - **Assistant Professor**, 2007--2012
 
-#### Technical University of Dresden, Scientific Computing Department
+#### Technicshe Universität Dresden, Institute of Scientific Computing
 - **Dresden Fellow**, Fall 2017
 
 
