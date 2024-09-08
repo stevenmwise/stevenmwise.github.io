@@ -28,4 +28,6 @@ My citation information can be found in the Google Scholar, Scopus, and other li
 
 "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." -- John von Neumann
 
-"." --
+"'Obvious' is the most dangerous word in mathematics." -- Eric Temple Bell
+
+
