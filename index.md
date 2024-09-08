@@ -30,6 +30,6 @@ My citation information can be found in the Google Scholar, Scopus, and other li
 
 "'Obvious' is the most dangerous word in mathematics." -- Eric Temple Bell
 
-"One of the principal objects of theoretical research is to find the point of view from which the subject appears in the greatest simplicity." Josiah Willard Gibbs
+"One of the principal objects of theoretical research is to find the point of view from which the subject appears in the greatest simplicity." -- Josiah Willard Gibbs
 
 
