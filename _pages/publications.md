@@ -28,8 +28,6 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 0. E. Habbershaw, R.S. Glasby, J.R. Haack, C.D. Hauck, and **S.M. Wise**, Asymptotic Relaxation of Moment Equations for a Multi-species, Homogeneous BGK Model. (arXiv: [abs/2310.12885](https://arxiv.org/abs/2310.12885))
 
-0. Y. Guo, C. Wang, **S.M. Wise**, Z. Zhang, Convergence Analysis of a Positivity-Preserving Numerical Scheme for the Cahn-Hilliard-Stokes System with Flory-Huggins Energy Potential. (arXiv: [abs/2303.11609](https://arxiv.org/abs/2303.11609))
-
 0. A. Christlieb, K. Promislow, Z. Tan, S. Wang, B. Wetton,**S.M. Wise**, Benchmark Computation of Morphological Complexity in the Functionalized Cahn-Hilliard Gradient Flow. (arXiv: [abs/2006.04784](https://arxiv.org/abs/2006.04784))
 {: reversed="reversed"}
 
@@ -44,7 +42,9 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 #### 2023
 
-0. Shibin Dai, Joseph Renzi, and **S.M. Wise**, Gamma Convergence of the DeGennes-Cahn-Hilliard Energy, Comm. Math. Sci. 21 (2023) 2131-2144. (doi: [10.4310/CMS.2023.v21.n8.a3](https://dx.doi.org/10.4310/CMS.2023.v21.n8.a3))
+0. Y. Guo, C. Wang, **S.M. Wise**, Z. Zhang, Convergence Analysis of a Positivity-Preserving Numerical Scheme for the Cahn-Hilliard-Stokes System with Flory-Huggins Energy Potential, Math. Comp. 93 (2023) 2185-2214. (doi: [10.1090/mcom/3916](https://doi.org/10.1090/mcom/3916))
+
+0. Shibin Dai, Joseph Renzi, and **S.M. Wise**, Gamma Convergence of the DeGennes-Cahn-Hilliard Energy, Comm. Math. Sci. 21 (2023) 2131-2144. (doi: [10.4310/CMS.2023.v21.n8.a3](https://doi.org/10.4310/CMS.2023.v21.n8.a3))
 
 0. C. Liu, C. Wang, **S.M. Wise**, X. Yue, and S. Zhou, A Second Order Accurate, Positivity Preserving Numerical Method for the Poisson-Nernst-Planck System and Its Convergence Analysis, J. Sci. Comput. 97 (2023) 23 (35 pages). (doi: [10.1007/s10915-023-02345-9](https://doi.org/10.1007/s10915-023-02345-9))
 
@@ -54,7 +54,7 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 0. M. Punke, **S.M. Wise**, A. Voigt, and M. Salvalaglio, Improved Time Integration for Phase-Field Crystal Models of Solidification, Proc. Appl. Math. Mech. 23 (2023) e202200112 (6 pages). (doi: [10.1002/pamm.202200112](https://doi.org/10.1002/pamm.202200112))
 
-0. K. Cheng, C. Wang, and **S.M. Wise**, An Energy Stable Finite Difference Scheme for the Ericksen-Leslie System with Penalty Function and its Optimal Rate Convergence Analysis, Commun. Math. Sci. 21 (2023) 1135--1169. (doi: [10.4310/CMS.2023.v21.n4.a10](https://dx.doi.org/10.4310/CMS.2023.v21.n4.a10))
+0. K. Cheng, C. Wang, and **S.M. Wise**, An Energy Stable Finite Difference Scheme for the Ericksen-Leslie System with Penalty Function and its Optimal Rate Convergence Analysis, Commun. Math. Sci. 21 (2023) 1135--1169. (doi: [10.4310/CMS.2023.v21.n4.a10](https://doi.org/10.4310/CMS.2023.v21.n4.a10))
 
 0. J.H. Park, A.J. Salgado, and **S.M. Wise**, Benchmark Computations of the Phase Field Crystal and Functionalized Cahn-Hilliard Equations via Fully Implicit, Nesterov Accelerated Schemes, Commun. Comput. Phys. 33 (2023) 367--398. (doi: [10.4208/cicp.OA-2022-0117](https://doi.org/10.4208/cicp.OA-2022-0117))
 {: reversed="reversed"}
@@ -237,9 +237,9 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 #### 2010
 
-0. C. Wang and **S.M. Wise**, Global Smooth Solutions of the Three-Dimensional Modified Phase Field Crystal Equation, Methods Appl. Anal. 17 (2010) 191--212. (doi: [10.4310/MAA.2010.v17.n2.a4](https://dx.doi.org/10.4310/MAA.2010.v17.n2.a4))
+0. C. Wang and **S.M. Wise**, Global Smooth Solutions of the Three-Dimensional Modified Phase Field Crystal Equation, Methods Appl. Anal. 17 (2010) 191--212. (doi: [10.4310/MAA.2010.v17.n2.a4](https://doi.org/10.4310/MAA.2010.v17.n2.a4))
 
-0. Y.L. Chuang, F. Jin, and **S.M. Wise**, Numerical Schemes, in V. Cristini and J.S. Lowengrub (Authors), **Multiscale Modeling of Cancer: An Integrated Experimental and Mathematical Modeling Approach**, Cambridge University Press (2010) 153--182. (doi: [10.1017/CBO9780511781452.009](https://dx.doi.org/10.1017/CBO9780511781452.009))
+0. Y.L. Chuang, F. Jin, and **S.M. Wise**, Numerical Schemes, in V. Cristini and J.S. Lowengrub (Authors), **Multiscale Modeling of Cancer: An Integrated Experimental and Mathematical Modeling Approach**, Cambridge University Press (2010) 153--182. (doi: [10.1017/CBO9780511781452.009](https://doi.org/10.1017/CBO9780511781452.009))
 
 0. H.B. Frieboes, F. Jin, Y.L. Chuang, **S.M. Wise**, J.S. Lowengrub, and V. Cristini, Three-Dimensional Multispecies Nonlinear Tumor Growth--II: Angiogenesis and Tissue Invasion, J. Theor. Biol. 264 (2010) 1254--1278. (doi: [10.1016/j.jtbi.2010.02.036](https://doi.org/10.1016/j.jtbi.2010.02.036))
 
