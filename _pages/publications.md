@@ -16,7 +16,7 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 #### Preprints
 
-0. T. Luong, T. Mengesha, **S.M. Wise**, and M.H. Wong, Gamma-Convergence and Asymptotic Analysis for a Diffuse Domain Problem with Transmission Boundary Conditions. (arXiv: [abs/2408.16449](https://arxiv.org/abs/2408.16449))
+0. T. Luong, T. Mengesha, **S.M. Wise**, and M.H. Wong, Gamma-Convergence and Asymptotic Analysis for a Diffuse Domain Problem with Transmission Boundary Conditions. (arXiv: [abs/2412.07007](https://arxiv.org/abs/2412.07007))
 
 0. M. Punke, M. Salvalaglio, and A. Voigt, and **S.M. Wise**, A Non-Isothermal Phase-Field Crystal Model with Lattice Expansion: Analysis and Benchmarks. (arXiv: [abs/2408.16449](https://arxiv.org/abs/2408.16449))
 
