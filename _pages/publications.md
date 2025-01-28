@@ -18,8 +18,6 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 
 0. T. Luong, T. Mengesha, **S.M. Wise**, and M.H. Wong, Gamma-Convergence and Asymptotic Analysis for a Diffuse Domain Problem with Transmission Boundary Conditions. (arXiv: [abs/2412.07007](https://arxiv.org/abs/2412.07007))
 
-0. M. Punke, M. Salvalaglio, and A. Voigt, and **S.M. Wise**, A Non-Isothermal Phase-Field Crystal Model with Lattice Expansion: Analysis and Benchmarks. (arXiv: [abs/2408.16449](https://arxiv.org/abs/2408.16449))
-
 0. Y. Guo, C. Wang, **S.M. Wise**, and Z. Zhang,  A Uniquely Solvable and Positivity-Preserving Finite Difference Scheme for the Flory-Huggins-Cahn-Hilliard Equation with Dynamical Boundary Condition. (arXiv: [abs/2407.13453](https://arxiv.org/abs/2407.13453))
 
 0. E. Habbershaw, C.D. Hauck, and **S.M. Wise**, Implicit Update of the Moment Equations for a Multi-Species, Homogeneous BGK Model. (arXiv: [abs/2404.18039](https://arxiv.org/abs/2404.18039))
@@ -33,9 +31,15 @@ Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehen
 0. A. Christlieb, K. Promislow, Z. Tan, S. Wang, B. Wetton,**S.M. Wise**, Benchmark Computation of Morphological Complexity in the Functionalized Cahn-Hilliard Gradient Flow. (arXiv: [abs/2006.04784](https://arxiv.org/abs/2006.04784))
 {: reversed="reversed"}
 
+
+#### 2025
+
+0. M. Punke, M. Salvalaglio, and A. Voigt, and **S.M. Wise**, A Non-Isothermal Phase-Field Crystal Model with Lattice Expansion: Analysis and Benchmarks. Modelling Simul. Mater. Sci. Eng. 33 (2025) 025007 (16 pages). (doi: [10.1088/1361-651X/ada784](https://doi.org/10.1088/1361-651X/ada784))
+{: reversed="reversed"}
+
 #### 2024
 
-0. Y. Sun, J. Wu, M. Jiang, **S.M. Wise**, and Z. Guo, A Thermodynamically Consistent Phase-Field Model and an Entropy Stable Numerical Method for Simulating Two-Phase Flows with Thermocapillary Effects. Appl. Numer. Math. 206 (2024) 161-189.(doi: [10.1016/j.apnum.2024.08.010](https://doi.org/10.1016/j.apnum.2024.08.010))
+0. Y. Sun, J. Wu, M. Jiang, **S.M. Wise**, and Z. Guo, A Thermodynamically Consistent Phase-Field Model and an Entropy Stable Numerical Method for Simulating Two-Phase Flows with Thermocapillary Effects. Appl. Numer. Math. 206 (2024) 161-189. (doi: [10.1016/j.apnum.2024.08.010](https://doi.org/10.1016/j.apnum.2024.08.010))
 
 0. E. Habbershaw and **S.M. Wise**, Year-2 Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, The University of Tennessee, Mathematics Report Number 11 (2024) (129 pages). (Trace: [Math Faculty Report 11](https://trace.tennessee.edu/utk_mathpubs/11/))
 
