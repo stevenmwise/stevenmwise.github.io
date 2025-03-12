@@ -36,4 +36,4 @@ My citation information can be found in the Google Scholar, Scopus, and other li
 
 "One of the principal objects of theoretical research is to find the point of view from which the subject appears in the greatest simplicity." -- Josiah Willard Gibbs
 
-"If your theory is found to be against the second law of thermodynamics, I can give you no hope; there is noting for it but to collapse in deepest humiliation." -- Sir Arthur Eddington
+"If your theory is found to be against the second law of thermodynamics, I can give you no hope; there is nothing for it but to collapse in deepest humiliation." -- Sir Arthur Eddington
