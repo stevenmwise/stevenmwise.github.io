@@ -14,9 +14,9 @@ published: true
 
 ### In-Person Classes
 
-#### SPring 2025
+#### Spring 2025
 
-- **Math 673**, Advanced Numerical PDE II: Multigrid Methods
+- **Math 674**, Advanced Numerical PDE II: Multigrid Methods
 
 #### Fall 2024
 
