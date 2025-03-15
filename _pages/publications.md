@@ -9,11 +9,11 @@ published: true
 
 ### Book
 
-0. Toai Luong, Tadele Mengesha, and Steven M. Wise, **Asymptotic Analysis: Theory and Practice**, De Gruyter (under contract).
+0. Toai Luong, Tadele Mengesha, and **S.M. Wise**, **Asymptotic Analysis: Theory and Practice**, De Gruyter (under contract).
 
-0. Abner J. Salgado and Steven M. Wise, **Multigrid Methods: A Mostly-Matrix-Based Approach**, De Gruyter (in production).
+0. Abner J. Salgado and **S.M. Wise**, **Multigrid Methods: A Mostly-Matrix-Based Approach**, De Gruyter (in production).
 
-0. Abner J. Salgado and Steven M. Wise, **Classical Numerical Analysis: A Comprehensive Course**, Cambridge University Press (2023). (doi: [10.1017/9781108942607](http://doi.org/10.1017/9781108942607))
+0. Abner J. Salgado and **S.M. Wise, **Classical Numerical Analysis: A Comprehensive Course**, Cambridge University Press (2023). (doi: [10.1017/9781108942607](http://doi.org/10.1017/9781108942607))
 {: reversed="reversed"}
 
 
