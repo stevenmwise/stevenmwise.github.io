@@ -21,21 +21,23 @@ published: true
 
 #### Preprints
 
-0. T. Luong, T. Mengesha, **S.M. Wise**, and M.H. Wong, Gamma-Convergence and Asymptotic Analysis for a Diffuse Domain Problem with Transmission Boundary Conditions. (arXiv: [abs/2412.07007](https://arxiv.org/abs/2412.07007))
-
 0. Y. Guo, C. Wang, **S.M. Wise**, and Z. Zhang,  A Uniquely Solvable and Positivity-Preserving Finite Difference Scheme for the Flory-Huggins-Cahn-Hilliard Equation with Dynamical Boundary Condition. (arXiv: [abs/2407.13453](https://arxiv.org/abs/2407.13453))
-
-0. E. Habbershaw, C.D. Hauck, and **S.M. Wise**, Implicit Update of the Moment Equations for a Multi-Species, Homogeneous BGK Model. (arXiv: [abs/2404.18039](https://arxiv.org/abs/2404.18039))
-
-0. A.E. Diegel, C. Wang, and **S.M. Wise**, Convergence Analysis of a Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Logarithmic Potential. (arXiv: [abs/2401.16316](https://arxiv.org/abs/2401.16316))
-
-0. A. Christlieb, K. Promislow, Z. Tan, S. Wang, B. Wetton,**S.M. Wise**, Benchmark Computation of Morphological Complexity in the Functionalized Cahn-Hilliard Gradient Flow. (arXiv: [abs/2006.04784](https://arxiv.org/abs/2006.04784))
 {: reversed="reversed"}
 
 
 #### 2025
 
-0. T. Luong and **S.M. Wise**, A Nonnegative Weak Solution to the Phase Field Crystal Model with Degenerate Mobility. Discrete Cont. Dyn. Sys. Series B (2025). (doi: [10.3934/dcdsb.2025023](https://doi.org/10.3934/dcdsb.2025023))
+0. T. Luong, T. Mengesha, **S.M. Wise**, and M.H. Wong, A Diffuse Domain Approximation with Transmission-Type Boundary Conditions II: Gamma Convergence, Int. J. Numer. Anal. Model. 22 (2025) 728--744. (doi: [10.4208/ijnam2025-1031](https://doi.org/10.4208/ijnam2025-1031))
+
+0. T. Luong, T. Mengesha, **S.M. Wise**, and M.H. Wong, A Diffuse Domain Approximation with Transmission-Type Boundary Conditions I: Asymptotic Analysis and Numerics, Int. J. Numer. Anal. Model. 22 (2025) 694--727. (doi: [10.4208/ijnam2025-1030](https://doi.org/10.4208/ijnam2025-1030))
+
+0. A.E. Diegel, C. Wang, and **S.M. Wise**, Convergence Analysis of a Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Logarithmic Potential Int. J. Numer. Anal. Model. 22 (2025) 483--509. (doi: [10.4208/ijnam2025-1021](https://doi.org/10.4208/ijnam2025-1021))
+
+0. E. Habbershaw, C.D. Hauck, and **S.M. Wise**, Implicit Update of the Moment Equations for a Multi-Species, Homogeneous BGK Model, SINUM 63 (2025) 881--907.  (doi: [10.1137/24M165421X](https://doi.org/10.1137/24M165421X))
+
+0. A. Christlieb, K. Promislow, Z. Tan, S. Wang, B. Wetton,**S.M. Wise**, Benchmark Computation of Morphological Complexity in the Functionalized Cahn-Hilliard Gradient Flow, Commun. Comput. Phys. 37 (2025) 877--920. (doi: [10.4208/cicp.OA-2023-0190](https://doi.org/10.4208/cicp.OA-2023-0190))
+
+0. T. Luong and **S.M. Wise**, A Nonnegative Weak Solution to the Phase Field Crystal Model with Degenerate Mobility, Discrete Cont. Dyn. Sys. Series B 30 (2025) 3288--3309. (doi: [10.3934/dcdsb.2025023](https://doi.org/10.3934/dcdsb.2025023))
 
 0. E. Habbershaw, R.S. Glasby, J.R. Haack, C.D. Hauck, and **S.M. Wise**, Asymptotic Relaxation of Moment Equations for a Multi-species, Homogeneous BGK Model, SIAM J. Appl. Math. 85 (2025) 294--313. (doi: [10.1137/23M1596314](https://doi.org/10.1137/23M1596314))
 
