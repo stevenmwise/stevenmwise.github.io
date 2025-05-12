@@ -31,7 +31,7 @@ published: true
 
 0. T. Luong, T. Mengesha, **S.M. Wise**, and M.H. Wong, A Diffuse Domain Approximation with Transmission-Type Boundary Conditions I: Asymptotic Analysis and Numerics, Int. J. Numer. Anal. Model. 22 (2025) 694--727. (doi: [10.4208/ijnam2025-1030](https://doi.org/10.4208/ijnam2025-1030))
 
-0. A.E. Diegel, C. Wang, and **S.M. Wise**, Convergence Analysis of a Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Logarithmic Potential Int. J. Numer. Anal. Model. 22 (2025) 483--509. (doi: [10.4208/ijnam2025-1021](https://doi.org/10.4208/ijnam2025-1021))
+0. A.E. Diegel, C. Wang, and **S.M. Wise**, Convergence Analysis of a Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Logarithmic Potential, Int. J. Numer. Anal. Model. 22 (2025) 483--509. (doi: [10.4208/ijnam2025-1021](https://doi.org/10.4208/ijnam2025-1021))
 
 0. E. Habbershaw, C.D. Hauck, and **S.M. Wise**, Implicit Update of the Moment Equations for a Multi-Species, Homogeneous BGK Model, SINUM 63 (2025) 881--907.  (doi: [10.1137/24M165421X](https://doi.org/10.1137/24M165421X))
 
