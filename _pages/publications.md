@@ -33,7 +33,7 @@ published: true
 
 0. A.E. Diegel, C. Wang, and **S.M. Wise**, Convergence Analysis of a Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Logarithmic Potential, Int. J. Numer. Anal. Model. 22 (2025) 483--509. (doi: [10.4208/ijnam2025-1021](https://doi.org/10.4208/ijnam2025-1021))
 
-0. E. Habbershaw, C.D. Hauck, and **S.M. Wise**, Implicit Update of the Moment Equations for a Multi-Species, Homogeneous BGK Model, SINUM 63 (2025) 881--907.  (doi: [10.1137/24M165421X](https://doi.org/10.1137/24M165421X))
+0. E. Habbershaw, C.D. Hauck, and **S.M. Wise**, Implicit Update of the Moment Equations for a Multi-Species, Homogeneous BGK Model, SIAM J. Numer. Anal. 63 (2025) 881--907.  (doi: [10.1137/24M165421X](https://doi.org/10.1137/24M165421X))
 
 0. A. Christlieb, K. Promislow, Z. Tan, S. Wang, B. Wetton,**S.M. Wise**, Benchmark Computation of Morphological Complexity in the Functionalized Cahn-Hilliard Gradient Flow, Commun. Comput. Phys. 37 (2025) 877--920. (doi: [10.4208/cicp.OA-2023-0190](https://doi.org/10.4208/cicp.OA-2023-0190))
 
