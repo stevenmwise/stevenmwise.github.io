@@ -15,3 +15,5 @@ Gemfile.lock
 
 # vscode
 workspace.code-workspace
+
+.texpadtmp
