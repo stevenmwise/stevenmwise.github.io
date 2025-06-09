@@ -14,6 +14,10 @@ published: true
 
 ### In-Person Classes
 
+#### Fall 2025
+
+- **Math 574**, Finite Element Methods
+
 #### Spring 2025
 
 - **Math 674**, Advanced Numerical PDE II: Multigrid Methods
@@ -30,7 +34,7 @@ published: true
 - **Math 571**, Numerical Mathematics I
 
 ### Graduated PhD Students
-0. Jea-Hyun Park, PhD, University of Tennessee, 2021 (co-advised by A. Salgado)
+0. [Jea-Hyun Park](https://www.msoe.edu/directory/profile/jeahyun.park/), PhD, University of Tennessee, 2021 (co-advised by A. Salgado)
 0. Steve Galloway, PhD, University of Tennessee, 2020
 0. Kylie Berry, PhD, University of Tennessee, 2019 (co-advised by T. Mengesha)
 0. John Cummings, PhD, University of Tennessee, 2017 (co-advised by R. Kumar)
