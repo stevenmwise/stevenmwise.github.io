@@ -7,7 +7,7 @@ published: true
 
 ## Publications
 
-### Book
+### Books
 
 0. Toai Luong, Tadele Mengesha, and **S.M. Wise**, **Asymptotic Analysis: Theory and Practice**, De Gruyter (under contract).
 
