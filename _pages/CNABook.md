@@ -37,4 +37,4 @@ There are several Matlab codes that are listed in the book, and these may be ret
 
 ### Solutions
 
-We are working on a partial solutions manual, though it may not be ready until 2024/5. If you are an instructor teaching from the book, feel free to inquire about the status of the solutions project. We would be glad to hear from you.
+We are working on a partial solutions manual, though it may not be ready for a while. If you are an instructor teaching from the book, feel free to inquire about the status of the solutions project. We would be glad to hear from you.
