@@ -11,7 +11,7 @@ published: true
 
 0. Toai Luong, Tadele Mengesha, and **S.M. Wise**, **Asymptotic Analysis: Theory and Practice**, De Gruyter (under contract).
 
-0. Abner J. Salgado and **S.M. Wise**, **Multigrid Methods: A Mostly-Matrix-Based Approach**, De Gruyter (in production).
+0. Abner J. Salgado, **S.M. Wise** and Calvin Wong, **Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems**, De Gruyter (in production).
 
 0. Abner J. Salgado and **S.M. Wise**, **Classical Numerical Analysis: A Comprehensive Course**, Cambridge University Press (2023). (doi: [10.1017/9781108942607](http://doi.org/10.1017/9781108942607))
 {: reversed="reversed"}
