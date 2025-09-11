@@ -21,6 +21,10 @@ published: true
 
 #### Preprints
 
+0. S. Tang, **S.M.~Wise**, J.S. Lowengrub, and Z. Guo, Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear
+Flow, (in review).  (doi: [10.48550/arXiv.2509.08295](https://doi.org/10.48550/arXiv.2509.08295))
+{: reversed="reversed"}
+
 #### 2026
 
 0. Y. Guo, C. Wang, **S.M. Wise**, and Z. Zhang,  A Uniquely Solvable and Positivity-Preserving Finite Difference Scheme for the Flory-Huggins-Cahn-Hilliard Equation with Dynamical Boundary Condition, J. Comput. Appl. Math. 472 (2026) 116789 (21 pages). (doi: [10.1016/j.cam.2025.116789](https://doi.org/10.1016/j.cam.2025.116789))
