@@ -21,7 +21,7 @@ published: true
 
 #### Preprints
 
-0. S. Tang, **S.M.~Wise**, J.S. Lowengrub, and Z. Guo, Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear
+0. S. Tang, **S.M. Wise**, J.S. Lowengrub, and Z. Guo, Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear
 Flow, (in review).  (doi: [10.48550/arXiv.2509.08295](https://doi.org/10.48550/arXiv.2509.08295))
 {: reversed="reversed"}
 
