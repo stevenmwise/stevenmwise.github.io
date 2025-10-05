@@ -14,7 +14,7 @@ I have been a professor of mathematics at the University of Tennessee, Knoxville
 
 I teach courses in PDE, analysis, applied mathematics, and numerical analysis. With Abner Salgado, I wrote a graduate-level textbook entitled [Classical Numerical Analysis: A Comprehensive Course](https://doi.org/10.1017/9781108942607), published by Cambridge University Press in 2023. You can check it out on Amazon or on Cambridge Core. We have another book coming soon on the topic of multigrid methods, focusing on basic theory and implementation in Matlab.
 
-I have a YouTube channel, [WiseAppliedMaths](http://www.youtube.com/@WiseAppliedMaths), where I post lectures from some of the courses that I teach. My latest playlists are courses on [Asymptotic Analysis](https://youtube.com/playlist?list=PLRC4Oo56zlKnNSCDSSny82UppC2-sCpeW&si=yZ-ix4LtlLVWlb5B) and [Multigrid Methods](https://youtube.com/playlist?list=PLRC4Oo56zlKk4oq6_nl38iy_R-12oOXj4&si=x_30AKDhYsrRKxJj).
+I have a YouTube channel, [WiseAppliedMaths](http://www.youtube.com/@WiseAppliedMaths), where I post lectures from some of the courses that I teach. My latest playlists are courses on [Asymptotic Analysis](https://youtube.com/playlist?list=PLRC4Oo56zlKnNSCDSSny82UppC2-sCpeW&si=yZ-ix4LtlLVWlb5B), [Multigrid Methods](https://youtube.com/playlist?list=PLRC4Oo56zlKk4oq6_nl38iy_R-12oOXj4&si=x_30AKDhYsrRKxJj), and [Finite Element Methods](https://youtube.com/playlist?list=PLRC4Oo56zlKlDjmHBAFCQTRys9fUQHlr9&si=OPVgf0uRMw7l3mL8).
 
 ### Research
 I work in the intersection of numerical analysis, partial differential equations, soft matter physics, and kinetic theory. I build models to study heat, mass, and ion flow and the formation of interfaces in complex fluids and materials, and I try to design efficient numerical methods to get approximate solutions.
@@ -23,6 +23,10 @@ I work in the intersection of numerical analysis, partial differential equations
 My citation information can be found in the Google Scholar, Scopus, and other links below, and my UTK Faculty Profile can be found [here](https://faculty.utk.edu/Steven.Wise). I was recognized by Web of Science as a highly cited researcher in [2020](https://recognition.webofscience.com/awards/highly-cited/2020/) and [2022](https://recognition.webofscience.com/awards/highly-cited/2022/). 
 
 ### Favorite (Mostly Maths) Quotes
+
+"There is nothing more practical than a good theory." -- Ludwig Boltzmann.
+
+"... democracy is the worst form of Government except for all those other forms that have been tried ..." -- Winston Churchill
 
 "No self-respecting architect leaves the scaffolding in place after completing his building." -- Carl Friedrich Gauss
 
