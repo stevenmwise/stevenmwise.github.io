@@ -11,7 +11,7 @@ published: true
 
 0. Toai Luong, Tadele Mengesha, and **S.M. Wise**, **Asymptotic Analysis and Perturbation Theory: Matched Asymptotic, Multiple Scale, and Homogenization Methods**, De Gruyter (under contract).
 
-0. Abner J. Salgado, **S.M. Wise** and Calvin Wong, **Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems**, De Gruyter (in production).
+0. Abner J. Salgado, **S.M. Wise** and Calvin Wong, **Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems**, De Gruyter (in production). (isbn: [9783111354880](https://www.degruyterbrill.com/document/isbn/9783111354880/html?lang=en&srsltid=AfmBOopdwDWRRM7ZIKEeFA8dgVEE8Oqsi591TYygXvgF_DLayBqe55t2))
 
 0. Abner J. Salgado and **S.M. Wise**, **Classical Numerical Analysis: A Comprehensive Course**, Cambridge University Press (2023). (doi: [10.1017/9781108942607](http://doi.org/10.1017/9781108942607))
 {: reversed="reversed"}
@@ -31,6 +31,8 @@ Flow, (in review).  (doi: [10.48550/arXiv.2509.08295](https://doi.org/10.48550/a
 {: reversed="reversed"}
 
 #### 2025
+
+0. E. Habbershaw and **S.M. Wise**, Year-4 Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, The University of Tennessee, Mathematics Report Number 14 (2025) (206 pages). (Trace: [Math Faculty Report 11](https://trace.tennessee.edu/utk_mathpubs/14/))
 
 0. T. Luong, T. Mengesha, **S.M. Wise**, and M.H. Wong, A Diffuse Domain Approximation with Transmission-Type Boundary Conditions II: Gamma Convergence, Int. J. Numer. Anal. Model. 22 (2025) 728--744. (doi: [10.4208/ijnam2025-1031](https://doi.org/10.4208/ijnam2025-1031))
 

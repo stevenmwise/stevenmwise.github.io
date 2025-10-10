@@ -8,7 +8,7 @@ published: true
 ## Projects
 
 ### Numerical Methods for BGK Equations
-In this project, our goal is to derive and analyze fast numerical methods for the BGK and multi-species BGK equations. We are, in particular, interested in designing a new class of fully implicit methods for avoiding restrictive time step conditions. A summary of the project can be found [here](https://trace.tennessee.edu/utk_mathpubs/10/).
+In this project, our goal is to derive and analyze fast numerical methods for the BGK and multi-species BGK equations. We are, in particular, interested in designing a new class of fully implicit methods for avoiding restrictive time step conditions. A summary of the project can be found [here](https://trace.tennessee.edu/utk_mathpubs/14/).
 
 This work is joint with Cory Hauck and Ryan Glasby and is funded by the US Department of Energy.
 

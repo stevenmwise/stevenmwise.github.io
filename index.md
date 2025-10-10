@@ -10,7 +10,7 @@ published: true
 ## About
 
 ### Short Biography
-I have been a professor of mathematics at the University of Tennessee, Knoxville, since 2007. Before that I was a postdoc at UC, Irvine, in Orange County California, where I worked with John Lowengrub and Vittorio Cristini on complex fluids, crystal microstructure, and cancer progression. I obtained a BS degree in mathematics in 1996 from Clarion University and did graduate work in mathematics at Virginia Tech and Penn State after that. I received my PhD in 2003 from the University of Virginia, where I studied engineering physics, working with the nicest person in the world, Dr. William C. Johnson.
+I have been a professor of mathematics at the University of Tennessee, Knoxville, since 2007. Before that I was a postdoc at UC, Irvine, in Orange County California, where I worked with John Lowengrub and Vittorio Cristini on complex fluids, crystal microstructure, and cancer progression. I received my PhD in 2003 from the University of Virginia, where I studied engineering physics, working with the nicest person in the world, Dr. William C. Johnson.
 
 I teach courses in PDE, analysis, applied mathematics, and numerical analysis. With Abner Salgado, I wrote a graduate-level textbook entitled [Classical Numerical Analysis: A Comprehensive Course](https://doi.org/10.1017/9781108942607), published by Cambridge University Press in 2023. You can check it out on Amazon or on Cambridge Core. We have another book coming soon on the topic of multigrid methods, focusing on basic theory and implementation in Matlab.
 
@@ -24,9 +24,15 @@ My citation information can be found in the Google Scholar, Scopus, and other li
 
 ### Favorite (Mostly Maths) Quotes
 
+"All science is either physics or stamp collecting." --Ernest Rutherford
+
+"The currency of approximation is derivatives." -- (I learned of this quote from Ohannes Karakashian. I am still working to find the originator.)
+
+"The Axiom of Choice is obviously true, the well-ordering principle obviously false, and who can tell about Zorn's lemma?" -- Jerry Bona
+
 "There is nothing more practical than a good theory." -- Ludwig Boltzmann.
 
-"... democracy is the worst form of Government except for all those other forms that have been tried ..." -- Winston Churchill
+"[D]emocracy is the worst form of Government except for all those other forms that have been tried." -- Winston Churchill
 
 "No self-respecting architect leaves the scaffolding in place after completing his building." -- Carl Friedrich Gauss
 
