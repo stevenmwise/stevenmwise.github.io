@@ -32,7 +32,7 @@ Flow, (in review).  (doi: [10.48550/arXiv.2509.08295](https://doi.org/10.48550/a
 
 #### 2025
 
-0. E. Habbershaw and **S.M. Wise**, Year-4 Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, The University of Tennessee, Mathematics Report Number 14 (2025) (206 pages). (Trace: [Math Faculty Report 11](https://trace.tennessee.edu/utk_mathpubs/14/))
+0. E. Habbershaw and **S.M. Wise**, Year-4 Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, The University of Tennessee, Mathematics Report Number 14 (2025) (206 pages). (Trace: [Math Faculty Report 14](https://trace.tennessee.edu/utk_mathpubs/14/))
 
 0. T. Luong, T. Mengesha, **S.M. Wise**, and M.H. Wong, A Diffuse Domain Approximation with Transmission-Type Boundary Conditions II: Gamma Convergence, Int. J. Numer. Anal. Model. 22 (2025) 728--744. (doi: [10.4208/ijnam2025-1031](https://doi.org/10.4208/ijnam2025-1031))
 
