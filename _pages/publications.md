@@ -58,11 +58,11 @@ Flow, (in review).  (doi: [10.48550/arXiv.2509.08295](https://doi.org/10.48550/a
 0. E. Habbershaw and **S.M. Wise**, Year-2 Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, The University of Tennessee, Mathematics Report Number 11 (2024) (129 pages). (Trace: [Math Faculty Report 11](https://trace.tennessee.edu/utk_mathpubs/11/))
 
 0. C. Wang, J. Wang, **S.M. Wise**, Z. Xia, and L. Xu, Convergence Analysis of a Temporally Second-Order Accurate Finite Element scheme for the Cahn-Hilliard-Magnetohydrodynamics System of Equations, J. Comput. Appl. Math. 436 (2024) 115409 (17 pages). (doi: [10.1016/j.cam.2023.115409](https://doi.org/10.1016/j.cam.2023.115409))
+
+0. Y. Guo, C. Wang, **S.M. Wise**, Z. Zhang, Convergence Analysis of a Positivity-Preserving Numerical Scheme for the Cahn-Hilliard-Stokes System with Flory-Huggins Energy Potential, Math. Comp. 93 (2024) 2185--2214. (doi: [10.1090/mcom/3916](https://doi.org/10.1090/mcom/3916))
 {: reversed="reversed"}
 
 #### 2023
-
-0. Y. Guo, C. Wang, **S.M. Wise**, Z. Zhang, Convergence Analysis of a Positivity-Preserving Numerical Scheme for the Cahn-Hilliard-Stokes System with Flory-Huggins Energy Potential, Math. Comp. 93 (2023) 2185--2214. (doi: [10.1090/mcom/3916](https://doi.org/10.1090/mcom/3916))
 
 0. Shibin Dai, Joseph Renzi, and **S.M. Wise**, Gamma Convergence of the DeGennes-Cahn-Hilliard Energy, Comm. Math. Sci. 21 (2023) 2131--2144. (doi: [10.4310/CMS.2023.v21.n8.a3](https://doi.org/10.4310/CMS.2023.v21.n8.a3))
 
