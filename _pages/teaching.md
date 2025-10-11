@@ -10,6 +10,7 @@ published: true
 ### YouTube Courses @ [WiseAppliedMaths](http://www.youtube.com/@WiseAppliedMaths)
 0. [Essential Perturbation Theory and Asymptotic Analysis](https://youtube.com/playlist?list=PLRC4Oo56zlKnNSCDSSny82UppC2-sCpeW&si=yZ-ix4LtlLVWlb5B)
 0. [Multigrid Methods](https://youtube.com/playlist?list=PLRC4Oo56zlKk4oq6_nl38iy_R-12oOXj4&si=nJrdVplA_M9mc5yb)
+0. [Finite Element Methods](https://www.youtube.com/playlist?list=PLRC4Oo56zlKlDjmHBAFCQTRys9fUQHlr9)
 
 
 ### In-Person Classes
