@@ -11,7 +11,7 @@ published: true
 
 0. Toai Luong, Tadele Mengesha, and **S.M. Wise**, **Asymptotic Analysis and Perturbation Theory: Matched Asymptotic, Multiple Scale, and Homogenization Methods**, De Gruyter (under contract).
 
-0. Abner J. Salgado, **S.M. Wise** and Calvin Wong, **Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems**, De Gruyter (in production). (isbn: [9783111354880](https://www.degruyterbrill.com/document/isbn/9783111354880/html?lang=en&srsltid=AfmBOopdwDWRRM7ZIKEeFA8dgVEE8Oqsi591TYygXvgF_DLayBqe55t2))
+0. Abner J. Salgado, **S.M. Wise** and Calvin Wong, **Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems**, De Gruyter (2025). (isbn: [9783111354880](https://www.degruyterbrill.com/document/isbn/9783111354880/html?lang=en&srsltid=AfmBOopdwDWRRM7ZIKEeFA8dgVEE8Oqsi591TYygXvgF_DLayBqe55t2))
 
 0. Abner J. Salgado and **S.M. Wise**, **Classical Numerical Analysis: A Comprehensive Course**, Cambridge University Press (2023). (doi: [10.1017/9781108942607](http://doi.org/10.1017/9781108942607))
 {: reversed="reversed"}
