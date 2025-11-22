@@ -34,7 +34,3 @@ No book that can be written can be written without errors. Our book has a few of
 ### Codes
 
 There are several Matlab codes that are listed in the book, and these may be retrieved from the GitHub repo: [stevenmwise/ClassicalNumericalAnalysis](https://github.com/stevenmwise/ClassicalNumericalAnalysis). In addition, you can obtain the Matlab source codes used to generate the tables and figures dispayed in the book. We plan to add more software and supplementary material over time to the repo.
-
-### Solutions
-
-We are working on a partial solutions manual, though it may not be ready for a while. If you are an instructor teaching from the book, feel free to inquire about the status of the solutions project. We would be glad to hear from you.
