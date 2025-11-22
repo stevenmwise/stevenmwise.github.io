@@ -23,6 +23,8 @@ Numerical Analysis is a broad field, and coming to grips with all of it may seem
 
 - **Xiaofan Li, Illinois Institute of Technology:** ‘The book is the only textbook I know that covers the current topics for beginning graduate students in numerical analysis. The chosen topics in the book match exactly what one wishes to cover in a two-semester course sequence in computational mathematics, as the selection of the numerical methods is in align with the modern treatment of the subjects. Many instructors in the field have struggled to find two or more textbooks for the same coverage, but you can have all of them in this book.’
 
+- **SIAM Review:** Our book recently received a glowing review from Guosheng Fu, Notre Dame, in SIAM Review. His full review can be obtained [here](https://doi.org/10.1137/24M1700983). The following is his conclusion: 'In summary, Classical Numerical Analysis: A Comprehensive Course is an indispensable resource in the field of numerical analysis. Its extensive coverage, rigorous treatment, and practical insights make it a must-have for anyone looking to deepen their understanding of applied mathematics. Whether you are exploring numerical methods for the first time or revisiting them from a more advanced perspective, this book will be a trusted companion.'
+
 ### Availability
 
 The electronic version of the book can be found on Cambridge Core [here](https://doi.org/10.1017/9781108942607). Please (pray hands) ask your university library to purchase campus-wide access to the electronic version from Cambridge Core for you and your students. If you are more of an old-school type, the hardback can be purchased on Amazon (in the United States and Europe) and directly from Cambridge University Press.

@@ -17,8 +17,6 @@ We use an axiomatic, mostly-matrix-based approach in the book, both as a way of 
 
 Coding the multigrid method is notoriously difficult. The current book, which contains several sample codes in the finite element and cell-centered finite difference frameworks, will train the interested reader in the construction of sophisticated, efficient multigrid codes using the simple but powerful MATLAB© programming environment.
 
-The book provides a basic theory of the multigrid method with sample teaching codes and provides the link between the simple implementation of the basic theory to the research front. Sample codes of simple problems and research projects are provided.
-
 ### Availability
 
 The electronic version of the book can be found on De Gruyter's [website](https://doi.org/10.1515/9783111354880). Please ask your university library to purchase campus-wide access to the electronic version for you and your students. Physical copies can be purchased from Amazon.
