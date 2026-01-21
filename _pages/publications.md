@@ -21,6 +21,8 @@ published: true
 
 #### Preprints
 
+0. Z. Zhang, S. Li, J.S. Lowengrub, and **S.M. Wise**, An Efficient Constant-Coefficient MSAV Scheme for Computing Vesicle Growth and Shrinkage, (in review). (doi: [10.48550/arXiv.2601.10057](https://doi.org/10.48550/arXiv.2601.10057)))
+
 0. J. Meng, S. Tang, **S.M. Wise**, Z. Guo, A GPU-Accelerated Matrix-Free FAS Multigrid Solver for Navier-Stokes Equations with Memory-Efficient Implementations, (in review). (doi: [10.48550/arXiv.2510.11152](https://doi.org/10.48550/arXiv.2510.11152)))
 
 0. J.H. Park, A.J. Salgado, and **S.M. Wise**, A Perturbed Preconditioned Gradient Descent Method for the Unconstrained Minimization of Composite Objectives, (in review). (doi: [10.48550/arXiv.2512.19532](https://doi.org/10.48550/arXiv.2512.19532)))
