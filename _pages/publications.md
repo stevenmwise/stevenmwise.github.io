@@ -9,7 +9,7 @@ published: true
 
 ### Books
 
-0. Toai Luong, Tadele Mengesha, and **S.M. Wise**, **Asymptotic Analysis and Perturbation Theory: Matched Asymptotic, Multiple Scale, and Homogenization Methods**, De Gruyter (under contract).
+0. Toai Luong, Tadele Mengesha, and **S.M. Wise**, **Asymptotic Analysis and Perturbation Theory: Matched Asymptotic, Multiple Scale, and Homogenization Methods** (working title), Cambridge University Press (in review).
 
 0. Abner J. Salgado, **S.M. Wise** and Calvin Wong, **Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems**, De Gruyter (2025). (isbn: [9783111354880](https://www.degruyterbrill.com/document/isbn/9783111354880/html?lang=en&srsltid=AfmBOopdwDWRRM7ZIKEeFA8dgVEE8Oqsi591TYygXvgF_DLayBqe55t2))
 
