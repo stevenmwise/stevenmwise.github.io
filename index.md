@@ -24,15 +24,17 @@ My citation information can be found in the Google Scholar, Scopus, and other li
 
 ### Favorite (Mostly Maths) Quotes
 
-"All science is either physics or stamp collecting." --Ernest Rutherford
+"The divergent series are the invention of the devil, and it is a shame to base on them any demonstration whatsoever." -- Niels Henrik Abel
 
-"The currency of approximation is derivatives." -- (I learned of this quote from Ohannes Karakashian. I am still working to find the originator.)
+"All science is either physics or stamp collecting." -- Ernest Rutherford
+
+"The currency of approximation is derivatives." -- Author Unknown (I learned of this quote from Ohannes Karakashian.)
 
 "The Axiom of Choice is obviously true, the well-ordering principle obviously false, and who can tell about Zorn's lemma?" -- Jerry Bona
 
-"There is nothing more practical than a good theory." -- Ludwig Boltzmann.
+"There is nothing more practical than a good theory." -- Ludwig Boltzmann
 
-"[D]emocracy is the worst form of Government except for all those other forms that have been tried." -- Winston Churchill
+"Democracy is the worst form of government except for all those other forms that have been tried." -- Winston Churchill
 
 "No self-respecting architect leaves the scaffolding in place after completing his building." -- Carl Friedrich Gauss
 
@@ -44,7 +46,7 @@ My citation information can be found in the Google Scholar, Scopus, and other li
 
 "A mathematician is a machine for turning coffee into theorems." -- Alfréd Rényi
 
-"Some ideas are so stupid that only intellectuals (professors) believe them." -- George Orwell
+"Some ideas are so stupid that only intellectuals believe them." -- George Orwell
 
 "One of the principal objects of theoretical research is to find the point of view from which the subject appears in the greatest simplicity." -- Josiah Willard Gibbs
 
