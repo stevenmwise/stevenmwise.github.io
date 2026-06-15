@@ -8,22 +8,22 @@ published: true
 ## Projects
 
 ### Numerical Methods for BGK Equations
-In this project, our goal is to derive and analyze fast numerical methods for the multi-species BGK/ESBGK equations. We are, in particular, interested in designing a new class of fully implicit methods for avoiding restrictive time step conditions. A summary of the project can be found [here](https://trace.tennessee.edu/utk_mathpubs/14/).
+In this project, our goal is to derive and analyze fast numerical methods for multi-species BGK/ESBGK equations. We are, in particular, interested in designing a new class of fully implicit methods for avoiding restrictive time step conditions. A summary of the project can be found [here](https://trace.tennessee.edu/utk_mathpubs/14/).
 
 This work is joint with Cory Hauck is funded by the US Department of Energy.
 
 ### Analysis and Implementation of Diffuse Domain Methods 
 Our goal in this project is to design and rigorously analyze diffuse domain methods for interface and moving boundary problems.
 
-This work is a partnership with several co-workers is funded by the US National Science Foundation through grant [NSF-DMS 2607995](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2607995).
+This work, a partnership with several co-workers, is funded by the US National Science Foundation through grant [NSF-DMS 2607995](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2607995).
 
 ### All Projects, Current and Completed
 
 - DOE, ORNL, UT-Battelle, ongoing. 
-- [NSF-DMS 0818030](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0818030), 9/08 -- 9/11. 
-- [NSF-DMS 1115390](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1115390), 7/11 -- 9/14. 
-- [NSF-DMS 1418692](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1418692), 9/14 -- 8/17. 
-- [NSF-DMS 1719854](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1719854), 8/17 -- 7/20. 
-- [NSF-DMS 2012634](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2012634), 8/20 -- 7/24. 
-- [NSF-DMS 2309547](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2309547), 8/23 -- 7/26. 
-- [NSF-DMS 2607995](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2607995), 8/26 -- 7/29. 
+- [NSF-DMS 0818030](https://www.nsf.gov/awardsearch/show-award?AWD_ID=0818030), 9/08 -- 9/11. 
+- [NSF-DMS 1115390](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1115390), 7/11 -- 9/14. 
+- [NSF-DMS 1418692](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1418692), 9/14 -- 8/17. 
+- [NSF-DMS 1719854](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1719854), 8/17 -- 7/20. 
+- [NSF-DMS 2012634](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2012634), 8/20 -- 7/24. 
+- [NSF-DMS 2309547](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2309547), 8/23 -- 7/26. 
+- [NSF-DMS 2607995](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2607995), 8/26 -- 7/29. 
