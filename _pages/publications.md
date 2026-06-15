@@ -24,14 +24,14 @@ published: true
 
 0. Z. Zhang, S. Li, J.S. Lowengrub, and **S.M. Wise**, An Efficient Constant-Coefficient MSAV Scheme for Computing Vesicle Growth and Shrinkage, (in review). (doi: [10.48550/arXiv.2601.10057](https://doi.org/10.48550/arXiv.2601.10057)))
 
-0. J. Meng, S. Tang, **S.M. Wise**, Z. Guo, A GPU-Accelerated Matrix-Free FAS Multigrid Solver for Navier-Stokes Equations with Memory-Efficient Implementations, (in review). (doi: [10.48550/arXiv.2510.11152](https://doi.org/10.48550/arXiv.2510.11152)))
-
 0. J.H. Park, A.J. Salgado, and **S.M. Wise**, A Perturbed Preconditioned Gradient Descent Method for the Unconstrained Minimization of Composite Objectives, (in review). (doi: [10.48550/arXiv.2512.19532](https://doi.org/10.48550/arXiv.2512.19532)))
 {: reversed="reversed"}
 
 #### 2026
 
-0. S. Tang, **S.M. Wise**, J.S. Lowengrub, and Z. Guo, Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear Flow, 1080 (2026) A47 (36 pages).  (doi: [10.1017/jfm.2026.11276](https://doi.org/10.1017/jfm.2026.11276))
+0. J. Meng, S. Tang, **S.M. Wise**, Z. Guo, A GPU-Accelerated Matrix-Free FAS Multigrid Solver for Navier-Stokes Equations with Memory-Efficient Implementations, Comput. Phys. Commun. (online). (doi: [10.1016/j.cpc.2026.110274](https://doi.org/10.1016/j.cpc.2026.110274)))
+
+0. S. Tang, **S.M. Wise**, J.S. Lowengrub, and Z. Guo, Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear Flow, J. Fluid Mech. 1080 (2026) A47 (36 pages).  (doi: [10.1017/jfm.2026.11276](https://doi.org/10.1017/jfm.2026.11276))
 
 0. Y. Guo, C. Wang, **S.M. Wise**, and Z. Zhang,  A Uniquely Solvable and Positivity-Preserving Finite Difference Scheme for the Flory-Huggins-Cahn-Hilliard Equation with Dynamical Boundary Condition, J. Comput. Appl. Math. 472 (2026) 116789 (21 pages). (doi: [10.1016/j.cam.2025.116789](https://doi.org/10.1016/j.cam.2025.116789))
 {: reversed="reversed"}

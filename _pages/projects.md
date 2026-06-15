@@ -8,14 +8,14 @@ published: true
 ## Projects
 
 ### Numerical Methods for BGK Equations
-In this project, our goal is to derive and analyze fast numerical methods for the BGK and multi-species BGK equations. We are, in particular, interested in designing a new class of fully implicit methods for avoiding restrictive time step conditions. A summary of the project can be found [here](https://trace.tennessee.edu/utk_mathpubs/14/).
+In this project, our goal is to derive and analyze fast numerical methods for the multi-species BGK/ESBGK equations. We are, in particular, interested in designing a new class of fully implicit methods for avoiding restrictive time step conditions. A summary of the project can be found [here](https://trace.tennessee.edu/utk_mathpubs/14/).
 
-This work is joint with Cory Hauck and Ryan Glasby and is funded by the US Department of Energy.
+This work is joint with Cory Hauck is funded by the US Department of Energy.
 
-### Positivity-Preserving Numerical Methods
-Our goal in this project is to develop high-order energy stable and postivity-preserving numerical methods for non-isothermal gradient flows where the energy/entropy of the flow has singular potential terms. The resulting schemes are usually highly nonlinear and singular, and they require sophisticated numerical solvers.
+### Analysis and Implementation of Diffuse Domain Methods 
+Our goal in this project is to design and rigorously analyze diffuse domain methods for interface and moving boundary problems.
 
-This work is joint with Cheng Wang and is funded by the US National Science Foundation through grants [NSF-DMS 2012634](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2012634) and [NSF-DMS 2309547](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2309547).
+This work is a partnership with several co-workers is funded by the US National Science Foundation through grant [NSF-DMS 2607995](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2607995).
 
 ### All Projects, Current and Completed
 
@@ -26,3 +26,4 @@ This work is joint with Cheng Wang and is funded by the US National Science Foun
 - [NSF-DMS 1719854](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1719854), 8/17 -- 7/20. 
 - [NSF-DMS 2012634](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2012634), 8/20 -- 7/24. 
 - [NSF-DMS 2309547](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2309547), 8/23 -- 7/26. 
+- [NSF-DMS 2607995](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2607995), 8/26 -- 7/29. 
