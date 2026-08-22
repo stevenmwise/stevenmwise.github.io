@@ -9,7 +9,7 @@ published: true
 
 ### Synopsis
 
-**Classical Numerical Analysis: A Comprehensive Course** (CNA) is our new book (2023) on numerical analysis aimed at graduate and advanced undergraduate students and published by Cambridge University Press. Written by my colleague, [Abner Salgado](https://sites.google.com/utk.edu/abnersg/), and myself, CNA is our attempt to make numerical analysis accessible and understandable to a modern audience. The following is the back-cover blurb for the book:
+**Classical Numerical Analysis: A Comprehensive Course** (CNA) is our 2023 textbook on numerical analysis for graduate and advanced undergraduate students, published by Cambridge University Press. Written by my colleague [Abner Salgado](https://sites.google.com/utk.edu/abnersg/) and me, CNA is our attempt to make numerical analysis accessible and understandable to a modern audience. The following is the book's back-cover description:
 
 Numerical Analysis is a broad field, and coming to grips with all of it may seem like a daunting task. This text provides a thorough and comprehensive exposition of all the topics contained in a classical graduate sequence in numerical analysis. With an emphasis on theory and connections with linear algebra and analysis, the book shows all the rigor of numerical analysis. Its high level and exhaustive coverage will prepare students for research in the field and become a valuable reference as they continue their career. Students will appreciate the simple notation, clear assumptions and arguments, as well as the many examples and classroom-tested exercises ranging from simple verification to qualifying exam-level problems. In addition to the many examples with hand calculations, readers will also be able to translate theory into practical computational codes by running sample MATLAB codes as they try out new concepts.
 
@@ -21,9 +21,9 @@ Numerical Analysis is a broad field, and coming to grips with all of it may seem
 
 - **Arieh Iserles, University of Cambridge:** ‘This is the book I have been waiting for: a textbook of numerical analysis fit for the Twenty-First Century. It sketches a path from the mathematical foundations of the subject to the wide range of its modern methods and algorithms, compromising on neither rigour nor clarity.’
 
-- **Xiaofan Li, Illinois Institute of Technology:** ‘The book is the only textbook I know that covers the current topics for beginning graduate students in numerical analysis. The chosen topics in the book match exactly what one wishes to cover in a two-semester course sequence in computational mathematics, as the selection of the numerical methods is in align with the modern treatment of the subjects. Many instructors in the field have struggled to find two or more textbooks for the same coverage, but you can have all of them in this book.’
+- **Xiaofan Li, Illinois Institute of Technology:** ‘The book is the only textbook I know that covers the current topics for beginning graduate students in numerical analysis. The chosen topics in the book match exactly what one wishes to cover in a two-semester course sequence in computational mathematics, as the selection of the numerical methods aligns with the modern treatment of the subjects. Many instructors in the field have struggled to find two or more textbooks for the same coverage, but you can have all of them in this book.’
 
-- **SIAM Review:** Our book recently received a glowing review from Guosheng Fu, Notre Dame, in SIAM Review. His full review can be obtained [here](https://doi.org/10.1137/24M1700983). The following is his conclusion: 'In summary, Classical Numerical Analysis: A Comprehensive Course is an indispensable resource in the field of numerical analysis. Its extensive coverage, rigorous treatment, and practical insights make it a must-have for anyone looking to deepen their understanding of applied mathematics. Whether you are exploring numerical methods for the first time or revisiting them from a more advanced perspective, this book will be a trusted companion.'
+- **SIAM Review:** Our book received a glowing review from Guosheng Fu of the University of Notre Dame in *SIAM Review*. His full review is [available here](https://doi.org/10.1137/24M1700983). The following is his conclusion: 'In summary, Classical Numerical Analysis: A Comprehensive Course is an indispensable resource in the field of numerical analysis. Its extensive coverage, rigorous treatment, and practical insights make it a must-have for anyone looking to deepen their understanding of applied mathematics. Whether you are exploring numerical methods for the first time or revisiting them from a more advanced perspective, this book will be a trusted companion.'
 
 ### Availability
 
@@ -33,6 +33,6 @@ The electronic version of the book is available through [Cambridge Core](https:/
 
 No book is entirely free of errors. You can obtain the current errata from the book's [GitHub repository](https://github.com/stevenmwise/ClassicalNumericalAnalysis/blob/main/errata/bookErrata.pdf). Errors, typographical mistakes, and inconsistencies may be reported to either Abner or me. We greatly appreciate any feedback you can provide.
 
-### Codes
+### Code and Supplementary Materials
 
-The MATLAB codes listed in the book are available from the GitHub repository: [stevenmwise/ClassicalNumericalAnalysis](https://github.com/stevenmwise/ClassicalNumericalAnalysis). The repository also contains the source codes used to generate the book's tables and figures. We plan to add more software and supplementary material over time.
+The MATLAB code listed in the book is available from the GitHub repository [stevenmwise/ClassicalNumericalAnalysis](https://github.com/stevenmwise/ClassicalNumericalAnalysis). The repository also contains the source code used to generate the book's tables and figures. We plan to add more software and supplementary material over time.

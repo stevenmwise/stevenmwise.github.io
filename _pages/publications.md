@@ -30,14 +30,14 @@ The complete publication record follows.
 
 #### Preprints
 
-0. Z. Zhang, S. Li, J.S. Lowengrub, and **S.M. Wise**, An Efficient Constant-Coefficient MSAV Scheme for Computing Vesicle Growth and Shrinkage, (in review). (doi: [10.48550/arXiv.2601.10057](https://doi.org/10.48550/arXiv.2601.10057)))
+0. Z. Zhang, S. Li, J.S. Lowengrub, and **S.M. Wise**, An Efficient Constant-Coefficient MSAV Scheme for Computing Vesicle Growth and Shrinkage, (in review). (doi: [10.48550/arXiv.2601.10057](https://doi.org/10.48550/arXiv.2601.10057))
 
-0. J.H. Park, A.J. Salgado, and **S.M. Wise**, A Perturbed Preconditioned Gradient Descent Method for the Unconstrained Minimization of Composite Objectives, (in review). (doi: [10.48550/arXiv.2512.19532](https://doi.org/10.48550/arXiv.2512.19532)))
+0. J.H. Park, A.J. Salgado, and **S.M. Wise**, A Perturbed Preconditioned Gradient Descent Method for the Unconstrained Minimization of Composite Objectives, (in review). (doi: [10.48550/arXiv.2512.19532](https://doi.org/10.48550/arXiv.2512.19532))
 {: reversed="reversed"}
 
 #### 2026
 
-0. J. Meng, S. Tang, **S.M. Wise**, Z. Guo, A GPU-Accelerated Matrix-Free FAS Multigrid Solver for Navier-Stokes Equations with Memory-Efficient Implementations, Comput. Phys. Commun. (online). (doi: [10.1016/j.cpc.2026.110274](https://doi.org/10.1016/j.cpc.2026.110274)))
+0. J. Meng, S. Tang, **S.M. Wise**, and Z. Guo, A GPU-Accelerated Matrix-Free FAS Multigrid Solver for Navier-Stokes Equations with Memory-Efficient Implementations, Comput. Phys. Commun. (online). (doi: [10.1016/j.cpc.2026.110274](https://doi.org/10.1016/j.cpc.2026.110274))
 
 0. S. Tang, **S.M. Wise**, J.S. Lowengrub, and Z. Guo, Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear Flow, J. Fluid Mech. 1080 (2026) A47 (36 pages).  (doi: [10.1017/jfm.2026.11276](https://doi.org/10.1017/jfm.2026.11276))
 
@@ -62,7 +62,7 @@ The complete publication record follows.
 
 0. E. Habbershaw, R.S. Glasby, J.R. Haack, C.D. Hauck, and **S.M. Wise**, Asymptotic Relaxation of Moment Equations for a Multi-species, Homogeneous BGK Model, SIAM J. Appl. Math. 85 (2025) 294--313. (doi: [10.1137/23M1596314](https://doi.org/10.1137/23M1596314))
 
-0. M. Punke, M. Salvalaglio, and A. Voigt, and **S.M. Wise**, A Non-Isothermal Phase-Field Crystal Model with Lattice Expansion: Analysis and Benchmarks, Modelling Simul. Mater. Sci. Eng. 33 (2025) 025007 (16 pages). (doi: [10.1088/1361-651X/ada784](https://doi.org/10.1088/1361-651X/ada784))
+0. M. Punke, M. Salvalaglio, A. Voigt, and **S.M. Wise**, A Non-Isothermal Phase-Field Crystal Model with Lattice Expansion: Analysis and Benchmarks, Modelling Simul. Mater. Sci. Eng. 33 (2025) 025007 (16 pages). (doi: [10.1088/1361-651X/ada784](https://doi.org/10.1088/1361-651X/ada784))
 {: reversed="reversed"}
 
 #### 2024
@@ -349,7 +349,6 @@ The complete publication record follows.
 
 0. D. Schaal and **S.M. Wise**, Rado Numbers for Some Inequalities and an Arbitrary Number of Colors, Congr. Numer. 121 (1996), 147--153.
 {: reversed="reversed"}
-
 
 
 

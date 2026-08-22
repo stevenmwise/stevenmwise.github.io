@@ -13,12 +13,12 @@ published: true
 
 I develop and analyze numerical methods for nonlinear PDE and interface problems, with particular attention to stability, accuracy, and efficient solvers.
 
-- diffuse interface approximation methods
-- DG and finite element methods
-- energy/entropy stable methods
-- positivity preserving methods
+- diffuse-interface approximation methods
+- discontinuous Galerkin (DG) and finite element methods
+- energy- and entropy-stable methods
+- positivity-preserving methods
 - adaptive mesh refinement
-- multigrid methods/fast solvers
+- multigrid methods and fast solvers
 
 #### Complex Fluids
 
@@ -39,7 +39,7 @@ My analytical work concerns fundamental properties of nonlinear PDE and their si
 - properties of solutions
 - singular perturbation problems
 - asymptotic methods
-- Gamma convergence
+- gamma convergence
 - existence, uniqueness, and regularity
 
 #### Biological Growth
@@ -47,7 +47,7 @@ My analytical work concerns fundamental properties of nonlinear PDE and their si
 I use mathematical models to investigate growth, progression, and membrane dynamics in biological systems.
 
 - developmental biology
-- spatio-temporal cancer progression models
+- spatiotemporal cancer-progression models
 - membrane dynamics
 
 #### Materials Science
@@ -55,7 +55,7 @@ I use mathematical models to investigate growth, progression, and membrane dynam
 I develop phase-field models and computational methods for structural evolution in complex materials.
 
 - ionic materials
-- phase field and phase field crystal (PFC) methods
+- phase-field and phase-field-crystal (PFC) methods
 - crystallization
 - material anisotropy
 - structural phase transitions
@@ -81,4 +81,3 @@ I develop phase-field models and computational methods for structural evolution 
 - <a title="http://www.math.umassd.edu/~cwang/" href="http://www.math.umassd.edu/~cwang/">Cheng Wang</a>
 - <a title="https://faculty.sustech.edu.cn/wangxm/en/" href="https://faculty.sustech.edu.cn/wangxm/en/">Xiaoming Wang</a>
 - <a title="https://www.math.ubc.ca/~wetton/" href="https://www.math.ubc.ca/~wetton/">Brian Wetton</a>
-

@@ -9,7 +9,7 @@ published: true
 
 ### Positions
 
-#### The University of Tennessee, Mathematics Department 
+#### The University of Tennessee, Department of Mathematics
 - **Professor**, 2017--present
 - **Associate Professor**, 2012--2017
 - **Assistant Professor**, 2007--2012
@@ -18,7 +18,7 @@ published: true
 - **Dresden Fellow**, Fall 2017
 
 
-#### The University of California, Irvine, Mathematics Department 
+#### The University of California, Irvine, Department of Mathematics
 - **Visiting Associate Researcher**, Spring 2015
 - **Visiting Assistant Professor**, 2005--2007
 - **Postdoctoral Researcher**, 2003--2005
@@ -35,5 +35,4 @@ published: true
 #### BS, Mathematics, 1996, Clarion University
 
 [Download the complete CV (PDF)]({{ '/files/CV/vitae.pdf' | relative_url }}).
-
 
