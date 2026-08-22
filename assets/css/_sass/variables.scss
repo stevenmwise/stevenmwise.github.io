@@ -1,26 +1,29 @@
-$base-font-family: 'Work Sans', sans-serif;
-$base-font-size:   16px;
+$base-font-family: 'Work Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+$base-font-size: 17px;
 $base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.7;
+$small-font-size: $base-font-size * .875;
+$base-line-height: 1.72;
 
-$spacing-unit:     30px;
-$light-gray: gray;
-$text-color:       #333;
-$background-color: #fdfdfd;
-$brand-color:      #60c17d;
+$spacing-unit: 30px;
+$light-gray: #d7dce5;
+$text-color: #202534;
+$background-color: #f7f8fc;
+$brand-color: #5850ec;
 
-// Color scheme for light
-$body-bg: #fdfdfd;
-$projectbox: #cfe6a4;
-$text-color: #333;
+$body-bg: #f7f8fc;
+$projectbox: #e8e7ff;
+$body-bg-dark: #0c1020;
+$projectbox-dark: #171c32;
+$text-color-dark: #e8eaf1;
 
-// Color scheme for dark modes
-$body-bg-dark: #061725;
-$projectbox-dark: lighten($body-bg-dark, 10%);
-$text-color-dark: #c4d0d8;
+$indigo: #5850ec;
+$indigo-dark: #332e81;
+$orange: #f47a48;
+$sky: #4aa8d8;
+$ink: #111827;
+$muted: #667085;
+$surface: #ffffff;
 
-// Colour palette for project boxes
-$theme1: ("one",#388087),("two", #6FB3B8),("three",#BADFE7),("four",#C2EDCE),("five",#F6F6F2);
-$theme2: ("one",#E8DFE0),("two", #8D9B6A),("three",#8A9EA7),("four",#DAB692),("five",#8F5B34);
-$theme3: ("one",#78AAC3),("two", #C4DEED),("three",#97C8D6),("four",#EEAB74),("five",#F3CD86), ("six",#F5A280);
+$theme1: ("one",#5850ec),("two",#716cf1),("three",#9e9af7),("four",#c7c5fb),("five",#ededff);
+$theme2: ("one",#1f2937),("two",#374151),("three",#6b7280),("four",#f47a48),("five",#f9ae8e);
+$theme3: ("one",#26759d),("two",#4aa8d8),("three",#90cee9),("four",#f47a48),("five",#ffb596),("six",#ffe0d3);

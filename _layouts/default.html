@@ -5,7 +5,8 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#111827">
     <meta name="google-site-verification" content="4u4Y1sSh6v3NCSOimIe3h1wSW3os9duYVUEquys8epE">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url }}">
@@ -13,28 +14,60 @@
     {% seo %}
     <script> (function() { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v5.11.0/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
   </head>
-  <body>
+  <body class="{% if page.url == '/' %}home{% else %}inner-page{% endif %}">
     <a class="skip-link" href="#main-content">Skip to content</a>
-    <header>
-      <h1 class="post-headline">{{ site.title }}</h1>
-      <p class="post-description">{{ site.description }}</p>
-      {% include navigation.html %}
+
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="site-brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} home">
+          <span class="brand-mark" aria-hidden="true">SW</span>
+          <span class="brand-copy">
+            <strong>{{ site.title }}</strong>
+            <span>Applied Mathematics · UT Knoxville</span>
+          </span>
+        </a>
+
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation">
+          <span class="sr-only">Toggle navigation</span>
+          <span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span>
+        </button>
+
+        {% include navigation.html %}
+      </div>
     </header>
-    <main id="main-content">
-      <article>
+
+    <main id="main-content" class="site-main">
+      <article class="page-content">
         {{ content }}
       </article>
     </main>
-    <footer>
-      <p class="copy">
-        <small>&copy; {{ site.title }} {{ site.time | date: '%Y' }}
-          | Powered by Jekyll and
-          <a target="_blank" rel="noopener noreferrer" href="https://github.com/jitinnair1/gradfolio/">Gradfolio</a>.
-          Last updated on {{ site.time | date_to_long_string }}
-        </small>
-      </p>
-      {% include social-footer.html %}
+
+    <footer class="site-footer">
+      <div class="footer-intro">
+        <div>
+          <strong>{{ site.title }}</strong>
+          <p>Professor of Mathematics at the University of Tennessee, Knoxville.</p>
+        </div>
+        {% include social-footer.html %}
+      </div>
+      <div class="footer-meta">
+        <small>&copy; {{ site.title }} {{ site.time | date: '%Y' }}</small>
+        <small>Updated {{ site.time | date: '%B %Y' }}</small>
+      </div>
     </footer>
+
     {% include google-analytics.html %}
+    <script>
+      (function () {
+        var toggle = document.querySelector('.nav-toggle');
+        var nav = document.getElementById('primary-navigation');
+        if (!toggle || !nav) return;
+        toggle.addEventListener('click', function () {
+          var open = toggle.getAttribute('aria-expanded') === 'true';
+          toggle.setAttribute('aria-expanded', String(!open));
+          nav.classList.toggle('is-open', !open);
+        });
+      }());
+    </script>
   </body>
 </html>

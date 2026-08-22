@@ -1,11 +1,11 @@
-<nav class="links scroll" aria-label="Primary navigation">
-  <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>About</a>
-  <a href="{{ '/research/' | relative_url }}"{% if page.url == '/research/' %} aria-current="page"{% endif %}>Research</a>
-  <a href="{{ '/publications/' | relative_url }}"{% if page.url == '/publications/' %} aria-current="page"{% endif %}>Publications</a>
-  <a href="{{ '/projects/' | relative_url }}"{% if page.url == '/projects/' %} aria-current="page"{% endif %}>Projects</a>
-  <a href="{{ '/teaching/' | relative_url }}"{% if page.url == '/teaching/' %} aria-current="page"{% endif %}>Teaching</a>
-  <a href="{{ '/cv/' | relative_url }}"{% if page.url == '/cv/' %} aria-current="page"{% endif %}>CV</a>
-  <a href="{{ '/CNABook/' | relative_url }}"{% if page.url == '/CNABook/' %} aria-current="page"{% endif %}>CNA Book</a>
-  <a href="{{ '/MGBook/' | relative_url }}"{% if page.url == '/MGBook/' %} aria-current="page"{% endif %}>Multigrid Book</a>
+<nav id="primary-navigation" class="site-nav" aria-label="Primary navigation">
+  <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active" aria-current="page"{% endif %}>About</a>
+  <a href="{{ '/research/' | relative_url }}"{% if page.url == '/research/' %} class="active" aria-current="page"{% endif %}>Research</a>
+  <a href="{{ '/publications/' | relative_url }}"{% if page.url == '/publications/' %} class="active" aria-current="page"{% endif %}>Publications</a>
+  <a href="{{ '/projects/' | relative_url }}"{% if page.url == '/projects/' %} class="active" aria-current="page"{% endif %}>Projects</a>
+  <a href="{{ '/teaching/' | relative_url }}"{% if page.url == '/teaching/' %} class="active" aria-current="page"{% endif %}>Teaching</a>
+  <a href="{{ '/cv/' | relative_url }}"{% if page.url == '/cv/' %} class="active" aria-current="page"{% endif %}>CV</a>
+  <span class="nav-divider" aria-hidden="true"></span>
+  <a class="nav-book{% if page.url == '/CNABook/' %} active{% endif %}" href="{{ '/CNABook/' | relative_url }}"{% if page.url == '/CNABook/' %} aria-current="page"{% endif %}>CNA Book</a>
+  <a class="nav-book{% if page.url == '/MGBook/' %} active{% endif %}" href="{{ '/MGBook/' | relative_url }}"{% if page.url == '/MGBook/' %} aria-current="page"{% endif %}>Multigrid</a>
 </nav>
-<br>
