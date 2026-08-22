@@ -1,5 +1,5 @@
 ---
-title:
+title: Research
 layout: default
 permalink: /research/
 published: true
@@ -8,7 +8,11 @@ published: true
 ## Research
 
 ### Areas of Interest
-Numerical methods for parabolic PDE and interace problems
+
+#### Numerical Methods for Parabolic PDE and Interface Problems
+
+I develop and analyze numerical methods for nonlinear PDE and interface problems, with particular attention to stability, accuracy, and efficient solvers.
+
 - diffuse interface approximation methods
 - DG and finite element methods
 - energy/entropy stable methods
@@ -16,7 +20,10 @@ Numerical methods for parabolic PDE and interace problems
 - adaptive mesh refinement
 - multigrid methods/fast solvers
 
-Complex fluids
+#### Complex Fluids
+
+I study thermodynamically consistent models for complex fluids, phase transitions, and coupled transport processes.
+
 - interfaces
 - multiphase flows
 - phase transitions
@@ -25,24 +32,33 @@ Complex fluids
 - polymeric flows
 - kinetic equations
 
-Nonlinear PDE
+#### Nonlinear PDE
+
+My analytical work concerns fundamental properties of nonlinear PDE and their singular limits.
+
 - properties of solutions
 - singular perturbation problems
 - asymptotic methods
 - Gamma convergence
 - existence, uniqueness, and regularity
 
-Biological growth
+#### Biological Growth
+
+I use mathematical models to investigate growth, progression, and membrane dynamics in biological systems.
+
 - developmental biology
 - spatio-temporal cancer progression models
 - membrane dynamics
 
-Materials science
+#### Materials Science
+
+I develop phase-field models and computational methods for structural evolution in complex materials.
+
 - ionic materials
 - phase field and phase field crystal (PFC) methods
-- crystalization
+- crystallization
 - material anisotropy
-- structural phase transistions
+- structural phase transitions
 
 ### Recent Collaborators
 
@@ -65,5 +81,4 @@ Materials science
 - <a title="http://www.math.umassd.edu/~cwang/" href="http://www.math.umassd.edu/~cwang/">Cheng Wang</a>
 - <a title="https://faculty.sustech.edu.cn/wangxm/en/" href="https://faculty.sustech.edu.cn/wangxm/en/">Xiaoming Wang</a>
 - <a title="https://www.math.ubc.ca/~wetton/" href="https://www.math.ubc.ca/~wetton/">Brian Wetton</a>
-
 

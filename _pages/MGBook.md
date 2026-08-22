@@ -1,5 +1,5 @@
 ---
-title:
+title: Multigrid Methods
 layout: default
 permalink: /MGBook/
 published: true
@@ -23,8 +23,8 @@ The electronic version of the book can be found on De Gruyter's [website](https:
 
 ### Errata
 
-You can get the errata file from the GitHub repo for the book [here](https://github.com/stevenmwise/MultigridCourse). Errors, typos and inconsistencies can be reported to either Abner or me. See my email address below. We greatly appreciate any feadback you have to give about the book.
+The current errata are available from the book's [GitHub repository](https://github.com/stevenmwise/MultigridCourse). Errors, typographical mistakes, and inconsistencies may be reported to any of the authors. We greatly appreciate any feedback you can provide.
 
 ### Codes
 
-There are several Matlab codes that are listed in the book, and these may be retrieved from the GitHub repo: [stevenmwise/MultigridCourse](https://github.com/stevenmwise/MultigridCourse). In addition, you can obtain the Matlab source codes used to generate the tables and figures dispayed in the book. We plan to add more software and supplementary material over time to the repo.
+The MATLAB codes listed in the book are available from the GitHub repository: [stevenmwise/MultigridCourse](https://github.com/stevenmwise/MultigridCourse). The repository also contains the source codes used to generate the book's tables and figures. We plan to add more software and supplementary material over time.

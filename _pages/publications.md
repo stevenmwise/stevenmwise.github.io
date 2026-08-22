@@ -1,11 +1,19 @@
 ---
-title:
+title: Publications
 layout: default
 permalink: /publications/
 published: true
 ---
 
 ## Publications
+
+### Selected Recent Publications
+
+- J. Meng, S. Tang, **S.M. Wise**, and Z. Guo, “A GPU-Accelerated Matrix-Free FAS Multigrid Solver for Navier-Stokes Equations with Memory-Efficient Implementations,” *Computer Physics Communications* (2026). [doi:10.1016/j.cpc.2026.110274](https://doi.org/10.1016/j.cpc.2026.110274)
+- S. Tang, **S.M. Wise**, J.S. Lowengrub, and Z. Guo, “Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear Flow,” *Journal of Fluid Mechanics* 1080 (2026), A47. [doi:10.1017/jfm.2026.11276](https://doi.org/10.1017/jfm.2026.11276)
+- Y. Guo, C. Wang, **S.M. Wise**, and Z. Zhang, “A Uniquely Solvable and Positivity-Preserving Finite Difference Scheme for the Flory-Huggins-Cahn-Hilliard Equation with Dynamical Boundary Condition,” *Journal of Computational and Applied Mathematics* 472 (2026), 116789. [doi:10.1016/j.cam.2025.116789](https://doi.org/10.1016/j.cam.2025.116789)
+
+The complete publication record follows.
 
 ### Books
 
@@ -341,7 +349,6 @@ published: true
 
 0. D. Schaal and **S.M. Wise**, Rado Numbers for Some Inequalities and an Arbitrary Number of Colors, Congr. Numer. 121 (1996), 147--153.
 {: reversed="reversed"}
-
 
 
 

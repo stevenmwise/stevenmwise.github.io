@@ -1,4 +1,5 @@
 ---
+title: About
 layout: about
 permalink: /
 profile:
@@ -7,68 +8,28 @@ profile:
 published: true
 ---
 
-<p class="eyebrow">Applied mathematics · Numerical analysis · PDE</p>
+## About
 
-# Mathematics for complex physical systems
+I am a professor of mathematics at the University of Tennessee, Knoxville. My research focuses on numerical analysis, partial differential equations, complex fluids, and thermodynamically consistent models.
 
-I am a professor of mathematics at the University of Tennessee, Knoxville. My work connects mathematical physics, numerical analysis, partial differential equations, soft matter physics, and kinetic theory.
+### Current Research
 
-<div class="hero-actions">
-  <a class="button primary" href="/research/">Explore my research</a>
-  <a class="button" href="/publications/">View publications</a>
-</div>
+- [Numerical methods for multispecies BGK equations]({{ '/projects/' | relative_url }})
+- [Diffuse-domain methods for interface and moving-boundary problems]({{ '/projects/' | relative_url }})
+- [Thermodynamically consistent phase-field models]({{ '/research/' | relative_url }})
 
-## Current focus
+### Books and Teaching
 
-I build thermodynamically consistent models for heat, mass, and ion transport and for interface formation in complex fluids and materials. I study the mathematical properties of their solutions and design efficient numerical methods to approximate them. I am especially interested in the foundations of thermodynamics and statistical mechanics.
+With Abner Salgado, I wrote [Classical Numerical Analysis: A Comprehensive Course](https://doi.org/10.1017/9781108942607), published by Cambridge University Press in 2023. My second book, [Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems](https://doi.org/10.1515/9783111354880), was published by De Gruyter in 2026 and was coauthored with Abner Salgado and Calvin Wong. Supplementary materials for both books are available on [GitHub](https://github.com/stevenmwise).
 
-<div class="feature-grid">
-  <a class="feature-card" href="/research/">
-    <span class="feature-label">Research</span>
-    <strong>Models, analysis, and computation</strong>
-    <span>Phase fields, complex fluids, kinetic equations, nonlinear PDE, and fast solvers.</span>
-  </a>
-  <a class="feature-card" href="/teaching/">
-    <span class="feature-label">Teaching</span>
-    <strong>Courses and open lectures</strong>
-    <span>PDE, applied mathematics, numerical analysis, finite elements, and multigrid.</span>
-  </a>
-  <a class="feature-card" href="/projects/">
-    <span class="feature-label">Projects</span>
-    <strong>Current funded work</strong>
-    <span>Numerical methods for BGK equations and diffuse-domain methods.</span>
-  </a>
-</div>
+I teach courses in partial differential equations, analysis, applied mathematics, and numerical analysis. On my YouTube channel, [WiseAppliedMaths](https://www.youtube.com/@WiseAppliedMaths), I post complete lecture series in asymptotic analysis, multigrid methods, finite element methods, and non-equilibrium thermodynamics.
 
-## Books
+### Background
 
-<div class="book-grid">
-  <a class="book-card" href="/MGBook/">
-    <span class="book-year">2026 · De Gruyter</span>
-    <strong>Multigrid Methods</strong>
-    <span>Axiomatic convergence theory for linear and weakly nonlinear problems.</span>
-  </a>
-  <a class="book-card" href="/CNABook/">
-    <span class="book-year">2023 · Cambridge University Press</span>
-    <strong>Classical Numerical Analysis</strong>
-    <span>A comprehensive course for graduate and advanced undergraduate students.</span>
-  </a>
-</div>
+I joined the University of Tennessee in 2007. Previously, I was a postdoctoral researcher at the University of California, Irvine, where I worked with John Lowengrub and Vittorio Cristini on complex fluids, crystal microstructure, and cancer progression. I received my PhD in engineering physics from the University of Virginia in 2003, working with William C. Johnson.
 
-Both books were written with [Abner Salgado](https://sites.google.com/utk.edu/abnersg/); *Multigrid Methods* was also coauthored with Calvin Wong. Supplementary materials and code are available on [GitHub](https://github.com/stevenmwise).
+### Scholarly Profiles
 
-## Teaching beyond the classroom
+My citation information is available through the Google Scholar, Scopus, and other profile links below. My [UT faculty profile](https://faculty.utk.edu/Steven.Wise) contains additional university information. Web of Science recognized me as a Highly Cited Researcher in [2020](https://recognition.webofscience.com/awards/highly-cited/2020/) and [2022](https://recognition.webofscience.com/awards/highly-cited/2022/).
 
-On [WiseAppliedMaths](https://www.youtube.com/@WiseAppliedMaths), I share complete lecture series in asymptotic analysis, multigrid methods, finite element methods, and non-equilibrium thermodynamics.
-
-<div class="inline-links">
-  <a href="https://www.youtube.com/@WiseAppliedMaths">Watch on YouTube <span aria-hidden="true">↗</span></a>
-  <a href="https://faculty.utk.edu/Steven.Wise">UT faculty profile <span aria-hidden="true">↗</span></a>
-  <a href="/cv/">Curriculum vitae <span aria-hidden="true">→</span></a>
-</div>
-
-## Background
-
-I joined the University of Tennessee in 2007 after postdoctoral work at the University of California, Irvine, with John Lowengrub and Vittorio Cristini. I received my PhD in engineering physics from the University of Virginia in 2003, where I worked with William C. Johnson.
-
-My citation record and scholarly profiles are linked below. Web of Science recognized me as a Highly Cited Researcher in [2020](https://recognition.webofscience.com/awards/highly-cited/2020/) and [2022](https://recognition.webofscience.com/awards/highly-cited/2022/).
+My collection of [favorite mathematics and science quotations]({{ '/quotes/' | relative_url }}) is also available.

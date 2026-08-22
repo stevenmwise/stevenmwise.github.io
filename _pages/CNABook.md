@@ -1,5 +1,5 @@
 ---
-title:
+title: Classical Numerical Analysis
 layout: default
 permalink: /CNABook/
 published: true
@@ -27,12 +27,12 @@ Numerical Analysis is a broad field, and coming to grips with all of it may seem
 
 ### Availability
 
-The electronic version of the book can be found on Cambridge Core [here](https://doi.org/10.1017/9781108942607). Please (pray hands) ask your university library to purchase campus-wide access to the electronic version from Cambridge Core for you and your students. If you are more of an old-school type, the hardback can be purchased on Amazon (in the United States and Europe) and directly from Cambridge University Press.
+The electronic version of the book is available through [Cambridge Core](https://doi.org/10.1017/9781108942607). You may ask your university library to purchase campus-wide access for students and faculty. The hardback can be purchased from Amazon in the United States and Europe or directly from Cambridge University Press.
 
 ### Errata
 
-No book that can be written can be written without errors. Our book has a few of them (wink). You can get the errata file from the GitHub repo for the book [here](https://github.com/stevenmwise/ClassicalNumericalAnalysis/blob/main/errata/bookErrata.pdf). Errors, typos and inconsistencies can be reported to either Abner or me. See my email address below. We greatly appreciate any feadback you have to give about the book.
+No book is entirely free of errors. You can obtain the current errata from the book's [GitHub repository](https://github.com/stevenmwise/ClassicalNumericalAnalysis/blob/main/errata/bookErrata.pdf). Errors, typographical mistakes, and inconsistencies may be reported to either Abner or me. We greatly appreciate any feedback you can provide.
 
 ### Codes
 
-There are several Matlab codes that are listed in the book, and these may be retrieved from the GitHub repo: [stevenmwise/ClassicalNumericalAnalysis](https://github.com/stevenmwise/ClassicalNumericalAnalysis). In addition, you can obtain the Matlab source codes used to generate the tables and figures dispayed in the book. We plan to add more software and supplementary material over time to the repo.
+The MATLAB codes listed in the book are available from the GitHub repository: [stevenmwise/ClassicalNumericalAnalysis](https://github.com/stevenmwise/ClassicalNumericalAnalysis). The repository also contains the source codes used to generate the book's tables and figures. We plan to add more software and supplementary material over time.

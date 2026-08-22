@@ -1,12 +1,11 @@
 /* Profile */
 .profile {
-    width: min(31%, 220px);
-    aspect-ratio: 4 / 5;
-    object-fit: cover;
-    border: 0;
-    margin: .2rem 0 1.5rem 2.2rem;
-    border-radius: 16px;
-    box-shadow: 0 16px 34px rgba(21, 50, 47, .14);
+    border-style: solid;
+    border-color: $light-gray;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 20px;
 }
 
 .left {
@@ -19,7 +18,9 @@
 
 // adjust tile sizes on smaller screens
 @include media-query($on-phone) {
-  @media screen and (max-width: $on-phone) {
-    .profile { float: none; width: 42%; margin: 0 0 1.5rem; }
+  @media screen and (max-width: $on-phone){
+    .profile {
+      width: 40%;
+    }
   }
 }

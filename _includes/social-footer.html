@@ -2,81 +2,81 @@
 
     {%- if site.email -%}
     <a title="{{ _locale_string_email }}"
-    class="social-button email" itemprop="email"
-    href="mailto:{{ site.email | encode_email }}" target="_blank">
-    <i class="far fa-envelope"></i>
+    class="social-button email" itemprop="email" aria-label="Email Steven M. Wise"
+    href="mailto:{{ site.email | encode_email }}">
+    <i class="far fa-envelope" aria-hidden="true"></i>
     </a>
     {%- endif -%}
 
     {%- if site.scopus -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'Scopus' }}"
-    class="social-button scopus"
+    class="social-button scopus" aria-label="Scopus profile"
     href="https://www.scopus.com/authid/detail.uri?authorId={{ site.scopus }}" itemprop="sameAs"
-    target="_blank">
-    <i class="ai ai-scopus"></i>
+    target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-scopus" aria-hidden="true"></i>
     </a>
     {%- endif -%}
 
     {%- if site.google_scholar -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}" 
-    class="social-button google-scholar"
+    class="social-button google-scholar" aria-label="Google Scholar profile"
     href="https://scholar.google.it/citations?user={{ site.google_scholar }}" itemprop="sameAs"
-    target="_blank">
-    <i class="ai ai-google-scholar"></i>
+    target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" aria-hidden="true"></i>
     </a>
     {%- endif -%}
 
     {%- if site.linkedin -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
-    class="social-button linkedin"
+    class="social-button linkedin" aria-label="LinkedIn profile"
     href="https://www.linkedin.com/in/{{ site.linkedin }}" itemprop="sameAs"
-    target="_blank">
-    <i class="fab fa-linkedin"></i>
+    target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-linkedin" aria-hidden="true"></i>
     </a>
     {%- endif -%}
 
     {%- if site.github -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'GitHub' }}"
-    class="social-button github"
+    class="social-button github" aria-label="GitHub profile"
     href="https://www.github.com/{{ site.github }}" itemprop="sameAs"
-    target="_blank">
-    <i class="fab fa-github"></i>
+    target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-github" aria-hidden="true"></i>
     </a>
     {%- endif -%}
 
     {%- if site.researchgate -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'ResearchGate' }}"
-    class="social-button researchgate"
+    class="social-button researchgate" aria-label="ResearchGate profile"
     href="https://www.researchgate.net/profile/{{ site.researchgate }}" itemprop="sameAs"
-    target="_blank">
-    <i class="fab fa-researchgate"></i>
+    target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-researchgate" aria-hidden="true"></i>
     </a>
     {%- endif -%}
 
     {%- if site.orcid -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'Orcid' }}"
-    class="social-button orcid"
+    class="social-button orcid" aria-label="ORCID profile"
     href="https://orcid.org/{{ site.orcid }}" itemprop="sameAs"
-    target="_blank">
-    <i class="fab fa-orcid"></i>
+    target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-orcid" aria-hidden="true"></i>
     </a>
     {%- endif -%}
 
     {%- if site.flickr -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'Flickr' }}"
-    class="social-button flickr"
+    class="social-button flickr" aria-label="Flickr profile"
     href="https://www.flickr.com/photos/{{ site.flickr }}" itemprop="sameAs"
-    target="_blank">
-    <i class="fab fa-flickr"></i>
+    target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-flickr" aria-hidden="true"></i>
     </a>
     {%- endif -%}
 
     {%- if site.twitter -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
-    class="social-button twitter"
+    class="social-button twitter" aria-label="Twitter profile"
     href="https://www.twitter.com/{{ site.twitter }}" itemprop="sameAs"
-    target="_blank">
-    <i class="fab fa-twitter"></i>
+    target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
     </a>
     {%- endif -%}
 

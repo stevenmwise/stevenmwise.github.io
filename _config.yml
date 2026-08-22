@@ -3,7 +3,7 @@ title: Steven M. Wise
 description: Professor of Mathematics at the University of Tennessee
 
 baseurl: ""
-url: "" #custom url to be used instead of GitHub repository
+url: "https://stevenmwise.github.io"
 email: swise1@utk.edu
 
 highlighter: rouge

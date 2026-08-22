@@ -1,5 +1,5 @@
 ---
-title:
+title: Teaching
 layout: default
 permalink: /teaching/
 published: true

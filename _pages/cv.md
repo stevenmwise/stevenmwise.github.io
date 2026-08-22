@@ -1,5 +1,5 @@
 ---
-title:
+title: Curriculum Vitae
 layout: default
 permalink: /cv/
 published: true
@@ -14,7 +14,7 @@ published: true
 - **Associate Professor**, 2012--2017
 - **Assistant Professor**, 2007--2012
 
-#### Technicshe Universität Dresden, Institute of Scientific Computing
+#### Technische Universität Dresden, Institute of Scientific Computing
 - **Dresden Fellow**, Fall 2017
 
 
@@ -34,7 +34,6 @@ published: true
 
 #### BS, Mathematics, 1996, Clarion University
 
-You can find a complete cv [here](https://github.com/stevenmwise/stevenmwise.github.io/blob/master/files/CV/vitae.pdf).
-
+[Download the complete CV (PDF)]({{ '/files/CV/vitae.pdf' | relative_url }}).
 
 

@@ -1,5 +1,5 @@
 ---
-title:
+title: Projects
 layout: default
 permalink: /projects/
 published: true
@@ -10,7 +10,7 @@ published: true
 ### Numerical Methods for BGK Equations
 In this project, our goal is to derive and analyze fast numerical methods for multi-species BGK/ESBGK equations. We are, in particular, interested in designing a new class of fully implicit methods for avoiding restrictive time step conditions. A summary of the project can be found [here](https://trace.tennessee.edu/utk_mathpubs/14/).
 
-This work is joint with Cory Hauck is funded by the US Department of Energy.
+This work is conducted jointly with Cory Hauck and is funded by the U.S. Department of Energy.
 
 ### Analysis and Implementation of Diffuse Domain Methods 
 Our goal in this project is to design and rigorously analyze diffuse domain methods for interface and moving boundary problems.
