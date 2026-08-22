@@ -104,7 +104,7 @@ published: true
   <div class="callout-symbol" aria-hidden="true">▶</div>
   <div>
     <p class="eyebrow"><span></span> Open lectures</p>
-    <h2>Applied mathematics, taught in full.</h2>
+    <h2>Mathematical ideas, made accessible.</h2>
     <p>Complete courses in asymptotic analysis, multigrid methods, finite element methods, and non-equilibrium thermodynamics are available on WiseAppliedMaths.</p>
   </div>
   <a class="button button-light" href="https://www.youtube.com/@WiseAppliedMaths">Visit YouTube <span aria-hidden="true">↗</span></a>
