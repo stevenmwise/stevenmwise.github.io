@@ -1,7 +1,9 @@
 /* Footer */
 footer {
     clear: both;
-    margin-top: 2em;
+    margin-top: 4rem;
+    padding-top: 1.75rem;
+    border-top: 1px solid rgba($text-color, .14);
 }
 
 /* Footer navigation links */
@@ -11,6 +13,7 @@ footer {
 
 /* Footer copyrights */
 .copy {
-    color: #aaa;
+    margin-top: 1rem;
+    color: #77827f;
     text-align: center;
 }

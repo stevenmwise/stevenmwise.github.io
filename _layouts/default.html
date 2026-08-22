@@ -2,50 +2,34 @@
 # layout: compress
 ---
 <!DOCTYPE html>
-<html>
-
-    <head>
-        <meta charset="utf-8">
-        <meta content="width=device-width, initial-scale=1" name="viewport">
-        <meta name="google-site-verification" content="4u4Y1sSh6v3NCSOimIe3h1wSW3os9duYVUEquys8epE"/>
-        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
-        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/academicons.min.css"/>
-
-        <h1 class="post-headline">{{site.title}}</h1>
-        <h3 class="post-description">{{site.description}}</h3>
-
-        {% include navigation.html %}
-
-        {% seo %}
-
-
-        <!-- Load fontawesome here for faster loadtimes: https://stackoverflow.com/a/35880730/9523246 -->
-        <script type="text/javascript"> (function() { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v5.11.0/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
-
-    </head>
-
-    <body>
-        <main>
-            <article>
-                {{ content }}
-            </article>
-        </main>
-
-        <footer>
-          <p class="copy">
-            <small> &copy; {{site.title}} {{ site.time | date: '%Y' }}
-                    | Powered by Jekyll and
-                    <a target="_blank" href="https://github.com/jitinnair1/gradfolio/">Gradfolio</a>.
-                    Last updated on {{ site.time | date_to_long_string }}
-            </small>
-          </p>
-
-        {% include social-footer.html %}
-
-        </footer>
-
-        {% include google-analytics.html %}
-
-    </body>
-
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0f3d3e">
+    <meta name="google-site-verification" content="4u4Y1sSh6v3NCSOimIe3h1wSW3os9duYVUEquys8epE">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url }}">
+    {% include favicon.html %}
+    {% seo %}
+    <script> (function() { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v5.11.0/css/all.css'; css.rel = 'stylesheet'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <a class="site-identity" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} home">
+        <span class="site-name">{{ site.title }}</span>
+        <span class="site-description">{{ site.description }}</span>
+      </a>
+      {% include navigation.html %}
+    </header>
+    <main id="main-content">
+      <article>{{ content }}</article>
+    </main>
+    <footer>
+      {% include social-footer.html %}
+      <p class="copy"><small>&copy; {{ site.title }} {{ site.time | date: '%Y' }} · Powered by Jekyll and <a target="_blank" rel="noopener" href="https://github.com/jitinnair1/gradfolio/">Gradfolio</a> · Updated {{ site.time | date: '%B %Y' }}</small></p>
+    </footer>
+    {% include google-analytics.html %}
+  </body>
 </html>

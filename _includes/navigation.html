@@ -1,11 +1,15 @@
-<div class="links scroll">
-        <a href="{{site.baseurl}}/">About</a>
-        <a href="{{site.baseurl}}/research/">Research</a>
-        <a href="{{site.baseurl}}/publications/">Publications</a>
-        <a href="{{site.baseurl}}/projects/">Projects</a>
-        <a href="{{site.baseurl}}/teaching/">Teaching</a>
-        <a href="{{site.baseurl}}/cv/">CV</a>
-        <a href="{{site.baseurl}}/CNABook/">Classical Numerical Analysis</a>
-        <a href="{{site.baseurl}}/MGBook/">Multigrid Methods</a>
-</div>
-<br>
+<nav class="site-nav" aria-label="Primary navigation">
+  <div class="nav-primary">
+    <a{% if page.url == '/' %} class="active" aria-current="page"{% endif %} href="{{ '/' | relative_url }}">About</a>
+    <a{% if page.url == '/research/' %} class="active" aria-current="page"{% endif %} href="{{ '/research/' | relative_url }}">Research</a>
+    <a{% if page.url == '/publications/' %} class="active" aria-current="page"{% endif %} href="{{ '/publications/' | relative_url }}">Publications</a>
+    <a{% if page.url == '/projects/' %} class="active" aria-current="page"{% endif %} href="{{ '/projects/' | relative_url }}">Projects</a>
+    <a{% if page.url == '/teaching/' %} class="active" aria-current="page"{% endif %} href="{{ '/teaching/' | relative_url }}">Teaching</a>
+    <a{% if page.url == '/cv/' %} class="active" aria-current="page"{% endif %} href="{{ '/cv/' | relative_url }}">CV</a>
+  </div>
+  <div class="nav-books" aria-label="Books">
+    <span>Books</span>
+    <a{% if page.url == '/CNABook/' %} class="active" aria-current="page"{% endif %} href="{{ '/CNABook/' | relative_url }}">Numerical Analysis</a>
+    <a{% if page.url == '/MGBook/' %} class="active" aria-current="page"{% endif %} href="{{ '/MGBook/' | relative_url }}">Multigrid Methods</a>
+  </div>
+</nav>

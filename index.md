@@ -7,47 +7,68 @@ profile:
 published: true
 ---
 
-## About
+<p class="eyebrow">Applied mathematics · Numerical analysis · PDE</p>
 
-### Short Biography
-I have been a professor of mathematics at the University of Tennessee, Knoxville, since 2007. Before that I was a postdoc at UC, Irvine, in Orange County California, where I worked with John Lowengrub and Vittorio Cristini on complex fluids, crystal microstructure, and cancer progression. I received my PhD in 2003 from the University of Virginia, where I studied engineering physics, working with the nicest person in the world, Dr. William C. Johnson.
+# Mathematics for complex physical systems
 
-I teach courses in PDE, analysis, applied mathematics, and numerical analysis. With Abner Salgado, I wrote a graduate-level textbook entitled [Classical Numerical Analysis: A Comprehensive Course](https://doi.org/10.1017/9781108942607), published by Cambridge University Press in 2023. You can check it out on Amazon or on Cambridge Core. My second book, [Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems](https://doi.org/10.1515/9783111354880), focusing on basic multigrid theory and implementation (in Matlab), was just published by De Gruyter (2026). It is coauthored with Abner Salgado, my UTK colleague, and Calvin Wong, my graduate student, and is now available on Amazon. Supplementary materials for both books can be found on my GitHub repo, [stevenmwise](https://github.com/stevenmwise).
+I am a professor of mathematics at the University of Tennessee, Knoxville. My work connects mathematical physics, numerical analysis, partial differential equations, soft matter physics, and kinetic theory.
 
-I have a YouTube channel, [WiseAppliedMaths](http://www.youtube.com/@WiseAppliedMaths), where I post lectures from some of the courses that I teach. My latest playlists are courses on [Asymptotic Analysis](https://youtube.com/playlist?list=PLRC4Oo56zlKnNSCDSSny82UppC2-sCpeW&si=yZ-ix4LtlLVWlb5B), [Multigrid Methods](https://youtube.com/playlist?list=PLRC4Oo56zlKk4oq6_nl38iy_R-12oOXj4&si=x_30AKDhYsrRKxJj), [Finite Element Methods](https://youtube.com/playlist?list=PLRC4Oo56zlKlDjmHBAFCQTRys9fUQHlr9&si=OPVgf0uRMw7l3mL8), and [Thermodynamics](https://www.youtube.com/playlist?list=PLRC4Oo56zlKmkkDOpPbDXXgAVGy6nd6QX).
+<div class="hero-actions">
+  <a class="button primary" href="/research/">Explore my research</a>
+  <a class="button" href="/publications/">View publications</a>
+</div>
 
-### Research
-I work in the intersection of mathematical physics, numerical analysis, partial differential equations, soft matter physics, and kinetic theory. I am especially interested in the foundations of thermodynamics and statistical mechanics, these days. I build thermodynamically consistent models to study heat, mass, and ion flows and the formation of interfaces in complex fluids and materials. I examine properties of solutions and try to design efficient numerical methods to get approximate solutions.
+## Current focus
 
-### Citations
-My citation information can be found in the Google Scholar, Scopus, and other links below, and my UTK Faculty Profile can be found [here](https://faculty.utk.edu/Steven.Wise). I was recognized by Web of Science as a highly cited researcher in [2020](https://recognition.webofscience.com/awards/highly-cited/2020/) and [2022](https://recognition.webofscience.com/awards/highly-cited/2022/). 
+I build thermodynamically consistent models for heat, mass, and ion transport and for interface formation in complex fluids and materials. I study the mathematical properties of their solutions and design efficient numerical methods to approximate them. I am especially interested in the foundations of thermodynamics and statistical mechanics.
 
-### Favorite (Mostly Maths) Quotes
+<div class="feature-grid">
+  <a class="feature-card" href="/research/">
+    <span class="feature-label">Research</span>
+    <strong>Models, analysis, and computation</strong>
+    <span>Phase fields, complex fluids, kinetic equations, nonlinear PDE, and fast solvers.</span>
+  </a>
+  <a class="feature-card" href="/teaching/">
+    <span class="feature-label">Teaching</span>
+    <strong>Courses and open lectures</strong>
+    <span>PDE, applied mathematics, numerical analysis, finite elements, and multigrid.</span>
+  </a>
+  <a class="feature-card" href="/projects/">
+    <span class="feature-label">Projects</span>
+    <strong>Current funded work</strong>
+    <span>Numerical methods for BGK equations and diffuse-domain methods.</span>
+  </a>
+</div>
 
-"The divergent series are the invention of the devil, and it is a shame to base on them any demonstration whatsoever." -- Niels Henrik Abel
+## Books
 
-"All science is either physics or stamp collecting." -- Ernest Rutherford
+<div class="book-grid">
+  <a class="book-card" href="/MGBook/">
+    <span class="book-year">2026 · De Gruyter</span>
+    <strong>Multigrid Methods</strong>
+    <span>Axiomatic convergence theory for linear and weakly nonlinear problems.</span>
+  </a>
+  <a class="book-card" href="/CNABook/">
+    <span class="book-year">2023 · Cambridge University Press</span>
+    <strong>Classical Numerical Analysis</strong>
+    <span>A comprehensive course for graduate and advanced undergraduate students.</span>
+  </a>
+</div>
 
-"The currency of approximation is derivatives." -- Author Unknown (I learned of this quote from Ohannes Karakashian.)
+Both books were written with [Abner Salgado](https://sites.google.com/utk.edu/abnersg/); *Multigrid Methods* was also coauthored with Calvin Wong. Supplementary materials and code are available on [GitHub](https://github.com/stevenmwise).
 
-"The Axiom of Choice is obviously true, the well-ordering principle obviously false, and who can tell about Zorn's lemma?" -- Jerry Bona
+## Teaching beyond the classroom
 
-"There is nothing more practical than a good theory." -- Ludwig Boltzmann
+On [WiseAppliedMaths](https://www.youtube.com/@WiseAppliedMaths), I share complete lecture series in asymptotic analysis, multigrid methods, finite element methods, and non-equilibrium thermodynamics.
 
-"Democracy is the worst form of government except for all those other forms that have been tried." -- Winston Churchill
+<div class="inline-links">
+  <a href="https://www.youtube.com/@WiseAppliedMaths">Watch on YouTube <span aria-hidden="true">↗</span></a>
+  <a href="https://faculty.utk.edu/Steven.Wise">UT faculty profile <span aria-hidden="true">↗</span></a>
+  <a href="/cv/">Curriculum vitae <span aria-hidden="true">→</span></a>
+</div>
 
-"No self-respecting architect leaves the scaffolding in place after completing his building." -- Carl Friedrich Gauss
+## Background
 
-"If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." -- John von Neumann
+I joined the University of Tennessee in 2007 after postdoctoral work at the University of California, Irvine, with John Lowengrub and Vittorio Cristini. I received my PhD in engineering physics from the University of Virginia in 2003, where I worked with William C. Johnson.
 
-"'Obvious' is the most dangerous word in mathematics." -- Eric Temple Bell
-
-"Nothing takes place in the world whose meaning is not that of some maximum or minimum." -- Leonhard Euler
-
-"A mathematician is a machine for turning coffee into theorems." -- Alfréd Rényi
-
-"Some ideas are so stupid that only intellectuals believe them." -- George Orwell
-
-"One of the principal objects of theoretical research is to find the point of view from which the subject appears in the greatest simplicity." -- Josiah Willard Gibbs
-
-"If your theory is found to be against the second law of thermodynamics, I can give you no hope; there is nothing for it but to collapse in deepest humiliation." -- Sir Arthur Eddington
+My citation record and scholarly profiles are linked below. Web of Science recognized me as a Highly Cited Researcher in [2020](https://recognition.webofscience.com/awards/highly-cited/2020/) and [2022](https://recognition.webofscience.com/awards/highly-cited/2022/).
