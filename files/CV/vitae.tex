@@ -1,49 +1,91 @@
-    \documentclass[11pt]{letter}
-    
-    \textwidth=6.25in
-    \textheight=9.0in
-    \footskip=0.5in
-    \oddsidemargin=0in
-    \topmargin=-0.75in
-    
-    \usepackage{url}
-    \usepackage{verbatim}
-    \usepackage{amsmath}
-    \usepackage{amssymb}
-	\usepackage{cmbright}
-	\usepackage{multicol}
-	\usepackage{eurosym}
-	\usepackage{graphicx}
-	\usepackage{qrcode}
+\documentclass[10pt,letterpaper]{article}
 
-    
-    \begin{document}
-    
-    \begin{center}
-    
-{\Huge\bf  Steven M. Wise}
+\usepackage[letterpaper,margin=0.72in,top=0.62in,bottom=0.92in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[default]{sourcesanspro}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{enumitem}
+\usepackage{eurosym}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{microtype}
+\usepackage{multicol}
+\usepackage{needspace}
+\usepackage{qrcode}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{verbatim}
 
-{\Large\bf  Curriculum Vitae}
+% University of Tennessee-inspired palette.
+\definecolor{UTOrange}{HTML}{FF8200}
+\definecolor{Smokey}{HTML}{4B4B4B}
+\definecolor{WarmGray}{HTML}{747474}
+\definecolor{PaleOrange}{HTML}{FFF1E3}
+\definecolor{RuleGray}{HTML}{D9D9D9}
 
-\qrcode{https://stevenmwise.github.io}
+\hypersetup{
+  colorlinks=true,
+  urlcolor=Smokey,
+  linkcolor=Smokey,
+  pdfauthor={Steven M. Wise},
+  pdftitle={Steven M. Wise - Curriculum Vitae}
+}
+\urlstyle{same}
 
-\url{swise1@utk.edu}  $\bigstar$  \url{https://faculty.utk.edu/Steven.Wise}
-	\
-\url{https://stevenmwise.github.io}  $\bigstar$    \url{https://github.com/stevenmwise}
-	\\
-\url{stevenmwise@gmail.com}  $\bigstar$   \url{https://scholar.google.com/citations?user=dGv7Ou8AAAAJ}
-	\\
-\url{https://www.researchgate.net/profile/Steven-Wise-5}
-	\\
-\url{https://orcid.org/0000-0003-3824-2075}
-    \end{center}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2pt}
+\setlength{\columnsep}{18pt}
+\setlist[description]{leftmargin=0pt,labelindent=0pt,itemsep=2pt,topsep=3pt,parsep=0pt,font=\normalfont}
+\setlist[enumerate]{leftmargin=1.7em,itemsep=4pt,topsep=4pt,parsep=0pt}
+\setlist[itemize]{leftmargin=1.3em,itemsep=2pt,topsep=3pt,parsep=0pt}
+\emergencystretch=2em
+\clubpenalty=10000
+\widowpenalty=10000
 
-    \medskip
+\newcommand{\cvsection}[1]{%
+  \Needspace{5\baselineskip}\par\vspace{13pt}%
+  {\color{Smokey}\fontsize{15}{17}\selectfont\bfseries #1}\par\vspace{3pt}%
+  {\color{UTOrange}\rule{\linewidth}{1.8pt}}\par\vspace{4pt}%
+}
+\newcommand{\cvsubsection}[1]{%
+  \par\vspace{8pt}{\color{Smokey}\fontsize{12}{14}\selectfont\bfseries #1}\par\vspace{2pt}%
+}
 
-{\LARGE\bf  Current Appointment}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\color{WarmGray}\footnotesize Page \thepage}
+\setlength{\footskip}{24pt}
+
+\begin{document}
+
+\begin{minipage}[c]{0.79\textwidth}
+  {\color{Smokey}\fontsize{28}{31}\selectfont\bfseries Steven M. Wise}\par
+  \vspace{2pt}
+  {\color{UTOrange}\fontsize{13}{16}\selectfont\bfseries Professor of Mathematics}\par
+  \vspace{7pt}
+  {\small
+  University of Tennessee, Knoxville \textcolor{UTOrange}{\textbullet}
+  \href{mailto:swise1@utk.edu}{swise1@utk.edu} \textcolor{UTOrange}{\textbullet}
+  \href{https://stevenmwise.github.io}{stevenmwise.github.io}\par
+  \href{https://faculty.utk.edu/Steven.Wise}{Faculty Profile} \textcolor{UTOrange}{\textbullet}
+  \href{https://github.com/stevenmwise}{GitHub} \textcolor{UTOrange}{\textbullet}
+  \href{https://scholar.google.com/citations?user=dGv7Ou8AAAAJ}{Google Scholar} \textcolor{UTOrange}{\textbullet}
+  \href{https://orcid.org/0000-0003-3824-2075}{ORCID}}
+\end{minipage}%
+\hfill
+\begin{minipage}[c]{0.16\textwidth}
+  \raggedleft\colorbox{PaleOrange}{\hspace{4pt}\qrcode[height=0.72in]{https://stevenmwise.github.io}\hspace{4pt}}
+\end{minipage}
+
+\vspace{8pt}
+{\color{RuleGray}\rule{\linewidth}{0.6pt}}
+
+\cvsection{Current Appointment}
     \begin{description}
     \item
-Mathematics Department, University of Tennessee
+Department of Mathematics, University of Tennessee, Knoxville
 	\begin{description}
 	\item
 \textbf{Professor}, August 2017 -- present
@@ -60,7 +102,7 @@ Mathematics Department, University of Tennessee
 	
 	\smallskip
 	
-{\LARGE\bf  Research Impact}
+\cvsection{Research Impact}
     \begin{description}
     \item
 \textbf{Web of Science Highly Cited Researcher:} Mathematics, 2020, 2022
@@ -69,75 +111,77 @@ Mathematics Department, University of Tennessee
 	\\
 \url{https://recognition.webofscience.com/awards/highly-cited/2022/}
    	\item
-\textbf{Google Scholar Citation Metrics:} over 11100 citations, h-index 55, as of May, 2026
+\textbf{Google Scholar Citation Metrics:} more than 11,100 citations; h-index: 55 (May 2026)
     \end{description}
     
     \smallskip
 	
-{\LARGE\bf  Research Interests}
+\cvsection{Research Interests}
     \begin{description}
     \item
-\textbf{Computational Mathematics and Numerical Analysis:}~Approximation methods for nonlinear parabolic/hyperbolic PDE; convex-concave decomposition methods for bistable gradient equations. Multilevel pre-conditioners. Fast nonlinear solvers. Efficient adaptive multigrid methods for interface problems; methods for moving boundary problems, especially phase-field and diffuse interface methods. Rigorous stability and convergence of finite difference, finite element, pseudo-spectral and discontinuous galerkin methods for nonlinear and nonlocal, elliptic and parabolic PDE.
+\textbf{Computational Mathematics and Numerical Analysis:}~Approximation methods for nonlinear parabolic and hyperbolic PDE; convex-concave decomposition methods for bistable gradient equations; multilevel preconditioners; fast nonlinear solvers; efficient adaptive multigrid methods for interface and moving-boundary problems, especially phase-field and diffuse-interface methods; and rigorous stability and convergence analysis of finite-difference, finite element, pseudospectral, and discontinuous Galerkin methods for nonlinear, nonlocal, elliptic, and parabolic PDE.
 	\item
-\textbf{Optimization:} Preconditioned Nesterov and multilevel methods for constrained and unconstrained optimization problems, especially those related to the discretization of nonlinear PDE and Calculus of Variations problems.
+\textbf{Optimization:} Preconditioned Nesterov and multilevel methods for constrained and unconstrained optimization problems, especially those arising from the discretization of nonlinear PDE and problems in the calculus of variations.
 
 	\item
-\textbf{Mathematical Biology:}~Modeling tissue growth and remodeling -- including cancerous tumor growth -- angiogenesis, and cancer treatment; spatiotemporal pattern formation in biological systems, morphogenesis.  Deformation, decomposition, and motion of biological membranes in viscous flows.
+\textbf{Mathematical Biology:}~Modeling tissue growth and remodeling, including cancerous tumor growth, angiogenesis, and cancer treatment; spatiotemporal pattern formation and morphogenesis in biological systems; and the deformation, decomposition, and motion of biological membranes in viscous flows.
 	\item
-\textbf{Computational Materials Science:}~Growth and coarsening dynamics of heteroepitaxial thin films, long-time and large-scale coarsening of material microstructures, quantum dot formation, phase field crystal models, nonlocal models of phase transformation, crystal growth with strong interfacial anisotropy, elastically mediated phase transformations. Soft materials.
+\textbf{Computational Materials Science:}~Growth and coarsening dynamics of heteroepitaxial thin films; long-time, large-scale coarsening of material microstructures; quantum-dot formation; phase-field-crystal models; nonlocal models of phase transformation; crystal growth with strong interfacial anisotropy; elastically mediated phase transformations; and soft materials.
 	\item
-\textbf{Computational Fluid Dynamics:}~Phase field methods for two-phase flows with large density difference and heat transport. Two-phase flows in porous media. Microstructural evolution of multiphase polymer systems, especially for organic photovoltaic (OPV) devices. Transport of ions in solution. Multi-species gas dynamics and the multi-species Boltzmann equations.
+\textbf{Computational Fluid Dynamics:}~Phase-field methods for two-phase flows with large density differences and heat transport; two-phase flows in porous media; microstructural evolution of multiphase polymer systems, especially for organic photovoltaic devices; ion transport in solution; and multispecies gas dynamics and Boltzmann equations.
 	\item
-\textbf{Nonlinear PDE:}~Existence, uniqueness, and regularity of solutions for nonlinear parabolic-hyperbolic PDE and related integro-partial differential equations (IPDE), especially for models related to phenomena described above.
+\textbf{Nonlinear PDE:}~Existence, uniqueness, and regularity of solutions to nonlinear parabolic-hyperbolic PDE and related integro-partial differential equations, especially for models of the phenomena described above.
 	\item
-\textbf{Nonlinear Analysis:}~$\Gamma$ convergence and asymptotic analyses for diffuse interface and diffuse domain problems.
+\textbf{Nonlinear Analysis:}~$\Gamma$-convergence and asymptotic analysis of diffuse-interface and diffuse-domain problems.
     \end{description}
 	
 	\smallskip
   
-{\LARGE\bf  University Education}
+\cvsection{Education}
     \begin{description}
     \item
-\textbf{Ph.D.,}~University of Virginia, Engineering Physics\footnote{What is \emph{Engineering Physics}? It's a weird name that probably should have been changed to \emph{Applied Physics}. At UVA this was an interdisciplinary degree that allowed the student to study any kind of applied science problem. I studied the theory and simulation of certain phase transformations.}; May 2003.
+\textbf{Ph.D.,}~University of Virginia, Engineering Physics, May 2003.
     \begin{description}
     \item
 Advisor: W.C.~Johnson
     \item
 Dissertation: ``Diffuse Interface Model for Microstructural Evolution of Stressed, Binary Thin Films on Patterned Substrates."
+    \item
+Interdisciplinary applied-physics program; research focused on the theory and simulation of phase transformations.
     \end{description}
     \item
- \textbf{Graduate Studies,} Virginia Tech and Penn State, Mathematics; August 1996--December 1998.
+ \textbf{Graduate Studies,} Virginia Tech and Penn State, Mathematics, August 1996 -- December 1998.
     \begin{description}
     \item
-Coursework: Analysis (Real, Complex, Functional, and Numerical), Applied Mathematics.
+Coursework: real, complex, functional, and numerical analysis; applied mathematics.
     \end{description}
     \item
-\textbf{B.S.,}~Clarion University of Pennsylvania, Mathematics; May
+\textbf{B.S.,}~Clarion University of Pennsylvania, Mathematics, May
 1996.
     \begin{description}
     \item
-Minor (Coursework Equivalent): Physics
+Minor equivalent: Physics
     \end{description}
     \end{description}
 	
 	\smallskip
 
 	
-{\LARGE\bf Current Funding}
+\cvsection{Current Funding}
     \begin{description}
     
 	\item
 \textbf{NSF Grant, DMS-2607995:}~PI, {\sl Diffuse Domain Methods for One and Two-Sided Elliptic Interface Problems and Applications,} \$350,000, 8/26 -- 7/29.
     
 	\item
-\textbf{NSF Grant, DMS-2309547:}~PI, {\sl Collaborative Research: Accurate and Structure- Preserving Numerical Schemes for Variable Temperature Phase Field Models and Efficient Solvers,} \$213,743, 8/23 -- 7/26.
+\textbf{NSF Grant, DMS-2309547:}~PI, {\sl Collaborative Research: Accurate and Structure-Preserving Numerical Schemes for Variable Temperature Phase Field Models and Efficient Solvers,} \$213,743, 8/23 -- 7/26.
 
     \item
 \textbf{ORNL-DOE-UT-Battelle CW24420:}~PI, {\sl BGK Kinetic Equations,} \$606,000, 8/24 -- 7/27. ORNL Technical Point of Contact: Daniel A.~Reasor, \url{reasorda@ornl.gov}.
     
     \end{description}
     
-{\LARGE\bf Previous Funding, Support, and Awards}
+\cvsection{Previous Funding, Support, and Awards}
     \begin{description} 
     
     \item
@@ -147,7 +191,7 @@ Minor (Coursework Equivalent): Physics
 \textbf{ORNL-DOE-UT-Battelle CW24420:}~PI, {\sl BGK Kinetic Equations,} \$250,200, 1/22 -- 7/24. ORNL Technical Point of Contact: Ryan Glasby, \url{glasbyrs@ornl.gov}.
     
     \item
-\textbf{LANL-ORNL-DOE-UT-Battelle RFP584197:}~co-PI, {\sl Developing a better understanding of adaptive velocity grids for kinetic equations,} approx.~\$60,000, 2/20 -- 5/21. DOE-LANL Technical Point of Contact: Jeff Haack. (Originally funded at about \$640K, before budget cuts.)
+\textbf{LANL-ORNL-DOE-UT-Battelle RFP584197:}~Co-PI, {\sl Developing a Better Understanding of Adaptive Velocity Grids for Kinetic Equations,} approximately \$60,000, 2/20 -- 5/21. DOE-LANL Technical Point of Contact: Jeff Haack. (Originally funded at approximately \$640,000 before budget reductions.)
  
     \item
 \textbf{ORNL-DOE-UT-Battelle 3400267345:}~PI, {\sl Quadratic Unconstrained Binary Optimization and Regularized Problems Expressed via Steady States of Dynamical Systems,} \$40,506, 6/18 -- 8/18. ORNL Technical Point of Contact: Ryan Bennink.
@@ -162,7 +206,7 @@ Minor (Coursework Equivalent): Physics
 \textbf{ORNL-DOE-UT-Battelle 3400252731:}~PI, {\sl Modeling and Simulation of Ion Transport in Polymer Systems and Novel Discrete Ordinate Methods for Modeling Radiation Transport via Kinetic Equations,} \$60,285, 6/17 -- 5/18. ORNL Technical Point of Contact: Cory Hauck.
 
     \item
-\textbf{IMA Conference Grant:}~co-PI, {\sl The 2017 Barrett Lectures: the Mathematical Foundations of Data Science,} \$5,000, 4/17 -- 3/18.
+\textbf{IMA Conference Grant:}~Co-PI, {\sl The 2017 Barrett Lectures: The Mathematical Foundations of Data Science,} \$5,000, 4/17 -- 3/18.
 
 
     \item
@@ -170,13 +214,13 @@ Minor (Coursework Equivalent): Physics
 
 
 	 \item
-\textbf{NSF Grant, DMS-1700494:}~co-PI, {\sl The 2017 Barrett Lectures: the Mathematical Foundations of Data Science,} \$16,000, 4/17 -- 3/18.
+\textbf{NSF Grant, DMS-1700494:}~Co-PI, {\sl The 2017 Barrett Lectures: The Mathematical Foundations of Data Science,} \$16,000, 4/17 -- 3/18.
 
     \item
 \textbf{NSF Grant, DMS-1418692:}~PI, {\sl Efficient, Adaptive, and Convergent Numerical Methods for Phase Field and Phase Field Crystal Equations with Applications,} \$105,000, 9/14 -- 8/18.
 
     \item
-\textbf{NSF Grant, DMS-1338314:}~co-PI, {\sl Southeastern-Atlantic Regional Conference on Differential Equations 2013,} \$21,938.00, 8/13 -- 4/14.
+\textbf{NSF Grant, DMS-1338314:}~Co-PI, {\sl Southeastern-Atlantic Regional Conference on Differential Equations 2013,} \$21,938, 8/13 -- 4/14.
 
     \item
 \textbf{NSF Grant, DMS-1115390:}~Lead PI, {\sl Collaborative Research: Stable and Efficient Convexity-Splitting Schemes for Bistable Gradient PDEs,} \$160,000, 7/11 -- 6/14.
@@ -185,11 +229,11 @@ Minor (Coursework Equivalent): Physics
 \textbf{NSF Grant, DMS-0818030:}~PI, {\sl Collaborative Research: Multiscale Modeling of Solid Tumor Growth,} \$70,000, 9/08 -- 8/11.
 	
 	\item
-\textbf{Workshop Support:}~Lead Organizer, {\sl Investigative Workshop: Solid Tumor Modeling}, National Institute for Mathematical and Biological Synthesis (NIMBioS), approx.~40 participants, 1/19/11 -- 1/21/11.
+\textbf{Workshop Support:}~Lead Organizer, {\sl Investigative Workshop: Solid Tumor Modeling}, National Institute for Mathematical and Biological Synthesis (NIMBioS), approximately 40 participants, 1/19/11 -- 1/21/11.
 
 	\item
 \textbf{Excellence in Research and
-Creative Achievement Award:} University of Tennessee, Spring 2025,  \$3000.
+Creative Achievement Award:} University of Tennessee, Spring 2025, \$3,000.
 	
 	\item
 \textbf{Senior Research and Creative Achievement Award:} College of Arts and Sciences, Natural Sciences Category, University of Tennessee, Fall/Winter Convocation 2022.
@@ -197,7 +241,7 @@ Creative Achievement Award:} University of Tennessee, Spring 2025,  \$3000.
 	\item
 \textbf{Mid-Career Faculty Research Achievement Award:} College of Arts and Sciences, University of Tennessee, Fall/Winter Convocation 2014, \$500.
 	\item
-\textbf{Junior Faculty Research Achievement Award:} College of Arts and Sciences, University of Tennessee, Fall/Winter Convocation 2010, \$1000.
+\textbf{Junior Faculty Research Achievement Award:} College of Arts and Sciences, University of Tennessee, Fall/Winter Convocation 2010, \$1,000.
 	\item
 \textbf{Best Graduate Teaching Award:} Mathematics Department, University of Tennessee, 2012-13, and 2013-14.
 	\item
@@ -207,23 +251,25 @@ Creative Achievement Award:} University of Tennessee, Spring 2025,  \$3000.
 	
 	\smallskip
 	
-{\LARGE\bf Supplementary Support for PhD Students}\footnote{These awards are listed because the PI helped in the preparation of the application proposals and supervised the work. The awards went directly to the students, not to the PI, just to be clear.}
+\cvsection{Supplementary Support for PhD Students}
+
+{\small\color{WarmGray}\emph{These awards are included because the PI helped prepare the applications and supervised the funded work. Awards were made directly to the students.}}
 
 	\smallskip
 	
 
     \begin{description}  
 	\item
-Charlotte Beckford, University of Tennessee-Oak Ridge Innovation Institute's (UTORII's) Science Alliance Graduate Advancement, Training and Education (GATE) Fellowship, \$37,000 (approx.) per year, plus tuition, 8/2024 -- 7/2026. Topic:~``Thermodynamically Consistent Models of Polymeric Battery Systems." Advisors R.~Kumar (ORNL) and \textbf{S.M.~Wise} (UTK).   
+Charlotte Beckford, University of Tennessee-Oak Ridge Innovation Institute (UT-ORII) Science Alliance Graduate Advancement, Training and Education (GATE) Fellowship, approximately \$37,000 per year plus tuition, 8/2024 -- 7/2026. Topic:~``Thermodynamically Consistent Models of Polymeric Battery Systems." Advisors: R.~Kumar (ORNL) and \textbf{S.M.~Wise} (UTK).
     \item
-Kylie Berry, United States Department of Energy Office of Science Graduate Student Research (SCGSR) Program Award/Fellowship, \$18,000 (approx.) plus tuition, 1/19 -- 6/19. PhD 2019.  Topic:~``Energy-based blending for local-nonlocal coupling in linear elasticity." Advisors P.~Seleson (ORNL), Tadele Mengesha (UTK), and \textbf{S.M.~Wise} (UTK).
+Kylie Berry, U.S. Department of Energy Office of Science Graduate Student Research (SCGSR) Program Award/Fellowship, approximately \$18,000 plus tuition, 1/19 -- 6/19. Ph.D., 2019. Topic:~``Energy-Based Blending for Local-Nonlocal Coupling in Linear Elasticity." Advisors: P.~Seleson (ORNL), Tadele Mengesha (UTK), and \textbf{S.M.~Wise} (UTK).
     \item
-John Cummings, United States Department of Energy Office of Science Graduate Student Research (SCGSR) Program Award/Fellowship, \$36,000 (approx.) plus tuition, 1/15 -- 1/16. PhD 2017.  Topic:~``Simulating Polymer-Solvent Mixtures for Organic-Photovoltaic Devices." Co-advisors R.~Kumar (ORNL), \textbf{S.M.~Wise} (UTK).
+John Cummings, U.S. Department of Energy Office of Science Graduate Student Research (SCGSR) Program Award/Fellowship, approximately \$36,000 plus tuition, 1/15 -- 1/16. Ph.D., 2017. Topic:~``Simulating Polymer-Solvent Mixtures for Organic Photovoltaic Devices." Co-advisors: R.~Kumar (ORNL) and \textbf{S.M.~Wise} (UTK).
 	\item
-Sam Gruber, University of Tennessee-Oak Ridge Innovation Institute's (UTORII's) Science Alliance Graduate Advancement, Training and Education (GATE) Fellowship, \$37,000 (approx.) per year plus tuition, 8/2025 -- 7/2027. Topic:~``Phase Transformations in SrCoOx Materials for Neuromorphic Computing Architectures." Advisors V.~Starchencko (ORNL), P.~Ganesh (ORNL), and \textbf{S.M.~Wise} (UTK).
+Sam Gruber, University of Tennessee-Oak Ridge Innovation Institute (UT-ORII) Science Alliance Graduate Advancement, Training and Education (GATE) Fellowship, approximately \$37,000 per year plus tuition, 8/2025 -- 7/2027. Topic:~``Phase Transformations in SrCoO$_x$ Materials for Neuromorphic Computing Architectures." Advisors: V.~Starchenko (ORNL), P.~Ganesh (ORNL), and \textbf{S.M.~Wise} (UTK).
 	\end{description}
   
-{\LARGE\bf  Professional Membership}
+\cvsection{Professional Memberships}
     \begin{description}
     \item
  \textbf{Society for Industrial and Applied Mathematics (SIAM)}
@@ -235,23 +281,21 @@ Activity Group: Mathematical Aspects of Materials Science
 	
 	\smallskip
 
-{\LARGE\bf  Prior and Visiting Appointments}
+\cvsection{Prior and Visiting Appointments}
     \begin{description}    \item 
 \textbf{Dresden Senior Fellow,} Technische Universit\"{a}t Dresden, September 2017 -- November 2017.
     \item 
-\textbf{Visiting Associate Researcher,} University of California, Irvine,
-Mathematics Department, March 2015 -- June 2015. 
+\textbf{Visiting Associate Researcher,} Department of Mathematics, University of California, Irvine, March 2015 -- June 2015.
     \item 
-\textbf{Visiting Assistant Professor,} University of California, Irvine,
-Mathematics Department, July 2006 -- July 2007.
+\textbf{Visiting Assistant Professor,} Department of Mathematics, University of California, Irvine, July 2006 -- July 2007.
     \item 
-\textbf{Post-Doctoral Researcher,} University of California, Irvine, Mathematics Department, July 2004 -- June 2006.
+\textbf{Postdoctoral Researcher,} Department of Mathematics, University of California, Irvine, July 2004 -- June 2006.
     \begin{description}
     \item
 Advisor: John S. Lowengrub
     \end{description}
     	\item 
-\textbf{Post-Doctoral Researcher,} University of California, Irvine, Biomedical Engineering and Mathematics Departments, March 2003 -- June 2004.
+\textbf{Postdoctoral Researcher,} Departments of Biomedical Engineering and Mathematics, University of California, Irvine, March 2003 -- June 2004.
     \begin{description}
     \item
 Advisors: John S. Lowengrub and Vittorio Cristini
@@ -259,38 +303,38 @@ Advisors: John S. Lowengrub and Vittorio Cristini
 	\item
 \textbf{Research Assistant,} University of Virginia, Engineering Physics Program, August 1999 -- March 2003.
     \item
-\textbf{Scientist,} United States Navy, NSWC-Dahlgren (Dahlgren,Virginia), January 1999 -- August 1999.
+\textbf{Scientist,} U.S. Navy, NSWC-Dahlgren, Dahlgren, Virginia, January 1999 -- August 1999.
     \item
-\textbf{Teaching Assistant--Primary Instructor,} Penn State, Mathematics Department, August 1998 -- December 1998.
+\textbf{Teaching Assistant and Primary Instructor,} Department of Mathematics, Penn State, August 1998 -- December 1998.
     \item
-\textbf{Research Assistant,} Virginia Tech, Mathematics Department, May 1997 -- August 1998.
+\textbf{Research Assistant,} Department of Mathematics, Virginia Tech, May 1997 -- August 1998.
     \item
-\textbf{Teaching Assistant,} Virginia Tech, Mathematics Department, August 1996 -- April 1997.
+\textbf{Teaching Assistant,} Department of Mathematics, Virginia Tech, August 1996 -- April 1997.
     \end{description}
 
 
-{\LARGE\bf  Textbooks and Research Monographs}
+\cvsection{Textbooks and Research Monographs}
     \begin{enumerate}
     \item
-A.J.~Salgado and \textbf{S.M.~Wise}, {\sl Classical Numerical Analysis: A Comprehensive Course}, Cambridge University Press (2023) 937 pages.
+A.J.~Salgado and \textbf{S.M.~Wise}, {\sl Classical Numerical Analysis: A Comprehensive Course}, Cambridge University Press (2023), 937 pages.
 	\\
 \url{https://www.cambridge.org/9781108837705}
 	\\
 \url{https://doi.org/10.1017/9781108942607}
     \item
-A.J.~Salgado, \textbf{S.M.~Wise}, and Calvin Wong, {\sl Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems}, De Gruyter (2026) approx.~500 pages.
+A.J.~Salgado, \textbf{S.M.~Wise}, and C.~Wong, {\sl Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems}, De Gruyter (2026), approximately 500 pages.
 	\\
 \url{https://doi.org/10.1515/9783111354880}
 
 	\item
-T.~Luong, T.~Mengesha and \textbf{S.M.~Wise}, {\sl Asymptotic Analysis and Perturbation Theory: Matched Asymptotic, Multiple Scale, and Homogenization Methods}, (in preparation, contract pending, 70\% complete), approx.~400 pages.
+T.~Luong, T.~Mengesha, and \textbf{S.M.~Wise}, {\sl Asymptotic Analysis and Perturbation Theory: Matched Asymptotic, Multiple Scale, and Homogenization Methods}, in preparation (contract pending; 70\% complete), approximately 400 pages.
 
     \item
-\textbf{S.M.~Wise}, {\sl Non-Equilibrium Thermodynamics}, (in preparation, 20\% complete), approx.~200 pages.
+\textbf{S.M.~Wise}, {\sl Non-Equilibrium Thermodynamics}, in preparation (20\% complete), approximately 200 pages.
     \end{enumerate}
 
 
-{\LARGE\bf  Journal Publications}
+\cvsection{Journal Publications}
     \begin{enumerate}
 %    \item
 %D.~Schaal and \textbf{S.M.~Wise}, {\sl Rado Numbers for Some Inequalities and an Arbitrary Number of Colors}, Proceedings of the Twenty-seventh Southeastern International Conference on Combinatorics (Baton Rouge, LA, 1996), Congr.~Numer.~121 (1996), 147-153.
@@ -819,7 +863,7 @@ C.~Liu, C.~Wang, \textbf{S.M.~Wise}, X.~Yue, and S.~Zhou, {\sl A Second Order Ac
 \url{https://doi.org/10.1007/s10915-023-02345-9}	
 
 	\item
-Shibin Dai, Joseph Renzi, and \textbf{Steven M. Wise}, {\sl Gamma Convergence of the DeGennes-Cahn-Hilliard Energy}, Comm.~Math.~Sci.~21 (2023) 2131--2144. 
+S.~Dai, J.~Renzi, and \textbf{S.M.~Wise}, {\sl Gamma Convergence of the DeGennes-Cahn-Hilliard Energy}, Comm.~Math.~Sci.~21 (2023) 2131--2144.
 	\\
 \url{https://doi.org/10.4310/CMS.2023.v21.n8.a3}
 
@@ -915,7 +959,7 @@ Z.~Zhang, S.~Li, J.S.~Lowengrub, and \textbf{S.M. Wise}, {\sl An Efficient Const
 
 	
 
-{\LARGE\bf Invited Research Presentations}
+\cvsection{Invited Research Presentations}
 %    \begin{description}
 %    \item
 %\textbf{Contributed}
@@ -1007,11 +1051,11 @@ SIAM Conference on Applications of Dynamical Systems, Snowbird, UT (May 2010). (
 	\item
 ICIAM, Vancouver, BC, Canada (July 2011). Research talk entitled {\sl Second-Order Convex-Splitting Schemes}. (Declined invitation because of a scheduling conflict.)
 	\item
-University of South Carolina, Columbia, SC (January 2012). Research talk entitled {\sl PDE/Numer-ical Analyses and Computations of some Diffuse Interface Models of Viscous Two-Phase Flows}.
+University of South Carolina, Columbia, SC (January 2012). Research talk entitled {\sl PDE/Numerical Analyses and Computations of Some Diffuse-Interface Models of Viscous Two-Phase Flows}.
 	\item
 Florida State University, Tallahassee, FL (February 2012). Research talk entitled {\sl PDE/Numerical Analyses and Computations of some Diffuse Interface Models of Viscous Two-Phase Flows}.
 	\item
-Illinois Institute of Technology, Chicago, IL (March 2012). Research talk entitled {\sl PDE/Numer-ical Analyses and Computations of some Diffuse Interface Models of Viscous Two-Phase Flows}.
+Illinois Institute of Technology, Chicago, IL (March 2012). Research talk entitled {\sl PDE/Numerical Analyses and Computations of Some Diffuse-Interface Models of Viscous Two-Phase Flows}.
 	\item
 ORNL/UTK Numerical Day 2012, Oak Ridge National Lab, Oak Ridge, TN (April 2012). Research talk entitled {\sl A Mixed Discontinuous Galerkin, Convex Splitting Scheme for the Cahn-Hilliard Equation}.
 	\item
@@ -1019,7 +1063,7 @@ University of California, Irvine, CA (May 2012). Research talk entitled {\sl A M
 	\item
 Workshop on {\sl Heterostructured Nanocrystalline Materials}, ICERM, Brown University, Providence, RI (May 2012). (Declined invitation because of a scheduling conflict.)
 	\item
-AIMS 9th International Conference On Dynamical Systems and Differential Equations, Orlando, FL (July 2012). Research talk entitled {\sl A Mixed Discontinuous Galerkin, Convex Splitting Scheme for the Cahn-Hilliard Equation}.
+AIMS 9th International Conference on Dynamical Systems and Differential Equations, Orlando, FL (July 2012). Research talk entitled {\sl A Mixed Discontinuous Galerkin, Convex Splitting Scheme for the Cahn-Hilliard Equation}.
 	\item
 George Mason University, Fairfax, VA (September 2012). Research talk entitled {\sl A Mixed Discontinuous Galerkin, Convex Splitting Scheme for the Cahn-Hilliard Equation}.
 	\item
@@ -1097,7 +1141,7 @@ CAIMS Annual Meeting, Whistler, BC, Canada (June 2019). Research talk entitled {
 	\item
 The University of Pittsburgh, Pittsburgh, PA (September 2019).  Research talk entitled {\sl Convergence Analysis of Fast Subspace Descent (FASD) Scheme for Convex Optimization Problems}.
 	\item
-Illinois Institute of Technology, Chicago, IL (March 2023), Research talk entitled {\sl A Doubly Degenerate Diffuse Interface Model of Surface Diffusion}.
+Illinois Institute of Technology, Chicago, IL (March 2023). Research talk entitled {\sl A Doubly Degenerate Diffuse-Interface Model of Surface Diffusion}.
 	\item
 SIAM Northern States Section Meeting, Logan, UT (April 2023), Plenary talk entitled {\sl Doubly Degenerate Cahn-Hilliard Models of Surface Diffusion}.
 	\item
@@ -1107,7 +1151,7 @@ ABPDE5 (Asymptotic Behaviors of Systems of PDEs Arising in Physics and Biology, 
 The University of Pittsburgh, Pittsburgh, PA (September 2023).  Research talk entitled {\sl Doubly Degenerate Cahn-Hilliard Equation: Asymptotic Analysis and Gamma Convergence}.
 
 	\item
-ORNL/UTK Phase Field Workshop, Oak Ridge National Laboratory, Oak Ridge, TN. (November 2023).  Research talk entitled {\sl Non-Isothermal Phase Field Crystal Model with Lattice Expansion}.
+ORNL/UTK Phase-Field Workshop, Oak Ridge National Laboratory, Oak Ridge, TN (November 2023). Research talk entitled {\sl Non-Isothermal Phase-Field-Crystal Model with Lattice Expansion}.
 
 	\item
 The University of California, Irvine, CA (December 2023).  Research talk entitled {\sl Non-Isothermal Phase Field Crystal Model with Lattice Expansion}.
@@ -1116,7 +1160,7 @@ The University of California, Irvine, CA (December 2023).  Research talk entitle
 The Ohio State University, Columbus, OH (January 2024).  Research talk entitled {\sl Non-Isothermal Phase Field Crystal Model with Lattice Expansion}.
 
 	\item
-SIAM Conference on Mathematics in Materials Science, Pittsburgh, PA (May 2024). Research talk entitled {\sl Non-Isothermal Phase Field Crystal Model with Lattice Expansion}
+SIAM Conference on Mathematics in Materials Science, Pittsburgh, PA (May 2024). Research talk entitled {\sl Non-Isothermal Phase-Field-Crystal Model with Lattice Expansion}.
 
 	\item
 International Workshop on Advancements in Mesoscale Materials Modeling: Cutting-Edge Formulations, Simulations, and Applications, Technische Universit\"{a}t Dresden, Germany (December 2024). Research talk entitled {\sl Non-Isothermal Phase Field Crystal Model with Lattice Expansion}.
@@ -1132,27 +1176,29 @@ The University of Pittsburgh, Pittsburgh, PA (October 2025). Computational Mathe
 
 	\smallskip
 
-{\LARGE\bf General Audience Presentations}
+\cvsection{General-Audience Presentations}
 
     \begin{enumerate}
     \item
-Tennessee Governor's School, October 2010. Gave presentation entitled {\sl How to Become a Mathematician, and Maybe What to Do After That}.
+Tennessee Governor's School, October 2010. Presentation: {\sl How to Become a Mathematician, and Maybe What to Do After That}.
     
     \item
-University of Tennessee Pregame Faculty Showcase, November, 2013. Gave presentation entitled {\sl Simulations for Solutions: Solving Problems Through Scientific Computing}.
+University of Tennessee Pregame Faculty Showcase, November 2013. Presentation: {\sl Simulations for Solutions: Solving Problems Through Scientific Computing}.
     
     \item
-University of Tennessee Governor's School for the Sciences and Engineering, June, 2016. Gave presentation entitled {\sl Solving Problems with Scientific Computing, or Computing with Floating Point Numbers}.
+University of Tennessee Governor's School for the Sciences and Engineering, June 2016. Presentation: {\sl Solving Problems with Scientific Computing, or Computing with Floating-Point Numbers}.
 
 	\item
-University of Tennessee, High school teacher training event {\sl Let's Get Physical! Teaching Mathematics through the Lens of Physics}, July, 2016. Gave presentation entitled {\sl  Modeling Soft Matter Materials}.
+University of Tennessee high-school teacher-training event, {\sl Let's Get Physical! Teaching Mathematics through the Lens of Physics}, July 2016. Presentation: {\sl Modeling Soft-Matter Materials}.
 
 	\end{enumerate}
 	
 	\smallskip
 	
-	{\LARGE\bf  Recent Teaching}
+	\cvsection{Recent Teaching}
     \begin{description}
+    \item
+Math 579, Non-Equilibrium Thermodynamics, Spring 2026.
     \item
 Math 574, Finite Element Methods, Fall 2025.
     \item
@@ -1308,166 +1354,134 @@ Math 571, Numerical Mathematics I, Fall 2022.
 
 	\smallskip
 	
-{\LARGE\bf Service}
-	\begin{description}
-	\item
-{\Large\bf University}
-	\begin{description}
-	\item
-\textbf{Electrical Engineering and Computer Science (EECS) Department External Review Committee}, Office of the Provost, UTK, Spring 2019.
-	\end{description}
+\cvsection{Service}
+\cvsubsection{University and College Service}
+\begin{description}
+\item
+\textbf{Electrical Engineering and Computer Science Department External Review Committee}, Office of the Provost, UTK, Spring 2019.
+\item
+\textbf{Connections and Global Challenges Curriculum Committee}, College of Arts and Sciences, UTK, 2016-17 through 2018-19.
+\end{description}
 
+\cvsubsection{Departmental Leadership and Service}
+\begin{description}
+\item
+\textbf{Graduate Student Advising and Mentoring Committee}, chair, 2022-23 through 2025-26.
+\item
+\textbf{Graduate Committee}, 2007-08 through 2011-12, 2015-16, 2016-17, 2018-19, 2020-21, and 2022-23 through 2024-25; chair in 2010-11, 2011-12, Spring 2019, and 2022-23 through 2024-25.
+\item
+\textbf{Task Force on Reduced Teaching Loads}, chair, Spring 2025.
+\item
+\textbf{Advisory Committee}, 2011-12, 2012-13, 2014-15, 2015-16, 2018-19 (elected member), and 2019-20.
+\item
+\textbf{Faculty Search Committees}, 2008-09 (JICS), 2011-12 (PDE), 2012-13 (Computational and Applied Mathematics), 2016-17 and 2022-23 (Mathematical Biology), and 2023-24 (Computational and Applied Mathematics and Actuarial Mathematics).
+\item
+\textbf{Tenure and Promotion Committees}, 2016-17 (A.~Salgado, tenure and promotion), 2017-18 (T.~Mengesha, tenure and promotion), 2020-21 (A.~Salgado, promotion), and 2021-22 (T.~Mengesha, promotion; O.~Prosper, tenure and promotion).
+\item
+\textbf{Colloquium Committee}, 2007-08 through 2009-10; chair in 2008-09 and 2009-10.
+\item
+\textbf{Assistantship Committee}, 2012-13 and 2017-18.
+\item
+\textbf{Bylaws Committee}, 2013-14.
+\end{description}
 
-	\item
-{\Large\bf College of Arts and Sciences}
-	\begin{description}
-	\item
-\textbf{Connections and Global Challenges Curriculum Committee}, UTK, 2016-17, 2017-18, 2018-19.
-	\end{description}
-	
-	\item
-{\Large\bf Department}
-    \begin{description}
-    \item
-\textbf{Advisory Committee}, UTK, academic years 2011-12, 2012-13, 2014-15, 2015-16, 2018-19 (elected member), 2019-20.
-    \item
-\textbf{Assistantship Committee}, UTK, academic years 2012-13, 2017-18.
-    \item
-\textbf{Bylaws Committee}, UTK, academic year 2013-14.
-	\item
-\textbf{Colloquium Committee}, UTK, academic years 2007-08, 2008-09 (chair), 2009-10 (chair).
-    \item
-\textbf{Graduate Committee}, UTK, academic years 2007-08, 2008-09, 2009-10, 2010-11 (chair), 2011-12 (chair), 2015-16, 2016-17, 2018-19 (chair, Spring 2019), 2020-21, 2022-23 (chair), 2023-24 (chair), 2024-25 (chair).
-    \item
-\textbf{High School Math Contest}, UTK, timer (2007, 08, 10, 11, 14), judge, (2009, 11, 12, 13, 15).
-%    \item
-%\textbf{Mathematics Department Soccer Club Organizer/Advisor}, UTK, January 2010 - present.
-    \item
-\textbf{NIMBioS Mentor}, UTK. REU: summers 2009 and 2010; Postdoc: Sharon Bewick, August 2009 - May 2011; GRA Advisor: Tri Sri Noor Asih, August 2013 - May 2014.
-	\item
-\textbf{M.S. Examination Committees}, UTK, Robert Burnham, Summer 2011; Aaron Craig, Fall 2014; Steve Fassino, Summer 2013; Stephen E. Galloway, Spring 2017 (primary advisor); Casey Hufford, Summer 2011; Dragos Ilas, Fall 2013; Kai Kang, Spring 2012 (primary advisor); Manda Saylor, Spring 2010; Jillian Trask, Summer 2014.
+\cvsubsection{Student Mentoring, Examinations, and Outreach}
+\begin{description}
+\item
+\textbf{NIMBioS Mentor}, REU mentor in Summers 2009 and 2010; postdoctoral mentor for Sharon Bewick, August 2009 -- May 2011; GRA advisor for Tri Sri Noor Asih, August 2013 -- May 2014.
+\item
+\textbf{M.S. Examination Committees}, nine committees, 2010-17; primary advisor for Kai Kang (Spring 2012) and Stephen E.~Galloway (Spring 2017).
+\item
+\textbf{Ph.D. Examination Committees}, three to five committees per year, ongoing.
+\item
+\textbf{UTK High School Mathematics Contest}, timer in 2007, 2008, 2010, 2011, and 2014; judge in 2009, 2011, 2012, 2013, and 2015.
+\end{description}
 
-	\item
-\textbf{Task Force on Reduced Teach Loads}, UTK, Spring 2025 (chair).
+\cvsubsection{Editorial and Reviewing Service}
+\begin{description}
+\item
+\textbf{Associate Editor}, International Journal of Numerical Analysis and Modeling, 2024 -- present.
+\item
+\textbf{Associate Editor}, Advances in Applied Mathematics and Mechanics (AAMM), 2018 -- present.
+\item
+\textbf{Associate Editor}, Numerical Mathematics: Theory, Methods and Applications (NMTMA), 2017 -- present.
+\item
+\textbf{Associate Editor}, Discrete and Continuous Dynamical Systems, Series S (DCDS-S), 2014 -- present.
+\item
+\textbf{Advisory Editor and Communicator}, Mathematical Methods in the Applied Sciences (MMAS), 2014 -- 2019.
+\item
+\textbf{NSF Panel Reviewer}, Computing and Communication Foundations, Division of Materials Research, and Division of Mathematical Sciences.
+\item
+\textbf{Journal Reviewer}, Acta Materialia, Applied Mathematics and Computation, Applied Numerical Mathematics, Communications in Computational Physics, Communications in Mathematical Sciences, Discrete and Continuous Dynamical Systems B, IMA Journal of Applied Mathematics, Journal of Computational Physics, Journal of Crystal Growth, Mathematical Biosciences and Engineering, Mathematics of Computation, Physical Review E, Polymer Engineering and Science, SIAM Journal on Numerical Analysis, Science China Mathematics, and Thin Solid Films.
+\end{description}
 
-	\item
-\textbf{Ph.D. Examination Committees}, UTK, 3-5 per year, ongoing.
-	\item
-\textbf{Search Committees}, UTK, academic years 2008-09 (JICS), 2011-12 (PDE), 2012-2013 (Computational and Applied Mathematics), 2016-2017 (Math Biology), 2022-23 (Math Biology), 2023-24  (Computational and Applied Mathematics and Actuarial Mathematics).
-
-	\item
-\textbf{Tenure and Promotion (T\&P) and Promotion (P) Committees}, UTK, academic year 2016-17 (A.~Salgado, T\&P), 2017-18 (T.~Mengesha, T\&P), 2020-21 (A.~Salgado, P), 2021-22 (T.~Mengesha, P), 2021-22 (O.~Prosper, T\&P).
-
-	\item
-\textbf{Graduate Student Advising and Mentoring Committee}, UTK, 2022-23 (chair), 2023-24 (chair), 2024-25 (chair), 2025-26 (chair).
-
-
-    \end{description}
-    \item
-{\Large\bf Discipline}
-    \begin{description}
-    \item
-\textbf{Associate Editor},  Discrete and Continuous Dynamical Systems, Series S (DCDS-S), 2014-present.
-    \item
-\textbf{Associate Editor},  International Journal of Numerical Analysis and Modeling, 2024-present.
-	\item
-\textbf{Associate Editor}, Advances in Applied Mathematics and Mechanics (AAMM), 2018 - present.
-	\item
-\textbf{Associate Editor}, Numerical Mathematics: Theory, Methods and Applications (NMTMA), 2017 - present.
-    \item
-\textbf{Advisory Editor/Communicator}, Mathematical Methods in the Applied Sciences (MMAS), 2014-2019.
-    \item
-\textbf{Journal Reviewer}, Acta Materialia, Applied Mathematics and Computation, Applied Numerical Mathematics, Communications in Computational Physics, Communications in Mathematical Sciences, Discrete and Continuous Dynamical Systems B, IMA Journal of Applied Mathematics, Journal of Computational Physics, Journal of Crystal Growth, Mathematical Biosciences and Engineering, Mathematics of Computation, Physical Review E, Polymer Engineering and Science, SIAM Journal on Numerical Analysis, Science China Mathematics, Thin Solid Films.
-    \item
-\textbf{Mini Symposium Organizer}
-	\begin{description}
-	\item
-Society for Industrial and Applied Mathematics (SIAM) Conference on Mathematical Aspects of Materials Science, May 2010: ``The Ubiquitous Nature of Instabilities During Step-Flow Epitaxy."
-    \item
-Society for Industrial and Applied Mathematics (SIAM) Conference on Mathematical Aspects of Materials Science, May 2010: ``Mathematical and Computational Advances in Phase Field Crystal Modeling."
-    \item
-International Congress of Industrial and Applied Mathematicians (ICIAM) 2011, July 2011: ``Theoretical, Mathematical, and Computational Aspects of Crystal Dynamics."
-	\item
-American Institute of Mathematical Sciences (AIMS), 9th International Conference On Dynamical Systems and Differential Equations, July 2012: ``Multiphase Flows in Porous Media and Related Systems."
-    \item
-Society for Industrial and Applied Mathematics (SIAM) Conference on Mathematical Aspects of Materials Science, June 2013: ``Phase Field Methods in Materials Science."
-	\item
-American Mathematical Society (AMS), Southeastern Spring Sectional Meeting, March 2014: ``Special Session on Scientific Computing, Numerical Analysis, and Mathematical Modeling."
-	\item
-American Institute of Mathematical Sciences (AIMS), 11th International Conference On Dynamical Systems and Differential Equations, July 2016: ``Computational Methods for Phase Field Methods."
-    \item
-Society for Industrial and Applied Mathematics (SIAM) Conference on Mathematical Aspects of Materials Science, May 2021: ``Bulk and Surface Diffusion in Structured Membranes."
-	\end{description}
-	\item
-\textbf{NSF Panel Reviewer}, Computing and Communication Foundations, Division of Materials Research, Division of Mathematical Sciences.
-	\item
-\textbf{Workshop Organizer}, National Institute for Mathematical and Biological Synthesis (NIMBioS) Investigative Workshop ``Solid Tumor Modeling," Jan. 19-21, 2011.
-	\item
-\textbf{Steering Committee Member}, Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), October 2010 - October 2014.
-	\item
-\textbf{Conference Co-Organizer} 
-	\begin{description}
-	\item 
-Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), with S.~Lenhart (UTK, Lead Organizer) and T.~Phan (UTK), September 21, 22, 2013, Knoxville, TN.
-	\item
-2017 Barrett Lectures: Mathematical Foundations of Data Sciences, with V.~Maroulas (UTK, Lead Organizer), C.~Webster (UTK), J. Rosinski (UTK), May 1, 2, 3, 2017, Knoxville, TN.
-	\item
-2019 SIAM-SEAS Conference, with C.~Webster (UTK, Lead Organizer), G.~Zhang (ORNL), September 20, 21, 22, 2019, Knoxville, TN.
-	\item
-2025 SIAM-SEAS Conference, with V.~Maroulas (UTK, Lead Organizer) and several coorganizers, March 2025, Knoxville, TN.
-	\end{description}
-    \end{description}
-    \end{description}
+\cvsubsection{Conference and Workshop Leadership}
+\begin{description}
+\item
+\textbf{Conference Co-organizer}, 2025 SIAM Southeastern Atlantic Section Conference, with V.~Maroulas (lead organizer) and several co-organizers, March 2025, Knoxville, Tennessee.
+\item
+\textbf{Conference Co-organizer}, 2019 SIAM Southeastern Atlantic Section Conference, with C.~Webster (lead organizer) and G.~Zhang, September 20--22, 2019, Knoxville, Tennessee.
+\item
+\textbf{Conference Co-organizer}, 2017 Barrett Lectures: Mathematical Foundations of Data Science, with V.~Maroulas (lead organizer), C.~Webster, and J.~Rosinski, May 1--3, 2017, Knoxville, Tennessee.
+\item
+\textbf{Conference Co-organizer}, Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), with S.~Lenhart (lead organizer) and T.~Phan, September 21--22, 2013, Knoxville, Tennessee.
+\item
+\textbf{Workshop Organizer}, NIMBioS Investigative Workshop ``Solid Tumor Modeling," January 19--21, 2011.
+\item
+\textbf{Steering Committee Member}, Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), October 2010 -- October 2014.
+\item
+\textbf{Minisymposium Organizer}, eight sessions: SIAM Conference on Mathematical Aspects of Materials Science (2010, two sessions; 2013; 2021); ICIAM (2011); AIMS International Conference on Dynamical Systems and Differential Equations (2012; 2016); and AMS Southeastern Spring Sectional Meeting (2014).
+\end{description}
     
     \smallskip
 
-{\LARGE\bf  Graduate Students}
+\cvsection{Graduate Students}
 	\begin{description}
 	\item
-{\Large\bf Former (alphabetical by Last Name)}
+\cvsubsection{Former (Alphabetical by Last Name)}
 	\begin{enumerate}
 	\item
-Andreas Aristotelous, Math UTK, PhD 2011.  Thesis:~``Adaptive Discontinuous Galerkin Finite Element Methods for a Diffuse Interface Model of Biological Growth." (O.~Karakashian, UTK, was the primary advisor.) First position: postdoc at Duke University and SAMSI.
+Andreas Aristotelous, Mathematics, UTK, Ph.D. 2011. Thesis:~``Adaptive Discontinuous Galerkin Finite Element Methods for a Diffuse Interface Model of Biological Growth." (O.~Karakashian, UTK, was the primary advisor.) First position: postdoctoral researcher at Duke University and SAMSI.
 	\item
-Kylie Berry, Math UTK, PhD 2019.  Topic:~``Energy-Based Blending Models in Peri-dynamics." (T.~Mengesha, UTK, was the co-advisor, and P.~Seleson was the technical point of contact at ORNL for this project.) First position: Assistant Professor of Mathematics at Dalton State College, Dalton, GA.
+Kylie Berry, Mathematics, UTK, Ph.D. 2019. Topic:~``Energy-Based Blending Models in Peridynamics." (T.~Mengesha, UTK, was the co-advisor, and P.~Seleson was the technical point of contact at ORNL.) First position: Assistant Professor of Mathematics at Dalton State College, Dalton, GA.
 	\item
-Craig Collins, Math UTK, PhD 2015.  Thesis:~``Domain Decomposition Methods for Discontinuous Galerkin Approximations of Elliptic Problems." (O.~Karakashian, UTK, was the primary advisor.) First position: Assistant Professor of Mathematics at Murray State University, Murray, KY.
+Craig Collins, Mathematics, UTK, Ph.D. 2015. Thesis:~``Domain Decomposition Methods for Discontinuous Galerkin Approximations of Elliptic Problems." (O.~Karakashian, UTK, was the primary advisor.) First position: Assistant Professor of Mathematics at Murray State University, Murray, KY.
 	\item
-John Cummings, Math UTK, PhD 2017.  Topic:~``Simulating Block Polymer-Solvent Mixtures for Organic-Photovoltaic Devices."  (R.~Kumar was the technical point of contact at ORNL for this project.) First position: Visiting assistant professor, Berry College, Rome, GA.
+John Cummings, Mathematics, UTK, Ph.D. 2017. Topic:~``Simulating Block Polymer-Solvent Mixtures for Organic Photovoltaic Devices." (R.~Kumar was the technical point of contact at ORNL.) First position: Visiting Assistant Professor, Berry College, Rome, GA.
 	\item
-Amanda Diegel, Math UTK, PhD May 2015.  Thesis:~``Numerical Analysis of Convex Splitting Schemes for Cahn-Hilliard and Coupled Cahn-Hilliard-Fluid-Flow Equations." First position: Postdoctoral researcher, Mathematics Department, Louisiana State University, Baton Rouge, LA.
+Amanda Diegel, Mathematics, UTK, Ph.D. May 2015. Thesis:~``Numerical Analysis of Convex Splitting Schemes for Cahn-Hilliard and Coupled Cahn-Hilliard-Fluid-Flow Equations." First position: Postdoctoral Researcher, Department of Mathematics, Louisiana State University, Baton Rouge, LA.
 	\item
-Wenqiang Feng  Math UTK, PhD 2017.  Topic:~``Linearly Preconditioned Nonlinear Solvers for Phase Field Equations Involving p-Laplacian Terms." First position: Data scientist, DST Systems Inc, Kansas City, MO. 
+Wenqiang Feng, Mathematics, UTK, Ph.D. 2017. Topic:~``Linearly Preconditioned Nonlinear Solvers for Phase Field Equations Involving $p$-Laplacian Terms." First position: Data Scientist, DST Systems, Inc., Kansas City, MO.
 	\item
-Stephen Galloway, Math UTK, MS 2017.  Project:~``Numerical Simulation of Solidification with Strong Interface Anisotropy." Continued in PhD program at UTK.
+Stephen Galloway, Mathematics, UTK, M.S. 2017. Project:~``Numerical Simulation of Solidification with Strong Interface Anisotropy." Continued in the Ph.D. program at UTK.
 	\item
-Stephen Galloway, Math UTK, PhD 2020.  Thesis:~``Graphene Formation using the PFC Model with a Vapor Phase." First position: Assistant Professor, Mathematics Department, St.~Andrews University, Laurinburg, NC.
+Stephen Galloway, Mathematics, UTK, Ph.D. 2020. Thesis:~``Graphene Formation Using the PFC Model with a Vapor Phase." First position: Assistant Professor, Department of Mathematics, St.~Andrews University, Laurinburg, NC.
 	\item
-Zhen Guan, Math UTK, PhD August 2012.  Thesis:~``Numerical Analysis of First and Second Order Unconditionally Energy Stable Schemes for Nonlocal Cahn-Hilliard and Allen-Cahn Equations." First position: Visiting Assistant Professor, Mathematics Department, University of California, Irvine, CA.
+Zhen Guan, Mathematics, UTK, Ph.D. August 2012. Thesis:~``Numerical Analysis of First- and Second-Order Unconditionally Energy-Stable Schemes for Nonlocal Cahn-Hilliard and Allen-Cahn Equations." First position: Visiting Assistant Professor, Department of Mathematics, University of California, Irvine, CA.
 	\item
-Evan Habbershaw, Math UTK, PhD 2025. Project: ``Numerical Methods for Multi-Species BGK Models." (C.~Hauck was the technical point of contact at ORNL for this project.) First position: Visiting Assistant Professor, Mathematics Department, Pennsylvania State University, State College, PA.
+Evan Habbershaw, Mathematics, UTK, Ph.D. 2025. Project: ``Numerical Methods for Multispecies BGK Models." (C.~Hauck was the technical point of contact at ORNL.) First position: Visiting Assistant Professor, Department of Mathematics, Pennsylvania State University, State College, PA.
 	\item
-Ben Plumridge, Math UTK, PhD 2025. Project: ``Neural Network-Based Adaptive Filtering of the Spherical Harmonic Method in Radiation Transport." (Cory Hauck, ORNL, was the primary advisor.) 
+Ben Plumridge, Mathematics, UTK, Ph.D. 2025. Project: ``Neural Network-Based Adaptive Filtering of the Spherical Harmonic Method in Radiation Transport." (Cory Hauck, ORNL, was the primary advisor.)
 
 	\item
-Kai Kang, Math UTK, MS May 2012.  Project:~``A Second-Order Accurate Energy Stable Scheme for the Cahn-Hilliard-Hele-Shaw System of Equations: Application to Tumor Growth." Went on to complete PhD at UTK, 2017.
+Kai Kang, Mathematics, UTK, M.S. May 2012. Project:~``A Second-Order Accurate, Energy-Stable Scheme for the Cahn-Hilliard-Hele-Shaw System of Equations: Application to Tumor Growth." Subsequently completed a Ph.D. at UTK in 2017.
 
 	\item
-Jea-Hyun Park, Math UTK, PhD 2021.  Thesis:~``Preconditioned Nesterov's Accelerated Gradient Descent Method and its Applications for Nonlinear PDE." (A.~Salgado, UTK, was the co-advisor.) First position: Visiting Assistant Professor,  Mathematics Department, University of California, Santa Barbara, CA. 
+Jea-Hyun Park, Mathematics, UTK, Ph.D. 2021. Thesis:~``Preconditioned Nesterov's Accelerated Gradient Descent Method and Its Applications to Nonlinear PDE." (A.~Salgado, UTK, was the co-advisor.) First position: Visiting Assistant Professor, Department of Mathematics, University of California, Santa Barbara, CA.
 	\end{enumerate}
 	\item
-{\Large\bf Current (alphabetical by last name)}
+\cvsubsection{Current (Alphabetical by Last Name)}
 	\begin{enumerate}
 	\item
-Charlotte Beckford, Math UTK, PhD 2026 (expected). Project: ``Thermodynamically Consistent Models of Polymer Batteries." (R.~Kumar is the technical point of contact at ORNL for this project.) My UTK advising percentage: 100\%.
+Charlotte Beckford, Mathematics, UTK, Ph.D. expected 2026. Project: ``Thermodynamically Consistent Models of Polymer Batteries." (R.~Kumar is the technical point of contact at ORNL.) UTK advising responsibility: 100\%.
 	\item
-Sam Gruber, Math UTK, PhD 2027 (expected).  Project:~``Phase Transformations in SrCoOx Materials for Neuromorphic Computing Architectures." (V.~Starchencko and P.~Ganesh are the technical points of contact at ORNL for this project.) My UTK advising percentage: 100\%.
+Sam Gruber, Mathematics, UTK, Ph.D. expected 2027. Project:~``Phase Transformations in SrCoO$_x$ Materials for Neuromorphic Computing Architectures." (V.~Starchenko and P.~Ganesh are the technical points of contact at ORNL.) UTK advising responsibility: 100\%.
 	\item
-Jack Haight, Math UTK, PhD 2027 (expected). Project: ``Numerical Methods for Kinetic Equations." (C.~Hauck is the technical point of contact at ORNL for this project.) My UTK advising percentage: 100\%.
+Jack Haight, Mathematics, UTK, Ph.D. expected 2027. Project: ``Numerical Methods for Kinetic Equations." (C.~Hauck is the technical point of contact at ORNL.) UTK advising responsibility: 100\%.
 	\item
-Suleman Shahid, Math UTK, PhD 2027 (expected). Project: TBD. (Abner Salgado, UTK, is the co-advisor.) My UTK advising percentage: 50\%.
+Suleman Shahid, Mathematics, UTK, Ph.D. expected 2027. Project: To be determined. (Abner Salgado, UTK, is the co-advisor.) UTK advising responsibility: 50\%.
 	\item
-Calvin Wong, Math UTK, PhD 2026 (expected). Project: ``Numerical Methods for and Asymptotic Analyses of Diffuse Domain Problems." (C.~Hauck is the technical point of contact at ORNL for a companion project.) My UTK advising percentage: 100\%.
+Calvin Wong, Mathematics, UTK, Ph.D. expected 2026. Project: ``Numerical Methods and Asymptotic Analysis for Diffuse-Domain Problems." (C.~Hauck is the technical point of contact at ORNL for a companion project.) UTK advising responsibility: 100\%.
 	\end{enumerate}
 
 	\end{description}
@@ -1475,13 +1489,13 @@ Calvin Wong, Math UTK, PhD 2026 (expected). Project: ``Numerical Methods for and
 	
 	\smallskip
 
-{\LARGE\bf  Postdoctoral Researchers}
+\cvsection{Postdoctoral Researchers}
 	\begin{description}
 	\item
-{\Large\bf Former}
+\cvsubsection{Former}
 	\begin{description}
 	\item
-Toai Luong, 2022-2025, PhD from University of Alabama. First position after UTK: Visiting Assistant Professor, Virginia Commonwealth University, Richmond, VA.
+Toai Luong, 2022--2025, Ph.D., University of Alabama. First position after UTK: Visiting Assistant Professor, Virginia Commonwealth University, Richmond, VA.
 	\end{description}
 
 	\end{description}
@@ -1490,7 +1504,7 @@ Toai Luong, 2022-2025, PhD from University of Alabama. First position after UTK:
 	\clearpage
 	\newpage
 
-{\LARGE\bf  References}
+\cvsection{References}
 	
 	\begin{multicols}{2}
 
@@ -1576,7 +1590,7 @@ Ningbo, China
 	\\
 Institut f\"{u}r Wissenschaftliches 
 	\\
-\hspace*{0.25in} Rechenen
+	\hspace*{0.25in} Rechnen
 	\\
 Technische Universit\"{a}t Dresden
 	\\
