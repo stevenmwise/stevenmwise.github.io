@@ -149,14 +149,18 @@ h4 { margin: 1.6rem 0 .4rem; font-size: 1.05rem; letter-spacing: -.015em; }
 .footer-intro p { margin: .15rem 0 0; color: $muted; font-size: .76rem; }
 .footer-meta { display: flex; justify-content: space-between; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #e3e5eb; color: #8a909d; }
 .rounded-social-buttons { display: flex; flex-wrap: wrap; gap: .35rem; text-align: left; }
-.rounded-social-buttons .social-button {
+.site-footer .rounded-social-buttons .social-button {
   display: grid; place-items: center; width: 34px; height: 34px; margin: 0; padding: 0;
-  border: 1px solid #e0e2e9; border-radius: 9px; color: #596171; background: white;
+  border: 1px solid #b8bec9; border-radius: 9px; color: #374151; background: white;
   font-size: .95rem; line-height: 1; box-shadow: none;
 }
-.rounded-social-buttons .social-button:hover,
-.rounded-social-buttons .social-button:focus {
+.site-footer .rounded-social-buttons .social-button:hover,
+.site-footer .rounded-social-buttons .social-button:focus {
   transform: translateY(-2px) rotate(0); color: $ink; border-color: $orange; background: $orange;
+}
+.site-footer .rounded-social-buttons .social-button:focus-visible {
+  outline: 3px solid #4b4b4b;
+  outline-offset: 3px;
 }
 .rounded-social-buttons .social-button i,
 .rounded-social-buttons .fa-linkedin,
