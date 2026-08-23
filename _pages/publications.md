@@ -9,8 +9,8 @@ published: true
 
 ### Selected Recent Publications
 
-- J. Meng, S. Tang, **S.M. Wise**, and Z. Guo, “A GPU-Accelerated Matrix-Free FAS Multigrid Solver for Navier-Stokes Equations with Memory-Efficient Implementations,” *Computer Physics Communications* (2026). [doi:10.1016/j.cpc.2026.110274](https://doi.org/10.1016/j.cpc.2026.110274)
-- S. Tang, **S.M. Wise**, J.S. Lowengrub, and Z. Guo, “Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear Flow,” *Journal of Fluid Mechanics* 1080 (2026), A47. [doi:10.1017/jfm.2026.11276](https://doi.org/10.1017/jfm.2026.11276)
+- J. Meng, S. Tang, **S.M. Wise**, and Z. Guo, “A GPU-Accelerated Matrix-Free FAS Multigrid Solver for Navier-Stokes Equations with Memory-Efficient Implementations,” *Computer Physics Communications* 327 (2026), 110274. [doi:10.1016/j.cpc.2026.110274](https://doi.org/10.1016/j.cpc.2026.110274)
+- S. Tang, **S.M. Wise**, J.S. Lowengrub, and Z. Guo, “Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear Flow,” *Journal of Fluid Mechanics* 1030 (2026), A47. [doi:10.1017/jfm.2026.11276](https://doi.org/10.1017/jfm.2026.11276)
 - Y. Guo, C. Wang, **S.M. Wise**, and Z. Zhang, “A Uniquely Solvable and Positivity-Preserving Finite Difference Scheme for the Flory-Huggins-Cahn-Hilliard Equation with Dynamical Boundary Condition,” *Journal of Computational and Applied Mathematics* 472 (2026), 116789. [doi:10.1016/j.cam.2025.116789](https://doi.org/10.1016/j.cam.2025.116789)
 
 The complete publication record follows.
@@ -23,6 +23,8 @@ The complete publication record follows.
 
 
 0. Abner J. Salgado and **S.M. Wise**, **Classical Numerical Analysis: A Comprehensive Course**, Cambridge University Press (2023). (doi: [10.1017/9781108942607](http://doi.org/10.1017/9781108942607))
+
+0. **S.M. Wise**, **Non-Equilibrium Thermodynamics**, in preparation (20% complete; approximately 200 pages).
 {: reversed="reversed"}
 
 
@@ -37,9 +39,9 @@ The complete publication record follows.
 
 #### 2026
 
-0. J. Meng, S. Tang, **S.M. Wise**, and Z. Guo, A GPU-Accelerated Matrix-Free FAS Multigrid Solver for Navier-Stokes Equations with Memory-Efficient Implementations, Comput. Phys. Commun. (online). (doi: [10.1016/j.cpc.2026.110274](https://doi.org/10.1016/j.cpc.2026.110274))
+0. J. Meng, S. Tang, **S.M. Wise**, and Z. Guo, A GPU-Accelerated Matrix-Free FAS Multigrid Solver for Navier-Stokes Equations with Memory-Efficient Implementations, Comput. Phys. Commun. 327 (2026) 110274. (doi: [10.1016/j.cpc.2026.110274](https://doi.org/10.1016/j.cpc.2026.110274))
 
-0. S. Tang, **S.M. Wise**, J.S. Lowengrub, and Z. Guo, Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear Flow, J. Fluid Mech. 1080 (2026) A47 (36 pages).  (doi: [10.1017/jfm.2026.11276](https://doi.org/10.1017/jfm.2026.11276))
+0. S. Tang, **S.M. Wise**, J.S. Lowengrub, and Z. Guo, Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear Flow, J. Fluid Mech. 1030 (2026) A47 (36 pages).  (doi: [10.1017/jfm.2026.11276](https://doi.org/10.1017/jfm.2026.11276))
 
 0. Y. Guo, C. Wang, **S.M. Wise**, and Z. Zhang,  A Uniquely Solvable and Positivity-Preserving Finite Difference Scheme for the Flory-Huggins-Cahn-Hilliard Equation with Dynamical Boundary Condition, J. Comput. Appl. Math. 472 (2026) 116789 (21 pages). (doi: [10.1016/j.cam.2025.116789](https://doi.org/10.1016/j.cam.2025.116789))
 {: reversed="reversed"}
@@ -56,7 +58,7 @@ The complete publication record follows.
 
 0. E. Habbershaw, C.D. Hauck, and **S.M. Wise**, Implicit Update of the Moment Equations for a Multi-Species, Homogeneous BGK Model, SIAM J. Numer. Anal. 63 (2025) 881--907.  (doi: [10.1137/24M165421X](https://doi.org/10.1137/24M165421X))
 
-0. A. Christlieb, K. Promislow, Z. Tan, S. Wang, B. Wetton,**S.M. Wise**, Benchmark Computation of Morphological Complexity in the Functionalized Cahn-Hilliard Gradient Flow, Commun. Comput. Phys. 37 (2025) 877--920. (doi: [10.4208/cicp.OA-2023-0190](https://doi.org/10.4208/cicp.OA-2023-0190))
+0. A. Christlieb, K. Promislow, Z. Tan, S. Wang, B. Wetton, and **S.M. Wise**, Benchmark Computation of Morphological Complexity in the Functionalized Cahn-Hilliard Gradient Flow, Commun. Comput. Phys. 37 (2025) 877--920. (doi: [10.4208/cicp.OA-2023-0190](https://doi.org/10.4208/cicp.OA-2023-0190))
 
 0. T. Luong and **S.M. Wise**, A Nonnegative Weak Solution to the Phase Field Crystal Model with Degenerate Mobility, Discrete Cont. Dyn. Sys. Series B 30 (2025) 3288--3309. (doi: [10.3934/dcdsb.2025023](https://doi.org/10.3934/dcdsb.2025023))
 
@@ -84,7 +86,7 @@ The complete publication record follows.
 
 0. X. Tang, S. Li, J.S. Lowengrub, and **S.M. Wise**, Phase Field Modeling and Computation of Vesicle Growth or Shrinkage, J. Math. Biol. 86 (2023) 97 (31 pages). (doi: [10.1007/s00285-023-01928-2](https://doi.org/10.1007/s00285-023-01928-2))
 
-0. K. Cheng, C. Wang, and **S.M. Wise**, High Order Accurate and Convergent Numerical Scheme for the Strongly Anisotropic Cahn-Hilliard Model, Numer. Methods Partial Diff. Eq. (2023) (23 pages). (doi: [10.1002/num.23034](https://doi.org/10.1002/num.23034))
+0. K. Cheng, C. Wang, and **S.M. Wise**, High Order Accurate and Convergent Numerical Scheme for the Strongly Anisotropic Cahn-Hilliard Model, Numer. Methods Partial Differ. Eq. 39 (2023) 4007--4029. (doi: [10.1002/num.23034](https://doi.org/10.1002/num.23034))
 
 0. M. Punke, **S.M. Wise**, A. Voigt, and M. Salvalaglio, Improved Time Integration for Phase-Field Crystal Models of Solidification, Proc. Appl. Math. Mech. 23 (2023) e202200112 (6 pages). (doi: [10.1002/pamm.202200112](https://doi.org/10.1002/pamm.202200112))
 
@@ -99,7 +101,7 @@ The complete publication record follows.
 
 0. C. Wang and **S.M. Wise**, A Thermodynamically-Consistent Phase Field Crystal Model of Solidification with Heat Flux, J. Math. Study 55 (2022) 1--21. (doi: [10.4208/jms.v55n4.22.01](https://doi.org/10.4208/jms.v55n4.22.01))
 
-0. M. Punke, **S.M. Wise**, A. Voigt, and M. Salvalaglio, Explicit Temperature Coupling in Phase-Field Crystal Models of Solidification, 30 (2022) 074004 (18 pages). (doi: [10.1088/1361-651X/ac8abd](https://doi.org/10.1088/1361-651X/ac8abd))
+0. M. Punke, **S.M. Wise**, A. Voigt, and M. Salvalaglio, Explicit Temperature Coupling in Phase-Field Crystal Models of Solidification, Modelling Simul. Mater. Sci. Eng. 30 (2022) 074004 (18 pages). (doi: [10.1088/1361-651X/ac8abd](https://doi.org/10.1088/1361-651X/ac8abd))
 
 0. M. Yuan, W. Chen, C. Wang, **S.M. Wise**, and Z. Zhang, A Second Order Accurate in Time, Energy Stable Finite Element Scheme for the Flory-Huggins-Cahn-Hilliard Equation, Adv. Appl. Math. Mech. 14 (2022) 1477--1508. (doi: [10.4208/aamm.OA-2021-0331](https://doi.org/10.4208/aamm.OA-2021-0331))
 
@@ -136,7 +138,7 @@ The complete publication record follows.
 
 0. J. Guo, C. Wang, **S.M. Wise** and X. Yue, An Improved Error Analysis for a Second-Order Numerical Scheme for the Cahn-Hilliard Equation, J. Comput. Appl. Math. 388 (2021). 113300. (doi: [10.1016/j.cam.2020.113300](https://doi.org/10.1016/j.cam.2020.113300))
 
-0. Z. Guo, F. Yu,  P. Lin, **S.M. Wise**, and J.S. Lowengrub, A Diffuse Domain Method for Two Phase Flows with Large Density Ratio in Complex Geometries, J. Fluid Mech. 907 (2021) A38. (doi: [10.1017/jfm/jfm.2020.790](https://doi.org/10.1017/jfm.2020.790))
+0. Z. Guo, F. Yu,  P. Lin, **S.M. Wise**, and J.S. Lowengrub, A Diffuse Domain Method for Two Phase Flows with Large Density Ratio in Complex Geometries, J. Fluid Mech. 907 (2021) A38. (doi: [10.1017/jfm.2020.790](https://doi.org/10.1017/jfm.2020.790))
 {: reversed="reversed"}
 
 #### 2020
@@ -156,7 +158,7 @@ The complete publication record follows.
 
 0. K. Cheng, C. Wang, and **S.M. Wise**, An Energy Stable BDF2 Fourier Pseudo-Spectral Numerical Scheme for the Square Phase Field Crystal Equation, Commun. Comput. Phys. 26 (2019) 1335--1364. (doi: [10.4208/cicp.2019.js60.10](https://doi.org/10.4208/cicp.2019.js60.10))
 
-0. J.M. Church, Z. Guo, P.K. Jimack, A. Madzvamuse, K. Promislow, B. Wetton, **S.M. Wise**, and F. Yang, {High Accuracy Benchmark Problems for Allen-Cahn and Cahn-Hilliard Dynamics,  Commun. Comput. Phys. 26 (2019), pp. 947--972. (doi: [10.4208/cicp.OA-2019-0006](https://doi.org/10.4208/cicp.OA-2019-0006))
+0. J.M. Church, Z. Guo, P.K. Jimack, A. Madzvamuse, K. Promislow, B. Wetton, **S.M. Wise**, and F. Yang, High Accuracy Benchmark Problems for Allen-Cahn and Cahn-Hilliard Dynamics, Commun. Comput. Phys. 26 (2019), pp. 947--972. (doi: [10.4208/cicp.OA-2019-0006](https://doi.org/10.4208/cicp.OA-2019-0006))
 
 0. W. Chen, C. Wang, X. Wang, and **S.M. Wise**, Positivity-Preserving, Energy Stable Numerical Schemes for the Cahn-Hilliard Equation with Logarithmic Potential, J. Comput. Phys. X 3 (2019) 100031 (29 pages). (doi: [10.1016/j.jcpx.2019.100031](https://doi.org/10.1016/j.jcpx.2019.100031))
 
@@ -349,7 +351,6 @@ The complete publication record follows.
 
 0. D. Schaal and **S.M. Wise**, Rado Numbers for Some Inequalities and an Arbitrary Number of Colors, Congr. Numer. 121 (1996), 147--153.
 {: reversed="reversed"}
-
 
 
 
