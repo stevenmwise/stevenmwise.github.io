@@ -25,7 +25,7 @@ Numerical Analysis is a broad field, and coming to grips with all of it may seem
 
 - **SIAM Review:** Our book received a glowing review from Guosheng Fu of the University of Notre Dame in *SIAM Review*. His full review is [available here](https://doi.org/10.1137/24M1700983). The following is his conclusion: 'In summary, Classical Numerical Analysis: A Comprehensive Course is an indispensable resource in the field of numerical analysis. Its extensive coverage, rigorous treatment, and practical insights make it a must-have for anyone looking to deepen their understanding of applied mathematics. Whether you are exploring numerical methods for the first time or revisiting them from a more advanced perspective, this book will be a trusted companion.'
 
-- **The Mathematical Gazette:** Martin Lukarevski reviewed the book in Volume 110, Issue 577 of *The Mathematical Gazette*. The [full review is available here](https://doi.org/10.1080/00255572.2025.2600828).
+- **The Mathematical Gazette:** Martin Lukarevski reviewed the book in Volume 110, Issue 577 of *The Mathematical Gazette*. The [full review is available here](https://doi.org/10.1080/00255572.2025.2600828). He concludes: 'With these small drawbacks, the book is highly recommendable, primarily to students of mathematics looking for rigorous founding of numerical analysis.'
 
 ### Availability
 
