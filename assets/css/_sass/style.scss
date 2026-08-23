@@ -122,13 +122,8 @@ h4 { margin: 1.6rem 0 .4rem; font-size: 1.05rem; letter-spacing: -.015em; }
 .book-feature-dark { color: white; background: $ink; }
 .book-feature-dark h3 { color: white; }
 .book-feature-light { color: $ink; border: 1px solid #f0d8bd; background: #fff2e4; }
-.book-art { position: relative; display: grid; place-items: center; width: 130px; height: 190px; overflow: hidden; border-radius: 4px 12px 12px 4px; box-shadow: 10px 16px 30px rgba(0,0,0,.2); }
-.book-art::before { content: ""; position: absolute; inset: 0; }
-.book-art span { position: relative; z-index: 2; color: $ink; font-family: "Lato", sans-serif; font-size: 1.8rem; font-weight: 900; }
-.book-art-grid { background: $orange; }
-.book-art-grid::before { background-image: linear-gradient(rgba(255,255,255,.14) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.14) 1px, transparent 1px); background-size: 16px 16px; transform: perspective(200px) rotateX(25deg) scale(1.2); }
-.book-art-wave { background: $orange; }
-.book-art-wave::before { background: radial-gradient(ellipse at 20% 50%, transparent 20%, rgba(255,255,255,.23) 21%, transparent 23%), radial-gradient(ellipse at 80% 50%, transparent 20%, rgba(255,255,255,.2) 21%, transparent 23%); background-size: 70px 55px; }
+.book-art { display: grid; place-items: center; width: 130px; height: 190px; overflow: hidden; border-radius: 4px 10px 10px 4px; background: white; box-shadow: 10px 16px 30px rgba(0,0,0,.24); }
+.book-art img { display: block; width: 100%; height: 100%; object-fit: contain; }
 .book-meta { display: block; margin-bottom: .65rem; color: $brand-color; font-size: .65rem; font-weight: 800; text-transform: uppercase; letter-spacing: .08em; }
 .book-feature-dark .book-meta { color: $orange; }
 .book-feature h3 { margin: 0 0 .55rem; font-size: 1.45rem; }
