@@ -22,7 +22,7 @@ published: true
   </div>
   <div class="hero-visual">
     <div class="portrait-frame">
-      <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Steven M. Wise">
+      <img src="{{ '/assets/images/profile-cartoon-smokey.png' | relative_url }}" alt="Illustrated portrait of Steven M. Wise">
     </div>
     <div class="orbit orbit-one" aria-hidden="true"></div>
     <div class="orbit orbit-two" aria-hidden="true"></div>
