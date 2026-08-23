@@ -40,6 +40,7 @@ published: true
 - **Math 571**, Numerical Mathematics I
 
 ### Graduated PhD Students
+0. Charlotte Beckford, PhD, University of Tennessee, August 2026
 0. Evan Habbershaw, PhD, University of Tennessee, 2025 (co-advised by Cory Hauck)
 0. [Jea-Hyun Park](https://www.msoe.edu/directory/profile/jeahyun.park/), PhD, University of Tennessee, 2021 (co-advised by A. Salgado)
 0. Steve Galloway, PhD, University of Tennessee, 2020

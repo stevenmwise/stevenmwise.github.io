@@ -19,7 +19,7 @@ The complete publication record follows.
 
 0. Toai Luong, Tadele Mengesha, and **S.M. Wise**, **Asymptotic Analysis and Perturbation Theory: Matched Asymptotic, Multiple Scale, and Homogenization Methods** (working title), Cambridge University Press (in review).
 
-0. Abner J. Salgado, **S.M. Wise** and Calvin Wong, **Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems**, De Gruyter (2026). (doi: [10.1515/9783111354880](https://doi.org/10.1515/9783111354880))
+0. Abner J. Salgado, **S.M. Wise** and [Calvin Wong](https://calvin1127xd.github.io), **Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems**, De Gruyter (2026). (doi: [10.1515/9783111354880](https://doi.org/10.1515/9783111354880))
 
 
 0. Abner J. Salgado and **S.M. Wise**, **Classical Numerical Analysis: A Comprehensive Course**, Cambridge University Press (2023). (doi: [10.1017/9781108942607](http://doi.org/10.1017/9781108942607))
@@ -349,7 +349,6 @@ The complete publication record follows.
 
 0. D. Schaal and **S.M. Wise**, Rado Numbers for Some Inequalities and an Arbitrary Number of Colors, Congr. Numer. 121 (1996), 147--153.
 {: reversed="reversed"}
-
 
 
 

@@ -9,7 +9,7 @@ published: true
 
 ### Synopsis
 
-**Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems** is our 2026 textbook on multigrid methods for graduate and advanced undergraduate students, published by De Gruyter. Written by [Abner Salgado](https://sites.google.com/utk.edu/abnersg/), Calvin Wong, and me, the book is our attempt to make the subject accessible and understandable to a modern audience.
+**Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems** is our 2026 textbook on multigrid methods for graduate and advanced undergraduate students, published by De Gruyter. Written by [Abner Salgado](https://sites.google.com/utk.edu/abnersg/), [Calvin Wong](https://calvin1127xd.github.io), and me, the book is our attempt to make the subject accessible and understandable to a modern audience.
 
 This book introduces the theory and application of multigrid methods for the fast numerical solution of linear and weakly nonlinear elliptic PDE. No previous exposure to numerical discretization methods is assumed. All that is required of the reader is curiosity and some basic knowledge of matrix theory and the theory of finite-dimensional vector spaces.
 
