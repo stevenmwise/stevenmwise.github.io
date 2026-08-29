@@ -64,6 +64,7 @@ I develop phase-field models and computational methods for structural evolution 
 
 - <a title="https://tu-dresden.de/mn/math/wir" href="https://tu-dresden.de/mn/math/wir">Rainer Backofen</a>
 - <a title="https://sites.ua.edu/sdai/" href="https://sites.ua.edu/sdai/">Shibin Dai</a>
+- <a title="https://www.faculty.msstate.edu/aed388" href="https://www.faculty.msstate.edu/aed388">Amanda Diegel</a>
 - <a title="https://sites.google.com/utk.edu/xfeng" href="https://sites.google.com/utk.edu/xfeng">Xiaobing Feng</a>
 - <a title="https://www.csrc.ac.cn/en/people/faculty/182.html" href="https://www.csrc.ac.cn/en/people/faculty/182.html">Zhenlin Guo</a>
 - <a title="https://www.ornl.gov/staff-profile/cory-d-hauck" href="https://www.ornl.gov/staff-profile/cory-d-hauck">Cory Hauck</a>
@@ -72,14 +73,14 @@ I develop phase-field models and computational methods for structural evolution 
 - <a title="https://www.math.iit.edu/~sli/" href="https://www.math.iit.edu/~sli/">Shuwang Li</a>
 - <a title="https://www.iit.edu/directory/people/chun-liu" href="https://www.iit.edu/directory/people/chun-liu">Chun Liu</a>
 - <a title="https://webapps.math.uci.edu/~lowengrb/" href="https://webapps.math.uci.edu/~lowengrb/">John S. Lowengrub</a>
+- <a title="https://sites.google.com/view/toaitluong/" href="https://sites.google.com/view/toaitluong/">Toai Luong</a>
 - <a title="https://sites.google.com/utk.edu/tadelemengesha/" href="https://sites.google.com/utk.edu/tadelemengesha/">Tadele Mengesha</a>
 - <a title="https://users.math.msu.edu/users/promislo/" href="https://users.math.msu.edu/users/promislo/">Keith Promislow</a>
 - <a title="https://www.math.clemson.edu/~rebholz/" href="https://www.math.clemson.edu/~rebholz/">Leo Rebholz</a>
 - <a title="https://sites.google.com/utk.edu/abnersg/" href="https://sites.google.com/utk.edu/abnersg/">Abner Salgado</a>
 - <a title="https://www.3msgroup-tud.de/marco-salvalaglio" href="https://www.3msgroup-tud.de/marco-salvalaglio">Marco Salvalaglio</a>
-- <a title="https://www.math.purdue.edu/~shen7/" href="https://www.math.purdue.edu/~shen7/">Jie Shen</a>
+- <a title="https://sites.google.com/view/kerrek-stinson/" href="https://sites.google.com/view/kerrek-stinson/">Kerrek Stinson</a>
 - <a title="https://tu-dresden.de/mn/math/wir" href="https://tu-dresden.de/mn/math/wir">Axel Voigt</a>
 - <a title="https://www.umassd.edu/directory/cwang1/" href="https://www.umassd.edu/directory/cwang1/">Cheng Wang</a>
-- <a title="https://faculty.sustech.edu.cn/wangxm/en/" href="https://faculty.sustech.edu.cn/wangxm/en/">Xiaoming Wang</a>
 - <a title="https://personal.math.ubc.ca/~wetton/" href="https://personal.math.ubc.ca/~wetton/">Brian Wetton</a>
 - <a title="https://calvin1127xd.github.io" href="https://calvin1127xd.github.io">Calvin Wong</a>
