@@ -35,7 +35,7 @@ The complete publication record follows.
 
 0. J.H. Park, A.J. Salgado, and **S.M. Wise**, A Perturbed Preconditioned Gradient Descent Method for the Unconstrained Minimization of Composite Objectives, (in review). (doi: [10.48550/arXiv.2512.19532](https://doi.org/10.48550/arXiv.2512.19532))
 
-0. T. Luong, T. Mengesha, **S.M. Wise**, and M.H. Wong, The alpha-Limit Problem: Convergence of a Linear Degenerate Interface Transmission Problem, submitted to SIAM J. Appl. Math. (in review).
+0. T. Luong, T. Mengesha, K. Stinson, **S.M. Wise**, and M.H. Wong, The alpha-Limit Problem: Convergence of a Linear Degenerate Interface Transmission Problem, submitted to SIAM J. Appl. Math. (in review). (doi: [10.48550/arXiv.2609.01237](https://doi.org/10.48550/arXiv.2609.01237))
 {: reversed="reversed"}
 
 #### 2026
@@ -354,7 +354,6 @@ The complete publication record follows.
 
 0. D. Schaal and **S.M. Wise**, Rado Numbers for Some Inequalities and an Arbitrary Number of Colors, Congr. Numer. 121 (1996), 147--153.
 {: reversed="reversed"}
-
 
 
 
