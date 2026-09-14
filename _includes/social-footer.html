@@ -1,7 +1,7 @@
 <div class="rounded-social-buttons">
 
     {%- if site.email -%}
-    <a title="{{ _locale_string_email }}"
+    <a title="Email Steven M. Wise"
     class="social-button email" itemprop="email" aria-label="Email Steven M. Wise"
     href="mailto:{{ site.email | encode_email }}">
     <i class="far fa-envelope" aria-hidden="true"></i>
@@ -9,7 +9,7 @@
     {%- endif -%}
 
     {%- if site.scopus -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Scopus' }}"
+    <a title="View Scopus profile"
     class="social-button scopus" aria-label="Scopus profile"
     href="https://www.scopus.com/authid/detail.uri?authorId={{ site.scopus }}" itemprop="sameAs"
     target="_blank" rel="noopener noreferrer">
@@ -18,7 +18,7 @@
     {%- endif -%}
 
     {%- if site.google_scholar -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}" 
+    <a title="View Google Scholar profile"
     class="social-button google-scholar" aria-label="Google Scholar profile"
     href="https://scholar.google.it/citations?user={{ site.google_scholar }}" itemprop="sameAs"
     target="_blank" rel="noopener noreferrer">
@@ -27,7 +27,7 @@
     {%- endif -%}
 
     {%- if site.linkedin -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
+    <a title="View LinkedIn profile"
     class="social-button linkedin" aria-label="LinkedIn profile"
     href="https://www.linkedin.com/in/{{ site.linkedin }}" itemprop="sameAs"
     target="_blank" rel="noopener noreferrer">
@@ -36,7 +36,7 @@
     {%- endif -%}
 
     {%- if site.github -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'GitHub' }}"
+    <a title="View GitHub profile"
     class="social-button github" aria-label="GitHub profile"
     href="https://www.github.com/{{ site.github }}" itemprop="sameAs"
     target="_blank" rel="noopener noreferrer">
@@ -45,7 +45,7 @@
     {%- endif -%}
 
     {%- if site.researchgate -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'ResearchGate' }}"
+    <a title="View ResearchGate profile"
     class="social-button researchgate" aria-label="ResearchGate profile"
     href="https://www.researchgate.net/profile/{{ site.researchgate }}" itemprop="sameAs"
     target="_blank" rel="noopener noreferrer">
@@ -54,7 +54,7 @@
     {%- endif -%}
 
     {%- if site.orcid -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Orcid' }}"
+    <a title="View ORCID profile"
     class="social-button orcid" aria-label="ORCID profile"
     href="https://orcid.org/{{ site.orcid }}" itemprop="sameAs"
     target="_blank" rel="noopener noreferrer">
@@ -63,7 +63,7 @@
     {%- endif -%}
 
     {%- if site.flickr -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Flickr' }}"
+    <a title="View Flickr profile"
     class="social-button flickr" aria-label="Flickr profile"
     href="https://www.flickr.com/photos/{{ site.flickr }}" itemprop="sameAs"
     target="_blank" rel="noopener noreferrer">
@@ -72,7 +72,7 @@
     {%- endif -%}
 
     {%- if site.twitter -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
+    <a title="View Twitter profile"
     class="social-button twitter" aria-label="Twitter profile"
     href="https://www.twitter.com/{{ site.twitter }}" itemprop="sameAs"
     target="_blank" rel="noopener noreferrer">

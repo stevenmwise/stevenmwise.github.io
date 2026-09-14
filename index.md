@@ -81,7 +81,7 @@ published: true
   <div class="book-showcase">
     <a class="book-feature book-feature-dark" href="{{ '/MGBook/' | relative_url }}">
       <div class="book-art">
-        <img src="{{ '/files/multigrid-methods-cover.png' | relative_url }}" alt="Cover of Multigrid Methods" loading="lazy" decoding="async">
+        <img src="{{ '/files/multigrid-methods-cover.png' | relative_url }}" alt="Cover of Multigrid Methods" width="536" height="720" loading="lazy" decoding="async">
       </div>
       <div class="book-copy">
         <span class="book-meta">De Gruyter · 2026</span>
@@ -92,7 +92,7 @@ published: true
     </a>
     <a class="book-feature book-feature-light" href="{{ '/CNABook/' | relative_url }}">
       <div class="book-art">
-        <img src="{{ '/files/classical-numerical-analysis-cover.png' | relative_url }}" alt="Cover of Classical Numerical Analysis" loading="lazy" decoding="async">
+        <img src="{{ '/files/classical-numerical-analysis-cover.png' | relative_url }}" alt="Cover of Classical Numerical Analysis" width="478" height="720" loading="lazy" decoding="async">
       </div>
       <div class="book-copy">
         <span class="book-meta">Cambridge University Press · 2023</span>

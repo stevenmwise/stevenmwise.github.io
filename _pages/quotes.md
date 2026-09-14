@@ -5,7 +5,7 @@ permalink: /quotes/
 published: true
 ---
 
-## Favorite Mathematics and Science Quotations
+# Favorite Mathematics and Science Quotations
 
 > “The divergent series are the invention of the devil, and it is a shame to base on them any demonstration whatsoever.” — Niels Henrik Abel
 

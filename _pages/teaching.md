@@ -5,41 +5,41 @@ permalink: /teaching/
 published: true
 ---
 
-## Teaching
+# Teaching
 
-### YouTube Courses on [WiseAppliedMaths](https://www.youtube.com/@WiseAppliedMaths)
+## YouTube Courses on [WiseAppliedMaths](https://www.youtube.com/@WiseAppliedMaths)
 0. [Essential Perturbation Theory and Asymptotic Analysis](https://youtube.com/playlist?list=PLRC4Oo56zlKnNSCDSSny82UppC2-sCpeW&si=yZ-ix4LtlLVWlb5B)
 0. [Multigrid Methods](https://youtube.com/playlist?list=PLRC4Oo56zlKk4oq6_nl38iy_R-12oOXj4&si=nJrdVplA_M9mc5yb)
 0. [Finite Element Methods](https://www.youtube.com/playlist?list=PLRC4Oo56zlKlDjmHBAFCQTRys9fUQHlr9)
 0. [Non-Equilibrium Thermodynamics](https://www.youtube.com/playlist?list=PLRC4Oo56zlKmkkDOpPbDXXgAVGy6nd6QX)
 
 
-### In-Person Classes
+## In-Person Classes
 
-#### Spring 2026
+### Spring 2026
 
 - **Math 579**, Non-Equilibrium Thermodynamics
 
-#### Fall 2025
+### Fall 2025
 
 - **Math 574**, Finite Element Methods
 
-#### Spring 2025
+### Spring 2025
 
 - **Math 674**, Advanced Numerical PDE II: Multigrid Methods
 
-#### Fall 2024
+### Fall 2024
 
 - **Math 673**, Advanced Numerical PDE I: Multigrid Methods
 
-#### Spring 2024
+### Spring 2024
 - **Math 572**, Numerical Mathematics II
 - **Math 515**, Essential Perturbation Theory and Asymptotic Analysis
 
-#### Fall 2023
+### Fall 2023
 - **Math 571**, Numerical Mathematics I
 
-### Graduated PhD Students
+## Graduated PhD Students
 0. Charlotte Beckford, PhD, University of Tennessee, August 2026
 0. Evan Habbershaw, PhD, University of Tennessee, 2025 (co-advised by Cory Hauck)
 0. [Jea-Hyun Park](https://www.msoe.edu/directory/profile/jeahyun.park/), PhD, University of Tennessee, 2021 (co-advised by A. Salgado)

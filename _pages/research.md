@@ -5,11 +5,11 @@ permalink: /research/
 published: true
 ---
 
-## Research
+# Research
 
-### Areas of Interest
+## Areas of Interest
 
-#### Numerical Methods for Parabolic PDE and Interface Problems
+### Numerical Methods for Parabolic PDE and Interface Problems
 
 I develop and analyze numerical methods for nonlinear PDE and interface problems, with particular attention to stability, accuracy, and efficient solvers.
 
@@ -20,7 +20,7 @@ I develop and analyze numerical methods for nonlinear PDE and interface problems
 - adaptive mesh refinement
 - multigrid methods and fast solvers
 
-#### Complex Fluids
+### Complex Fluids
 
 I study thermodynamically consistent models for complex fluids, phase transitions, and coupled transport processes.
 
@@ -32,7 +32,7 @@ I study thermodynamically consistent models for complex fluids, phase transition
 - polymeric flows
 - kinetic equations
 
-#### Nonlinear PDE
+### Nonlinear PDE
 
 My analytical work concerns fundamental properties of nonlinear PDE and their singular limits.
 
@@ -42,7 +42,7 @@ My analytical work concerns fundamental properties of nonlinear PDE and their si
 - gamma convergence
 - existence, uniqueness, and regularity
 
-#### Biological Growth
+### Biological Growth
 
 I use mathematical models to investigate growth, progression, and membrane dynamics in biological systems.
 
@@ -50,7 +50,7 @@ I use mathematical models to investigate growth, progression, and membrane dynam
 - spatiotemporal cancer-progression models
 - membrane dynamics
 
-#### Materials Science
+### Materials Science
 
 I develop phase-field models and computational methods for structural evolution in complex materials.
 
@@ -60,7 +60,7 @@ I develop phase-field models and computational methods for structural evolution 
 - material anisotropy
 - structural phase transitions
 
-### Recent Collaborators
+## Recent Collaborators
 
 - <a title="https://tu-dresden.de/mn/math/wir" href="https://tu-dresden.de/mn/math/wir">Rainer Backofen</a>
 - <a title="https://sites.ua.edu/sdai/" href="https://sites.ua.edu/sdai/">Shibin Dai</a>

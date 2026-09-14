@@ -5,15 +5,19 @@ permalink: /CNABook/
 published: true
 ---
 
-## Classical Numerical Analysis
+# Classical Numerical Analysis
 
-### Synopsis
+<figure class="book-page-cover">
+  <img src="{{ '/files/classical-numerical-analysis-cover.png' | relative_url }}" alt="Cover of Classical Numerical Analysis" width="478" height="720" decoding="async">
+</figure>
+
+## Synopsis
 
 **Classical Numerical Analysis: A Comprehensive Course** (CNA) is our 2023 textbook on numerical analysis for graduate and advanced undergraduate students, published by Cambridge University Press. Written by my colleague [Abner Salgado](https://sites.google.com/utk.edu/abnersg/) and me, CNA is our attempt to make numerical analysis accessible and understandable to a modern audience. The following is the book's back-cover description:
 
 Numerical Analysis is a broad field, and coming to grips with all of it may seem like a daunting task. This text provides a thorough and comprehensive exposition of all the topics contained in a classical graduate sequence in numerical analysis. With an emphasis on theory and connections with linear algebra and analysis, the book shows all the rigor of numerical analysis. Its high level and exhaustive coverage will prepare students for research in the field and become a valuable reference as they continue their career. Students will appreciate the simple notation, clear assumptions and arguments, as well as the many examples and classroom-tested exercises ranging from simple verification to qualifying exam-level problems. In addition to the many examples with hand calculations, readers will also be able to translate theory into practical computational codes by running sample MATLAB codes as they try out new concepts.
 
-### Editorial Reviews
+## Editorial Reviews
 
 - **Endre Süli, University of Oxford:** ‘This impressive volume covers an unusually broad range of topics in the field of numerical analysis, including numerical linear algebra, polynomial and trigonometric interpolation, best approximation, numerical quadrature, the approximate solution of nonlinear equations and convex optimization, and the numerical solution of ordinary and partial differential equations by finite difference, spectral and finite element methods. A particularly appealing feature of the text is the way in which it integrates a mathematically rigorous exposition with a wealth of illustrative examples, including numerical simulations, sample codes, and exercises. I warmly recommend the book to students and lecturers as an advanced undergraduate or introductory graduate level text.’ 
 
@@ -27,14 +31,14 @@ Numerical Analysis is a broad field, and coming to grips with all of it may seem
 
 - **The Mathematical Gazette:** Martin Lukarevski reviewed the book in Volume 110, Issue 577 of *The Mathematical Gazette*. The [full review is available here](https://doi.org/10.1080/00255572.2025.2600828). He concludes: 'With these small drawbacks, the book is highly recommendable, primarily to students of mathematics looking for rigorous founding of numerical analysis.'
 
-### Availability
+## Availability
 
 The electronic version of the book is available through [Cambridge Core](https://doi.org/10.1017/9781108942607). You may ask your university library to purchase campus-wide access for students and faculty. The hardback can be purchased from Amazon in the United States and Europe or directly from Cambridge University Press.
 
-### Errata
+## Errata
 
 No book is entirely free of errors. You can obtain the current errata from the book's [GitHub repository](https://github.com/stevenmwise/ClassicalNumericalAnalysis/blob/main/errata/bookErrata.pdf). Errors, typographical mistakes, and inconsistencies may be reported to either Abner or me. We greatly appreciate any feedback you can provide.
 
-### Code and Supplementary Materials
+## Code and Supplementary Materials
 
 The MATLAB code listed in the book is available from the GitHub repository [stevenmwise/ClassicalNumericalAnalysis](https://github.com/stevenmwise/ClassicalNumericalAnalysis). The repository also contains the source code used to generate the book's tables and figures. We plan to add more software and supplementary material over time.

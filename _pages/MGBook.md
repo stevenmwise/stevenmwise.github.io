@@ -5,9 +5,13 @@ permalink: /MGBook/
 published: true
 ---
 
-## Multigrid Methods
+# Multigrid Methods
 
-### Synopsis
+<figure class="book-page-cover">
+  <img src="{{ '/files/multigrid-methods-cover.png' | relative_url }}" alt="Cover of Multigrid Methods" width="536" height="720" decoding="async">
+</figure>
+
+## Synopsis
 
 **Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems** is our 2026 textbook on multigrid methods for graduate and advanced undergraduate students, published by De Gruyter. Written by [Abner Salgado](https://sites.google.com/utk.edu/abnersg/), [Calvin Wong](https://calvin1127xd.github.io), and me, the book is our attempt to make the subject accessible and understandable to a modern audience.
 
@@ -17,14 +21,14 @@ We use an axiomatic, mostly matrix-based approach to present the theory in a nat
 
 Implementing multigrid methods is notoriously difficult. The book contains several examples using finite element and cell-centered finite-difference frameworks, helping readers construct sophisticated, efficient multigrid code in MATLAB.
 
-### Availability
+## Availability
 
 The electronic version of the book is available from [De Gruyter](https://doi.org/10.1515/9783111354880). You may ask your university library to purchase campus-wide access for students and faculty. Physical copies are available from Amazon.
 
-### Errata
+## Errata
 
 The current errata are available from the book's [GitHub repository](https://github.com/stevenmwise/MultigridCourse). Errors, typographical mistakes, and inconsistencies may be reported to any of the authors. We greatly appreciate any feedback you can provide.
 
-### Code and Supplementary Materials
+## Code and Supplementary Materials
 
 The MATLAB code listed in the book is available from the GitHub repository [stevenmwise/MultigridCourse](https://github.com/stevenmwise/MultigridCourse). The repository also contains the source code used to generate the book's tables and figures. We plan to add more software and supplementary material over time.

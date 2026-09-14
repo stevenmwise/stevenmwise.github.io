@@ -5,34 +5,34 @@ permalink: /cv/
 published: true
 ---
 
-## CV
+# CV
 
-### Positions
+## Positions
 
-#### The University of Tennessee, Department of Mathematics
+### The University of Tennessee, Department of Mathematics
 - **Professor**, 2017--present
 - **Associate Professor**, 2012--2017
 - **Assistant Professor**, 2007--2012
 
-#### Technische Universität Dresden, Institute of Scientific Computing
+### Technische Universität Dresden, Institute of Scientific Computing
 - **Dresden Fellow**, Fall 2017
 
 
-#### The University of California, Irvine, Department of Mathematics
+### The University of California, Irvine, Department of Mathematics
 - **Visiting Associate Researcher**, Spring 2015
 - **Visiting Assistant Professor**, 2005--2007
 - **Postdoctoral Researcher**, 2003--2005
 
 
-### Education
+## Education
 
-#### PhD, Engineering Physics, 2003, University of Virginia
+### PhD, Engineering Physics, 2003, University of Virginia
 
-#### Graduate Studies, Mathematics, 1998, The Pennsylvania State University
+### Graduate Studies, Mathematics, 1998, The Pennsylvania State University
 
-#### MS, Mathematics, 1998, Virginia Tech
+### MS, Mathematics, 1998, Virginia Tech
 
-#### BS, Mathematics, 1996, Clarion University
+### BS, Mathematics, 1996, Clarion University
 
 [Download the complete CV (PDF)]({{ '/files/CV/vitae.pdf' | relative_url }}).
 
