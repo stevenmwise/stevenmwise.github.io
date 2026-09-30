@@ -9,7 +9,7 @@ published: true
 
 ## Selected Recent Publications
 
-- E. Habbershaw, J. Haight, and **S.M. Wise**, “Year-Five Progress Report on Numerical Methods for BGK-Type Kinetic Equations,” *TRACE: Faculty Publications and Other Works, Mathematics*, The University of Tennessee (2026), 373 pages. [TRACE record](https://trace.tennessee.edu/handle/20.500.14382/62338)
+- E. Habbershaw, J. Haight, and **S.M. Wise**, “Year-Five Progress Report on Numerical Methods for BGK-Type Kinetic Equations,” *TRACE Report*, The University of Tennessee (2026), 373 pages. [TRACE record](https://trace.tennessee.edu/handle/20.500.14382/62338)
 - Z. Zhang, S. Li, J.S. Lowengrub, and **S.M. Wise**, “An Efficient Constant-Coefficient MSAV Scheme for Computing Vesicle Growth and Shrinkage,” *Communications in Computational Physics* (online first, 2026). [doi:10.4208/cicp.OA-2026-0008](https://doi.org/10.4208/cicp.OA-2026-0008)
 - J. Meng, S. Tang, **S.M. Wise**, and Z. Guo, “A GPU-Accelerated Matrix-Free FAS Multigrid Solver for Navier-Stokes Equations with Memory-Efficient Implementations,” *Computer Physics Communications* 327 (2026), 110274. [doi:10.1016/j.cpc.2026.110274](https://doi.org/10.1016/j.cpc.2026.110274)
 - S. Tang, **S.M. Wise**, J.S. Lowengrub, and Z. Guo, “Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear Flow,” *Journal of Fluid Mechanics* 1030 (2026), A47. [doi:10.1017/jfm.2026.11276](https://doi.org/10.1017/jfm.2026.11276)
@@ -21,7 +21,7 @@ The complete publication record follows.
 
 0. Toai Luong, Tadele Mengesha, and **S.M. Wise**, **Asymptotic Analysis and Perturbation Theory: Matched Asymptotic, Multiple Scale, and Homogenization Methods** (working title), Cambridge University Press (in review).
 
-0. Abner J. Salgado, **S.M. Wise** and [Calvin Wong](https://calvin1127xd.github.io), **Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems**, De Gruyter (2026). (doi: [10.1515/9783111354880](https://doi.org/10.1515/9783111354880))
+0. Abner J. Salgado, **S.M. Wise**, and [Calvin Wong](https://calvin1127xd.github.io), **Multigrid Methods: Axiomatic Convergence Theory for Linear and Weakly Nonlinear Problems**, De Gruyter (2026). (doi: [10.1515/9783111354880](https://doi.org/10.1515/9783111354880))
 
 
 0. Abner J. Salgado and **S.M. Wise**, **Classical Numerical Analysis: A Comprehensive Course**, Cambridge University Press (2023). (doi: [10.1017/9781108942607](https://doi.org/10.1017/9781108942607))
@@ -30,7 +30,7 @@ The complete publication record follows.
 {: reversed="reversed"}
 
 
-## Published Papers
+## Research Publications
 
 ### Preprints
 
@@ -41,20 +41,20 @@ The complete publication record follows.
 
 ### 2026
 
-0. E. Habbershaw, J. Haight, and **S.M. Wise**, Year-Five Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, Mathematics, The University of Tennessee (2026) (373 pages). (Trace: [Permanent record](https://trace.tennessee.edu/handle/20.500.14382/62338))
+0. E. Habbershaw, J. Haight, and **S.M. Wise**, Year-Five Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE Report, The University of Tennessee (2026) (373 pages). (Trace: [Permanent record](https://trace.tennessee.edu/handle/20.500.14382/62338))
 
 0. Z. Zhang, S. Li, J.S. Lowengrub, and **S.M. Wise**, An Efficient Constant-Coefficient MSAV Scheme for Computing Vesicle Growth and Shrinkage, Commun. Comput. Phys. (online first, 2026). (doi: [10.4208/cicp.OA-2026-0008](https://doi.org/10.4208/cicp.OA-2026-0008))
 
 0. J. Meng, S. Tang, **S.M. Wise**, and Z. Guo, A GPU-Accelerated Matrix-Free FAS Multigrid Solver for Navier-Stokes Equations with Memory-Efficient Implementations, Comput. Phys. Commun. 327 (2026) 110274. (doi: [10.1016/j.cpc.2026.110274](https://doi.org/10.1016/j.cpc.2026.110274))
 
-0. S. Tang, **S.M. Wise**, J.S. Lowengrub, and Z. Guo, Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear Flow, J. Fluid Mech. 1030 (2026) A47 (36 pages).  (doi: [10.1017/jfm.2026.11276](https://doi.org/10.1017/jfm.2026.11276))
+0. S. Tang, **S.M. Wise**, J.S. Lowengrub, and Z. Guo, Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear Flow, J. Fluid Mech. 1030 (2026) A47 (36 pages). (doi: [10.1017/jfm.2026.11276](https://doi.org/10.1017/jfm.2026.11276))
 
-0. Y. Guo, C. Wang, **S.M. Wise**, and Z. Zhang,  A Uniquely Solvable and Positivity-Preserving Finite Difference Scheme for the Flory-Huggins-Cahn-Hilliard Equation with Dynamical Boundary Condition, J. Comput. Appl. Math. 472 (2026) 116789 (21 pages). (doi: [10.1016/j.cam.2025.116789](https://doi.org/10.1016/j.cam.2025.116789))
+0. Y. Guo, C. Wang, **S.M. Wise**, and Z. Zhang, A Uniquely Solvable and Positivity-Preserving Finite Difference Scheme for the Flory-Huggins-Cahn-Hilliard Equation with Dynamical Boundary Condition, J. Comput. Appl. Math. 472 (2026) 116789 (21 pages). (doi: [10.1016/j.cam.2025.116789](https://doi.org/10.1016/j.cam.2025.116789))
 {: reversed="reversed"}
 
 ### 2025
 
-0. E. Habbershaw and **S.M. Wise**, Year-4 Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, The University of Tennessee, Mathematics Report Number 14 (2025) (206 pages). (Trace: [Math Faculty Report 14](https://trace.tennessee.edu/utk_mathpubs/14/))
+0. E. Habbershaw and **S.M. Wise**, Year-4 Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE Report, The University of Tennessee (2025) (206 pages). (Trace: [Permanent record](https://trace.tennessee.edu/handle/20.500.14382/48810))
 
 0. T. Luong, T. Mengesha, **S.M. Wise**, and M.H. Wong, A Diffuse Domain Approximation with Transmission-Type Boundary Conditions II: Gamma Convergence, Int. J. Numer. Anal. Model. 22 (2025) 728--744. (doi: [10.4208/ijnam2025-1031](https://doi.org/10.4208/ijnam2025-1031))
 
@@ -62,7 +62,7 @@ The complete publication record follows.
 
 0. A.E. Diegel, C. Wang, and **S.M. Wise**, Convergence Analysis of a Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Logarithmic Potential, Int. J. Numer. Anal. Model. 22 (2025) 483--509. (doi: [10.4208/ijnam2025-1021](https://doi.org/10.4208/ijnam2025-1021))
 
-0. E. Habbershaw, C.D. Hauck, and **S.M. Wise**, Implicit Update of the Moment Equations for a Multi-Species, Homogeneous BGK Model, SIAM J. Numer. Anal. 63 (2025) 881--907.  (doi: [10.1137/24M165421X](https://doi.org/10.1137/24M165421X))
+0. E. Habbershaw, C.D. Hauck, and **S.M. Wise**, Implicit Update of the Moment Equations for a Multi-Species, Homogeneous BGK Model, SIAM J. Numer. Anal. 63 (2025) 881--907. (doi: [10.1137/24M165421X](https://doi.org/10.1137/24M165421X))
 
 0. A. Christlieb, K. Promislow, Z. Tan, S. Wang, B. Wetton, and **S.M. Wise**, Benchmark Computation of Morphological Complexity in the Functionalized Cahn-Hilliard Gradient Flow, Commun. Comput. Phys. 37 (2025) 877--920. (doi: [10.4208/cicp.OA-2023-0190](https://doi.org/10.4208/cicp.OA-2023-0190))
 
@@ -77,7 +77,7 @@ The complete publication record follows.
 
 0. Y. Sun, J. Wu, M. Jiang, **S.M. Wise**, and Z. Guo, A Thermodynamically Consistent Phase-Field Model and an Entropy Stable Numerical Method for Simulating Two-Phase Flows with Thermocapillary Effects, Appl. Numer. Math. 206 (2024) 161--189. (doi: [10.1016/j.apnum.2024.08.010](https://doi.org/10.1016/j.apnum.2024.08.010))
 
-0. E. Habbershaw and **S.M. Wise**, Year-2 Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, The University of Tennessee, Mathematics Report Number 11 (2024) (129 pages). (Trace: [Math Faculty Report 11](https://trace.tennessee.edu/utk_mathpubs/11/))
+0. E. Habbershaw and **S.M. Wise**, Year-2 Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE Report, The University of Tennessee (2024) (129 pages). (Trace: [Permanent record](https://trace.tennessee.edu/handle/20.500.14382/48807))
 
 0. C. Wang, J. Wang, **S.M. Wise**, Z. Xia, and L. Xu, Convergence Analysis of a Temporally Second-Order Accurate Finite Element scheme for the Cahn-Hilliard-Magnetohydrodynamics System of Equations, J. Comput. Appl. Math. 436 (2024) 115409 (17 pages). (doi: [10.1016/j.cam.2023.115409](https://doi.org/10.1016/j.cam.2023.115409))
 
@@ -103,7 +103,7 @@ The complete publication record follows.
 
 ### 2022
 
-0. X. Chen, C. Wang, and **S.M. Wise**, A Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Variable Mobility, Int. J. Numer. Anal. Model. 19 (2022) 839--863. (pdf: [IJNAM](http://www.math.ualberta.ca/ijnam/Volume-19-2022/No-6-22/2022-06-06.pdf))
+0. X. Chen, C. Wang, and **S.M. Wise**, A Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Variable Mobility, Int. J. Numer. Anal. Model. 19 (2022) 839--863. (pdf: [IJNAM](https://www.math.ualberta.ca/ijnam/Volume-19-2022/No-6-22/2022-06-06.pdf))
 
 0. C. Wang and **S.M. Wise**, A Thermodynamically-Consistent Phase Field Crystal Model of Solidification with Heat Flux, J. Math. Study 55 (2022) 1--21. (doi: [10.4208/jms.v55n4.22.01](https://doi.org/10.4208/jms.v55n4.22.01))
 
@@ -111,7 +111,7 @@ The complete publication record follows.
 
 0. M. Yuan, W. Chen, C. Wang, **S.M. Wise**, and Z. Zhang, A Second Order Accurate in Time, Energy Stable Finite Element Scheme for the Flory-Huggins-Cahn-Hilliard Equation, Adv. Appl. Math. Mech. 14 (2022) 1477--1508. (doi: [10.4208/aamm.OA-2021-0331](https://doi.org/10.4208/aamm.OA-2021-0331))
 
-0. E. Habbershaw and **S.M. Wise**, A Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, The University of Tennessee, Mathematics Report Number 10 (2022) (81 pages). (Trace: [Math Faculty Report 10](https://trace.tennessee.edu/utk_mathpubs/10/))
+0. E. Habbershaw and **S.M. Wise**, A Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE Report, The University of Tennessee (2022) (81 pages). (Trace: [Permanent record](https://trace.tennessee.edu/handle/20.500.14382/48806))
 
 0. L. Dong, C. Wang, **S.M. Wise**, and Z. Zhang, Optimal Rate Convergence Analysis of a Numerical Scheme for the Ternary Cahn-Hilliard System with a Flory-Huggins-deGennes Energy Potential, J. Comp. Appl. Math. 415 (2022) 114474 (18 pages). (doi: [10.1016/j.cam.2022.114474](https://doi.org/10.1016/j.cam.2022.114474))
 
@@ -119,7 +119,7 @@ The complete publication record follows.
 
 0. C. Liu, C. Wang, Y. Wang, and **S.M. Wise**, Convergence Analysis of the Variational Operator Splitting Scheme for a Reaction-Diffusion System with Detailed Balance, SIAM J. Numer. Anal. 60 (2022) 781--803. (doi: [10.1137/21M1421283](https://doi.org/10.1137/21M1421283))
 
-0. C. Liu, C. Wang, **S.M. Wise**, X. Yue, and S. Zhou, An Iterative Solver for the Poisson-Nernst-Planck System and its Convergence Analysis, J. Comput. Appl. Math 406 (2022) 114017 (13 pages). (doi: [10.1016/j.cam.2021.114017](https://doi.org/10.1016/j.cam.2021.114017))
+0. C. Liu, C. Wang, **S.M. Wise**, X. Yue, and S. Zhou, An Iterative Solver for the Poisson-Nernst-Planck System and its Convergence Analysis, J. Comput. Appl. Math. 406 (2022) 114017 (13 pages). (doi: [10.1016/j.cam.2021.114017](https://doi.org/10.1016/j.cam.2021.114017))
 
 0. W. Chen, J. Jing, C. Wang, X. Wang and **S.M. Wise**, A Modified Crank-Nicolson Numerical Scheme for the Flory-Huggins Cahn-Hilliard Model, Commun. Comput. Phys. 31 (2022) 60--93. (doi: [10.4208/cicp.OA-2021-0074](https://doi.org/10.4208/cicp.OA-2021-0074))
 {: reversed="reversed"}
@@ -136,15 +136,15 @@ The complete publication record follows.
 
 0. J. Zhang, C. Wang, **S.M. Wise**, and Z. Zhang, Structure-preserving, Energy Stable Numerical Schemes for a Liquid Thin Film Coarsening Model, SIAM J. Sci. Comput. 42 (2021) A1248--A1272. (doi: [10.1137/20M1375656](https://doi.org/10.1137/20M1375656))
 
-0. M. Yuan, W. Chen, C. Wang, **S.M. Wise**, and Z. Zhang, An Energy Stable Finite Element Scheme for the Three-Component Cahn-Hilliard-Type Model for Macromolecular Microsphere Composite Hydrogels, J. Sci. Comp. 87 (2021) 78.(doi: [10.1007/s10915-021-01508-w](https://doi.org/10.1007/s10915-021-01508-w))
+0. M. Yuan, W. Chen, C. Wang, **S.M. Wise**, and Z. Zhang, An Energy Stable Finite Element Scheme for the Three-Component Cahn-Hilliard-Type Model for Macromolecular Microsphere Composite Hydrogels, J. Sci. Comput. 87 (2021) 78. (doi: [10.1007/s10915-021-01508-w](https://doi.org/10.1007/s10915-021-01508-w))
 
 0. M. Salvalaglio, M. Selch, A. Voigt, and **S.M. Wise**, Doubly Degenerate Diffuse Interface Models of Anisotropic Surface Diffusion, Math. Methods Appl. Sci. 44 (2021) 5406--5417. (doi: [10.1002/mma.7118](https://doi.org/10.1002/mma.7118))
 
 0. M. Salvalaglio, A. Voigt, and **S.M. Wise**, Doubly Degenerate Diffuse Interface Models of Surface Diffusion, Math. Methods Appl. Sci. 44 (2021) 5385--5405. (doi: [10.1002/mma.7116](https://doi.org/10.1002/mma.7116))
 
-0. J. Guo, C. Wang, **S.M. Wise** and X. Yue, An Improved Error Analysis for a Second-Order Numerical Scheme for the Cahn-Hilliard Equation, J. Comput. Appl. Math. 388 (2021). 113300. (doi: [10.1016/j.cam.2020.113300](https://doi.org/10.1016/j.cam.2020.113300))
+0. J. Guo, C. Wang, **S.M. Wise**, and X. Yue, An Improved Error Analysis for a Second-Order Numerical Scheme for the Cahn-Hilliard Equation, J. Comput. Appl. Math. 388 (2021) 113300. (doi: [10.1016/j.cam.2020.113300](https://doi.org/10.1016/j.cam.2020.113300))
 
-0. Z. Guo, F. Yu,  P. Lin, **S.M. Wise**, and J.S. Lowengrub, A Diffuse Domain Method for Two Phase Flows with Large Density Ratio in Complex Geometries, J. Fluid Mech. 907 (2021) A38. (doi: [10.1017/jfm.2020.790](https://doi.org/10.1017/jfm.2020.790))
+0. Z. Guo, F. Yu, P. Lin, **S.M. Wise**, and J.S. Lowengrub, A Diffuse Domain Method for Two Phase Flows with Large Density Ratio in Complex Geometries, J. Fluid Mech. 907 (2021) A38. (doi: [10.1017/jfm.2020.790](https://doi.org/10.1017/jfm.2020.790))
 {: reversed="reversed"}
 
 ### 2020
@@ -172,18 +172,18 @@ The complete publication record follows.
 
 0. W. Chen, W. Feng, Y. Liu, C. Wang, and **S.M. Wise**, A Second Order Energy Stable Scheme for the Cahn-Hilliard-Hele-Shaw Equations, Discrete Cont. Dyn. Syst. Ser. B 24 (2019) 149--182. (doi: [10.3934/dcdsb.2018090](https://doi.org/10.3934/dcdsb.2018090))
 
-0. R. Backofen, **S.M. Wise**, M. Salvalaglio, and A. Voigt, Convexity Splitting in a Phase Field Model for Surface Diffusion, Int. J. Numer. Anal. Model. 16 (2019) 192--209. (pdf: [IJNAM](http://www.math.ualberta.ca/ijnam/Volume-16-2019/No-2-19/2019-02-02.pdf))
+0. R. Backofen, **S.M. Wise**, M. Salvalaglio, and A. Voigt, Convexity Splitting in a Phase Field Model for Surface Diffusion, Int. J. Numer. Anal. Model. 16 (2019) 192--209. (pdf: [IJNAM](https://www.math.ualberta.ca/ijnam/Volume-16-2019/No-2-19/2019-02-02.pdf))
 {: reversed="reversed"}
 
 ### 2018
 
-0. W. Feng, C. Wang, **S.M. Wise**,  Z. Zhang, A Second-Order Energy Stable Backward Differentiation Formula Method for the Epitaxial Thin Film Equation with Slope Selection, Numer. Methods Partial Differ. Eq. 34 (2018) 1975--2007. (doi: [10.1002/num.22271](https://doi.org/10.1002/num.22271))
+0. W. Feng, C. Wang, **S.M. Wise**, Z. Zhang, A Second-Order Energy Stable Backward Differentiation Formula Method for the Epitaxial Thin Film Equation with Slope Selection, Numer. Methods Partial Differ. Eq. 34 (2018) 1975--2007. (doi: [10.1002/num.22271](https://doi.org/10.1002/num.22271))
 
 0. W. Feng, Z. Guan, J.S. Lowengrub, C. Wang, **S.M. Wise**, and Y. Chen, An Energy Stable Finite-Difference Scheme for the Functionalized Cahn-Hilliard Equation and its Convergence Analysis, J. Sci. Comput. 76 (2018) 1938--1967. (doi: [10.1007/s10915-018-0690-1](https://doi.org/10.1007/s10915-018-0690-1))
 
 0. Y. Chen, J.S. Lowengrub, J. Shen, C. Wang, and **S.M. Wise**, Efficient Energy Stable Schemes for Isotropic and Strongly Anisotropic Cahn-Hilliard Systems with the Willmore Regularization, J. Comput. Phys. 365 (2018) 56--73. (doi: [10.1016/j.jcp.2018.03.024](https://doi.org/10.1016/j.jcp.2018.03.024))
 
-0. L.G. Rebholz, **S.M. Wise**, and M. Xiao,  Penalty-Projection Schemes for the Cahn-Hilliard Navier-Stokes Diffuse Interface Model of Two Phase Flow, and their Connection to Divergence-Free Coupled Schemes, Int. J. Numer. Anal. Model. 15 (2018) 649--676. (pdf: [IJNAM](http://www.math.ualberta.ca/ijnam/Volume-15-2018/No-4-18/2018-45-11.pdf))
+0. L.G. Rebholz, **S.M. Wise**, and M. Xiao, Penalty-Projection Schemes for the Cahn-Hilliard Navier-Stokes Diffuse Interface Model of Two Phase Flow, and their Connection to Divergence-Free Coupled Schemes, Int. J. Numer. Anal. Model. 15 (2018) 649--676. (pdf: [IJNAM](https://www.math.ualberta.ca/ijnam/Volume-15-2018/No-4-18/2018-45-11.pdf))
 
 0. J. Cummings, J.S. Lowengrub, B.G. Sumpter, **S.M. Wise**, and R. Kumar, Modeling Solvent Evaporation During Thin Film Formation in Phase Separating Polymer Mixtures, Soft Matter 14 (2018) 1833--1846. (doi: [10.1039/c7sm02560b](https://doi.org/10.1039/c7sm02560b))
 
@@ -200,7 +200,7 @@ The complete publication record follows.
 
 0. Z. Guo, P. Lin, J.S. Lowengrub, and **S.M. Wise**, Mass Conservative and Energy Stable Finite Difference Methods for the Quasi-Incompressible Navier-Stokes-Cahn-Hilliard System: Primitive Variable and Projection-Type Schemes, Comput. Methods Appl. Mech. Engrg. 326 (2017) 144--174. (doi: [10.1016/j.cma.2017.08.011](https://doi.org/10.1016/j.cma.2017.08.011))
 
-0. Z. Qiao, C. Wang, **S.M. Wise**, and Z. Zhang, Error Analysis of an Energy Stable Finite Difference Scheme for the Epitaxial Thin Film Model with Slope Selection with an Improved Convergence Constant, Int. J. Numer. Anal. Model. 14 (2017) 283--305. (pdf: [IJNAM](http://www.math.ualberta.ca/ijnam/Volume-14-2017/No-2-17/2017-02-07.pdf))
+0. Z. Qiao, C. Wang, **S.M. Wise**, and Z. Zhang, Error Analysis of an Energy Stable Finite Difference Scheme for the Epitaxial Thin Film Model with Slope Selection with an Improved Convergence Constant, Int. J. Numer. Anal. Model. 14 (2017) 283--305. (pdf: [IJNAM](https://www.math.ualberta.ca/ijnam/Volume-14-2017/No-2-17/2017-02-07.pdf))
 
 0. Y. Liu, W. Chen, C. Wang, and **S.M. Wise**, Error Analysis of a Mixed Finite Element Method for a Cahn-Hilliard-Hele-Shaw System, Numer. Math. 135 (2017) 679--709. (doi: [10.1007/s00211-016-0813-2](https://doi.org/10.1007/s00211-016-0813-2))
 
@@ -300,7 +300,7 @@ The complete publication record follows.
 
 0. **S.M. Wise**, C. Wang, and J.S. Lowengrub, An Energy Stable and Convergent Finite Difference Scheme for the Phase Field Crystal Equation, SIAM J. Numer. Anal. 47 (2009) 2269--2288. (doi: [10.1137/080738143](https://doi.org/10.1137/080738143))
 
-0. J.S. Lowengrub, V. Cristini, H.B. Frieboes, X. Li, P. Macklin, S. Sanga, **S.M. Wise**, and X. Zheng, Lecture Notes on Nonlinear Tumor Growth: Modeling and Simulation, in  B.C. Khoo, Z. Li, and P. Lin (Editors) **Interface Problems and Methods in Biological and Physical Flows**, World Scientific (2009) 69--133. (doi: [10.1142/9789812837851_0002](https://doi.org/10.1142/9789812837851_0002))
+0. J.S. Lowengrub, V. Cristini, H.B. Frieboes, X. Li, P. Macklin, S. Sanga, **S.M. Wise**, and X. Zheng, Lecture Notes on Nonlinear Tumor Growth: Modeling and Simulation, in B.C. Khoo, Z. Li, and P. Lin (Editors) **Interface Problems and Methods in Biological and Physical Flows**, World Scientific (2009) 69--133. (doi: [10.1142/9789812837851_0002](https://doi.org/10.1142/9789812837851_0002))
 
 0. E.L. Bearer, J.S. Lowengrub, H.B. Frieboes, Y.L. Chuang, F. Jin, **S.M. Wise**, M. Ferrari, D.B. Agus, and V. Cristini, Multiparameter Computational Modeling of Tumor Invasion, Cancer Res. 69 (2009) 4493--4501. (doi: [10.1158/0008-5472.CAN-08-3834](https://doi.org/10.1158/0008-5472.CAN-08-3834))
 
@@ -315,7 +315,7 @@ The complete publication record follows.
 
 0. S. Torabi, **S.M. Wise**, S. Li, A. Voigt, J.S. Lowengrub, and P. Zhou, Simulations of Nonlinear Strongly Anisotropic, Misfitting Crystals and Thin Films, MRS Proceedings 1087 (2008) 1087-V02-01. (doi: [10.1557/PROC-1087-V02-01](https://doi.org/10.1557/PROC-1087-V02-01))
 
-0. V. Cristini, H.B. Frieboes, X. Li, J.S. Lowengrub, P. Macklin, S. Sanga, **S.M. Wise**, and X. Zheng, Nonlinear Modeling and Simulation of Tumor Growth, in N. Bellomo, M. Chaplain, and E. De Angelis (Editors), **Selected Topics in Cancer Modeling: Genesis, Evolution, Immune Competition, and Therapy**,  Birkhauser (2008) 1--69. (doi: [10.1007/978-0-8176-4713-1_6](https://doi.org/10.1007/978-0-8176-4713-1_6))
+0. V. Cristini, H.B. Frieboes, X. Li, J.S. Lowengrub, P. Macklin, S. Sanga, **S.M. Wise**, and X. Zheng, Nonlinear Modeling and Simulation of Tumor Growth, in N. Bellomo, M. Chaplain, and E. De Angelis (Editors), **Selected Topics in Cancer Modeling: Genesis, Evolution, Immune Competition, and Therapy**, Birkhauser (2008) 1--69. (doi: [10.1007/978-0-8176-4713-1_6](https://doi.org/10.1007/978-0-8176-4713-1_6))
 
 0. Z. Hu, S. Li, J.S. Lowengrub, **S.M. Wise**, and A. Voigt, Phase Field Modeling of Nanoscale Island Dynamics, TMS 2008 (137th annual meeting) Supplemental Proceedings: Materials Processing and Properties (2008) 111--116.
 {: reversed="reversed"}
@@ -326,7 +326,7 @@ The complete publication record follows.
 
 0. **S.M. Wise**, J.S. Kim, and J.S. Lowengrub, Solving the Regularized, Strongly Anisotropic Cahn-Hilliard Equation by an Adaptive Nonlinear Multigrid Method, J. Comput. Phys. 226 (2007) 414--446. (doi: [10.1016/j.jcp.2007.04.020](https://doi.org/10.1016/j.jcp.2007.04.020))
 
-0. H.B. Frieboes, J.S. Lowengrub, **S.M. Wise**, X. Zheng, P. Macklin, E.L. Bearer, and V. Cristini, Computer Simulation of Glioma Growth and Morphology, NeuroImage  37 (2007) S59--S70. (doi: [10.1016/j.neuroimage.2007.03.008](https://doi.org/10.1016/j.neuroimage.2007.03.008))
+0. H.B. Frieboes, J.S. Lowengrub, **S.M. Wise**, X. Zheng, P. Macklin, E.L. Bearer, and V. Cristini, Computer Simulation of Glioma Growth and Morphology, NeuroImage 37 (2007) S59--S70. (doi: [10.1016/j.neuroimage.2007.03.008](https://doi.org/10.1016/j.neuroimage.2007.03.008))
 {: reversed="reversed"}
 
 ### 1996 -- 2006
@@ -357,9 +357,5 @@ The complete publication record follows.
 
 0. D. Schaal and **S.M. Wise**, Rado Numbers for Some Inequalities and an Arbitrary Number of Colors, Congr. Numer. 121 (1996), 147--153.
 {: reversed="reversed"}
-
-
-
-
 
 

@@ -11,6 +11,7 @@ published: true
 
 ### The University of Tennessee, Department of Mathematics
 - **Professor**, 2017--present
+- **Associate Head and Director of Graduate Studies**, April 2025--present
 - **Associate Professor**, 2012--2017
 - **Assistant Professor**, 2007--2012
 
@@ -35,4 +36,3 @@ published: true
 ### BS, Mathematics, 1996, Clarion University
 
 [Download the complete CV (PDF)]({{ '/files/CV/vitae.pdf' | relative_url }}).
-
