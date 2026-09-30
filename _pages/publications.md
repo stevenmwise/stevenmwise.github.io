@@ -9,6 +9,7 @@ published: true
 
 ## Selected Recent Publications
 
+- E. Habbershaw, J. Haight, and **S.M. Wise**, “Year-Five Progress Report on Numerical Methods for BGK-Type Kinetic Equations,” *TRACE: Faculty Publications and Other Works, Mathematics*, The University of Tennessee (2026), 373 pages. [TRACE record](https://trace.tennessee.edu/handle/20.500.14382/62338)
 - Z. Zhang, S. Li, J.S. Lowengrub, and **S.M. Wise**, “An Efficient Constant-Coefficient MSAV Scheme for Computing Vesicle Growth and Shrinkage,” *Communications in Computational Physics* (online first, 2026). [doi:10.4208/cicp.OA-2026-0008](https://doi.org/10.4208/cicp.OA-2026-0008)
 - J. Meng, S. Tang, **S.M. Wise**, and Z. Guo, “A GPU-Accelerated Matrix-Free FAS Multigrid Solver for Navier-Stokes Equations with Memory-Efficient Implementations,” *Computer Physics Communications* 327 (2026), 110274. [doi:10.1016/j.cpc.2026.110274](https://doi.org/10.1016/j.cpc.2026.110274)
 - S. Tang, **S.M. Wise**, J.S. Lowengrub, and Z. Guo, “Membrane Heterogeneity Driven Dynamics of Multicomponent Vesicles in Shear Flow,” *Journal of Fluid Mechanics* 1030 (2026), A47. [doi:10.1017/jfm.2026.11276](https://doi.org/10.1017/jfm.2026.11276)
@@ -39,6 +40,8 @@ The complete publication record follows.
 {: reversed="reversed"}
 
 ### 2026
+
+0. E. Habbershaw, J. Haight, and **S.M. Wise**, Year-Five Progress Report on Numerical Methods for BGK-Type Kinetic Equations, TRACE: Faculty Publications and Other Works, Mathematics, The University of Tennessee (2026) (373 pages). (Trace: [Permanent record](https://trace.tennessee.edu/handle/20.500.14382/62338))
 
 0. Z. Zhang, S. Li, J.S. Lowengrub, and **S.M. Wise**, An Efficient Constant-Coefficient MSAV Scheme for Computing Vesicle Growth and Shrinkage, Commun. Comput. Phys. (online first, 2026). (doi: [10.4208/cicp.OA-2026-0008](https://doi.org/10.4208/cicp.OA-2026-0008))
 
@@ -354,7 +357,6 @@ The complete publication record follows.
 
 0. D. Schaal and **S.M. Wise**, Rado Numbers for Some Inequalities and an Arbitrary Number of Colors, Congr. Numer. 121 (1996), 147--153.
 {: reversed="reversed"}
-
 
 
 
