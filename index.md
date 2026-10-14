@@ -26,12 +26,6 @@ published: true
     </div>
     <div class="orbit orbit-one" aria-hidden="true"></div>
     <div class="orbit orbit-two" aria-hidden="true"></div>
-    <div class="formula-card" aria-hidden="true">
-      <span>∂<sub>t</sub>u</span>
-      <span>=</span>
-      <span>∇ · M∇μ</span>
-    </div>
-    <div class="location-card"><span aria-hidden="true">●</span> Knoxville, Tennessee</div>
   </div>
 </section>
 
@@ -81,7 +75,7 @@ published: true
   <div class="book-showcase">
     <a class="book-feature book-feature-dark" href="{{ '/MGBook/' | relative_url }}">
       <div class="book-art">
-        <img src="{{ '/files/multigrid-methods-cover.png' | relative_url }}" alt="Cover of Multigrid Methods" width="536" height="720" loading="lazy" decoding="async">
+        <img src="{{ '/files/multigrid-methods-full-front.webp' | relative_url }}" alt="Full front cover of Multigrid Methods, including the red and blue binding" width="847" height="1200" loading="lazy" decoding="async">
       </div>
       <div class="book-copy">
         <span class="book-meta">De Gruyter · 2026</span>
@@ -109,7 +103,7 @@ published: true
   <div>
     <p class="eyebrow"><span></span> Open lectures</p>
     <h2>Mathematical ideas, made accessible.</h2>
-    <p>Complete courses in asymptotic analysis, multigrid methods, finite element methods, and non-equilibrium thermodynamics are available on WiseAppliedMaths.</p>
+    <p>Complete courses in continuum mechanics, asymptotic analysis, multigrid methods, finite element methods, and non-equilibrium thermodynamics are available on WiseAppliedMaths.</p>
   </div>
   <a class="button button-light" href="https://www.youtube.com/@WiseAppliedMaths">Visit YouTube <span aria-hidden="true">↗</span></a>
 </section>

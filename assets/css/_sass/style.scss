@@ -95,10 +95,6 @@ h4 { margin: 1.6rem 0 .4rem; font-size: 1.05rem; letter-spacing: -.015em; }
 .orbit { position: absolute; z-index: 1; border: 1px solid rgba($orange,.42); border-radius: 50%; }
 .orbit-one { width: 410px; height: 230px; left: 50%; top: 135px; transform: translateX(-50%) rotate(-18deg); }
 .orbit-two { width: 340px; height: 470px; left: 50%; top: 8px; transform: translateX(-50%) rotate(24deg); }
-.formula-card, .location-card { position: absolute; z-index: 5; border: 1px solid rgba(255,255,255,.75); background: rgba(255,255,255,.88); backdrop-filter: blur(12px); box-shadow: 0 16px 35px rgba(27,31,54,.12); }
-.formula-card { top: 75px; left: -10px; display: flex; align-items: center; gap: .45rem; padding: .8rem 1rem; border-radius: 13px; color: $indigo-dark; font-family: Georgia, serif; font-weight: 700; }
-.location-card { right: -8px; bottom: 60px; padding: .65rem .8rem; border-radius: 10px; color: #41495a; font-size: .7rem; font-weight: 650; }
-.location-card span { margin-right: .35rem; color: $orange; }
 
 .home-section { padding: 5.5rem 0; border-top: 1px solid rgba(17,24,39,.09); }
 .section-heading { display: grid; grid-template-columns: 1.1fr .9fr; gap: 4rem; align-items: end; margin-bottom: 2.2rem; }
@@ -124,7 +120,7 @@ h4 { margin: 1.6rem 0 .4rem; font-size: 1.05rem; letter-spacing: -.015em; }
 .book-feature-dark h3 { color: white; }
 .book-feature-light { color: $ink; border: 1px solid #f0d8bd; background: #fff2e4; }
 .book-art { display: grid; place-items: center; height: auto; overflow: hidden; border-radius: 4px 10px 10px 4px; background: white; box-shadow: 10px 16px 30px rgba(0,0,0,.24); }
-.book-feature-dark .book-art { width: 141px; aspect-ratio: 536 / 720; }
+.book-feature-dark .book-art { width: 141px; aspect-ratio: 847 / 1200; }
 .book-feature-light .book-art { width: 126px; aspect-ratio: 478 / 720; }
 .book-art img { display: block; width: 100%; height: 100%; object-fit: contain; }
 .book-meta { display: block; margin-bottom: .65rem; color: $brand-color; font-size: .65rem; font-weight: 800; text-transform: uppercase; letter-spacing: .08em; }
@@ -133,11 +129,15 @@ h4 { margin: 1.6rem 0 .4rem; font-size: 1.05rem; letter-spacing: -.015em; }
 .book-feature p { color: #aeb4c3; font-size: .82rem; line-height: 1.6; }
 .book-feature-light p { color: #5d6376; }
 
+.book-page-cover-link { float: right; width: 31%; max-width: 220px; margin: .35rem 0 1.8rem 2.4rem; border-radius: 5px 12px 12px 5px; }
 .book-page-cover {
-  float: right; width: 31%; max-width: 220px; margin: .35rem 0 1.8rem 2.4rem; overflow: hidden;
+  width: 100%; margin: 0; overflow: hidden;
   border-radius: 5px 12px 12px 5px; background: white; box-shadow: 12px 20px 38px rgba(17,24,39,.2);
 }
 .book-page-cover img { width: 100%; height: auto; }
+.book-page-cover-link:hover .book-page-cover { transform: translateY(-3px); box-shadow: 15px 24px 44px rgba(17,24,39,.24); }
+.book-page-cover-link:focus-visible { outline: 3px solid $orange; outline-offset: 5px; border-radius: 8px; }
+.current-course-badge { display: inline-block; margin-left: .45rem; padding: .22rem .48rem; border-radius: 999px; vertical-align: middle; color: $ink; background: $orange; font-family: "Lato", sans-serif; font-size: .55rem; font-weight: 800; text-transform: uppercase; letter-spacing: .07em; }
 
 .teaching-callout { display: grid; grid-template-columns: 80px 1fr auto; gap: 2rem; align-items: center; margin: 4rem 0; padding: 2.4rem; border: 0; border-radius: 22px; color: white; background: linear-gradient(125deg, #2d2d2d, #4b4b4b 72%, #5d5d5d); box-shadow: 0 25px 55px rgba(45,45,45,.2); }
 .teaching-callout h2 { margin: 0 0 .6rem; color: white; }
@@ -212,8 +212,6 @@ pre > code { border: 0; }
   .hero-meta { justify-content: space-between; gap: .6rem; }
   .hero-meta span { max-width: 80px; }
   .hero-visual { min-height: 400px; transform: scale(.88); transform-origin: top center; margin-bottom: -45px; }
-  .formula-card { left: 0; }
-  .location-card { right: 0; }
   .home-section { padding: 4rem 0; }
   .section-heading, .background-section { grid-template-columns: 1fr; gap: 1rem; }
   .focus-grid, .book-showcase { grid-template-columns: 1fr; }
@@ -224,7 +222,7 @@ pre > code { border: 0; }
   .teaching-callout .button { grid-column: 1; }
   .callout-symbol { width: 52px; height: 52px; }
   .inner-page .page-content { padding: 1.35rem; border-radius: 16px; }
-  .book-page-cover { float: none; width: 58%; max-width: 190px; margin: 1.4rem auto 2.2rem; }
+  .book-page-cover-link { float: none; display: block; width: 58%; max-width: 190px; margin: 1.4rem auto 2.2rem; }
   .footer-intro { align-items: flex-start; flex-direction: column; }
 }
 
