@@ -7,11 +7,11 @@ published: true
 
 # Multigrid Methods
 
-<a class="book-page-cover-link" href="https://doi.org/10.1515/9783111354880" aria-label="View Multigrid Methods at De Gruyter">
-  <figure class="book-page-cover">
+<figure class="book-page-cover">
+  <a class="book-page-cover-link" href="https://doi.org/10.1515/9783111354880" aria-label="View Multigrid Methods at De Gruyter">
     <img src="{{ '/files/multigrid-methods-full-front.webp' | relative_url }}" alt="Full front cover of Multigrid Methods, including the red and blue binding" width="847" height="1200" decoding="async">
-  </figure>
-</a>
+  </a>
+</figure>
 
 ## Synopsis
 

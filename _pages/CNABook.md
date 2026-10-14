@@ -7,11 +7,11 @@ published: true
 
 # Classical Numerical Analysis
 
-<a class="book-page-cover-link" href="https://doi.org/10.1017/9781108942607" aria-label="View Classical Numerical Analysis at Cambridge University Press">
-  <figure class="book-page-cover">
+<figure class="book-page-cover">
+  <a class="book-page-cover-link" href="https://doi.org/10.1017/9781108942607" aria-label="View Classical Numerical Analysis at Cambridge University Press">
     <img src="{{ '/files/classical-numerical-analysis-cover.png' | relative_url }}" alt="Cover of Classical Numerical Analysis" width="478" height="720" decoding="async">
-  </figure>
-</a>
+  </a>
+</figure>
 
 ## Synopsis
 

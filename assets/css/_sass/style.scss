@@ -129,13 +129,13 @@ h4 { margin: 1.6rem 0 .4rem; font-size: 1.05rem; letter-spacing: -.015em; }
 .book-feature p { color: #aeb4c3; font-size: .82rem; line-height: 1.6; }
 .book-feature-light p { color: #5d6376; }
 
-.book-page-cover-link { float: right; width: 31%; max-width: 220px; margin: .35rem 0 1.8rem 2.4rem; border-radius: 5px 12px 12px 5px; }
 .book-page-cover {
-  width: 100%; margin: 0; overflow: hidden;
+  float: right; width: 31%; max-width: 220px; margin: .35rem 0 1.8rem 2.4rem; overflow: hidden;
   border-radius: 5px 12px 12px 5px; background: white; box-shadow: 12px 20px 38px rgba(17,24,39,.2);
 }
+.book-page-cover-link { display: block; border-radius: inherit; }
 .book-page-cover img { width: 100%; height: auto; }
-.book-page-cover-link:hover .book-page-cover { transform: translateY(-3px); box-shadow: 15px 24px 44px rgba(17,24,39,.24); }
+.book-page-cover:hover { transform: translateY(-3px); box-shadow: 15px 24px 44px rgba(17,24,39,.24); }
 .book-page-cover-link:focus-visible { outline: 3px solid $orange; outline-offset: 5px; border-radius: 8px; }
 .current-course-badge { display: inline-block; margin-left: .45rem; padding: .22rem .48rem; border-radius: 999px; vertical-align: middle; color: $ink; background: $orange; font-family: "Lato", sans-serif; font-size: .55rem; font-weight: 800; text-transform: uppercase; letter-spacing: .07em; }
 
@@ -222,7 +222,7 @@ pre > code { border: 0; }
   .teaching-callout .button { grid-column: 1; }
   .callout-symbol { width: 52px; height: 52px; }
   .inner-page .page-content { padding: 1.35rem; border-radius: 16px; }
-  .book-page-cover-link { float: none; display: block; width: 58%; max-width: 190px; margin: 1.4rem auto 2.2rem; }
+  .book-page-cover { float: none; width: 58%; max-width: 190px; margin: 1.4rem auto 2.2rem; }
   .footer-intro { align-items: flex-start; flex-direction: column; }
 }
 
