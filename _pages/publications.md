@@ -37,6 +37,8 @@ The complete publication record follows.
 0. J.H. Park, A.J. Salgado, and **S.M. Wise**, A Perturbed Preconditioned Gradient Descent Method for the Unconstrained Minimization of Composite Objectives, (in review). (doi: [10.48550/arXiv.2512.19532](https://doi.org/10.48550/arXiv.2512.19532))
 
 0. T. Luong, T. Mengesha, K. Stinson, **S.M. Wise**, and M.H. Wong, The alpha-Limit Problem: Convergence of a Linear Degenerate Interface Transmission Problem, submitted to SIAM J. Appl. Math. (in review). (doi: [10.48550/arXiv.2609.01237](https://doi.org/10.48550/arXiv.2609.01237))
+
+0. C. Beckford, R. Kumar, and **S.M. Wise**, A Thermodynamically Consistent Model of a Rechargeable Salt-in-Polyelectrolyte Battery, submitted to *The Journal of Chemical Physics* (2026). [arXiv:2611.34415](https://arxiv.org/abs/2611.34415)
 {: reversed="reversed"}
 
 ### 2026
